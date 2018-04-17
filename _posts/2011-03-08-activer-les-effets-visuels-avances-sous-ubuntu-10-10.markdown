@@ -46,7 +46,12 @@ comments:
   content: Installe compizconfig-settings-manager. Bien plus qu'un "réglage
     de l'intensité" !
 ---
-<p>Vous qui êtes un geek et qui avez une machine sous Ubuntu, j'ai quelque chose qui pourrait vous plaire. Gnome est, dans la version 10.10 (Marverick Merkaat), capable de produire des effets visuels assez marrants au redimensionnement des fenêtres, à leur déplacement...</p>
-<p>Pour activer ces effets, Allez dans le menu Système > Préférences > Apparence, et, dans l'onglet "Effets visuels", activez "Extra". Attention ! Il vous faudra pour cela une carte graphique assez puissante, sinon, ça n'en vaut pas la peine.</p>
-<p><a href="https://outadoc.fr/wp-content/uploads/2011/03/pref11.png"><img class="aligncenter size-full wp-image-376" title="pref" src="https://outadoc.fr/wp-content/uploads/2011/03/pref11.png" alt="" width="641" height="551" /></a></p>
-<p>Je ne peux pas vous faire de capture des effets (trop rapide), mais c'est assez sympa, vous allez voir. La fenêtre se déforme quand vous la déplacez ou l'agrandissez. À noter que si votre ordinateur rame beaucoup avec la configuration de base, choisissez "Aucun" à la place de "Extra" ou "Normal".</p>
+Vous qui êtes un geek et qui avez une machine sous Ubuntu, j'ai quelque chose qui pourrait vous plaire. Gnome est, dans la version 10.10 (Marverick Merkaat), capable de produire des effets visuels assez marrants au redimensionnement des fenêtres, à leur déplacement...
+
+Pour activer ces effets, Allez dans le menu Système > Préférences > Apparence, et, dans l'onglet "Effets visuels", activez "Extra". Attention ! Il vous faudra pour cela une carte graphique assez puissante, sinon, ça n'en vaut pas la peine.
+
+[![](https://outadoc.fr/wp-content/uploads/2011/03/pref11.png "pref")][1]
+
+Je ne peux pas vous faire de capture des effets (trop rapide), mais c'est assez sympa, vous allez voir. La fenêtre se déforme quand vous la déplacez ou l'agrandissez. À noter que si votre ordinateur rame beaucoup avec la configuration de base, choisissez "Aucun" à la place de "Extra" ou "Normal".
+
+[1]: https://outadoc.fr/wp-content/uploads/2011/03/pref11.png

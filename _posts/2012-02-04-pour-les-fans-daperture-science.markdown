@@ -40,5 +40,6 @@ comments:
     passer de ce que j’ai découvert sur le site de Outadoc.
     [...]"
 ---
-<p>Juste une petite vidéo que j'adore, en attendant un article plus intéressant ! :)</p>
-<p><iframe src="http://www.youtube.com/embed/JZIVmKOdrBk" frameborder="0" width="620" height="360"></iframe></p>
+Juste une petite vidéo que j'adore, en attendant un article plus intéressant ! :)
+
+<iframe src="http://www.youtube.com/embed/JZIVmKOdrBk" frameborder="0" width="620" height="360"></iframe>

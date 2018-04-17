@@ -64,17 +64,34 @@ comments:
     ! \r\n\r\nEnrique de <a href=\"http://www.logiciel-officiel.fr/minecraft.php\"
     rel=\"nofollow\"> Logiciel Officiel - Minecraft Gratuit </a>"
 ---
-<p style="text-align: left;"> </p>
-<p style="text-align: left;">Minecraft est un jeu vidéo pour PC assez spécial. Il est en 3D, mais... Comment dire... C'est un mélange entre un jeu actuel et Super Marios Bros. 1.<br />
-<a href="https://outadoc.fr/wp-content/uploads/2011/02/20110218-1132051.jpg"></a></p>
-<p style="text-align: center;"><a href="http://minecraft.net"><img class="size-full aligncenter" src="https://outadoc.fr/wp-content/uploads/2011/02/20110218-1132051.jpg" alt="" width="753" height="143" /></a></p>
-<p style="text-align: left;">C'est un jeu très addictif, sans objectif défini. Le but du jeu : vous amuser. Vous creusez pour récupérer des matériaux (sous la forme de gros cubes). Vous n'avez que vos mains pour creuser au départ. Mais plus vous creusez, plus vous pouvez créer d'objets, et plus vous créez d'objets, plus vous creusez... Tout ça en assemblant des blocs pour faire des constructions aussi folles que votre imagination le permettra.</p>
-<p style="text-align: left;"> </p>
-<p>[caption id="attachment_349" align="aligncenter" width="769" caption="De l'imagination, et hop, c'est parti !"]<a href="http://minecraft.outrant.be"><img class="size-full wp-image-349  " title="companion_cube" src="https://outadoc.fr/wp-content/uploads/2011/02/2011-02-02_22.34.501.png" alt="" width="769" height="432" /></a>[/caption]</p>
-<p>Vous pouvez jouer à Minecraft en solo ou en multijoueur. Si vous choisissez de jouer en multi, pourquoi ne pas venir faire un petit coucou sur <a href="minecraft.outrant.be">minecraft.outrant.be</a> ?.. ;)</p>
-<p>[caption id="attachment_350" align="aligncenter" width="769" caption="En multi, c'est sympa aussi !"]<a href="http://minecraft.outrant.be"><img class="size-full wp-image-350  " title="minecraft_multi" src="https://outadoc.fr/wp-content/uploads/2011/02/2011-01-31_16.03.591.png" alt="" width="769" height="432" /></a>[/caption]</p>
-<p>Et l'avantage du multijoueur, c'est que parfois on s'éclate vraiment bien.</p>
-<p>[caption id="attachment_351" align="aligncenter" width="769" caption="Screenshot tiré du serveur minefield.fr. ONK ONK"]<a href="http://minefield.fr"><img class="size-full wp-image-351  " title="minecraft_otarie" src="https://outadoc.fr/wp-content/uploads/2011/02/2011-02-16_16.02.491.png" alt="" width="769" height="432" /></a>[/caption]</p>
-<p>Minecraft est toujours en beta au moment où je rédige cet article. Il coûte 15€, mais il vous en coûtera 20€ si vous comptez l'acheter dans sa version finale; en sachant qu'en l'achetant maintenant, vous avez droit à toutes les futures mises à jour gratuitement, ça ne vaut peut-être pas le coup d'attendre... ;)</p>
-<p>Une version gratuite, très limitée en fonctionnalités est disponible sur <a href="http://minecraft.net">minecraft.net</a>, tout comme le jeu complet. Au passage, si vous cherchez des tutos pour débuter, ne cherchez plus : j'ai ce qu'il vous faut. Rendez-vous sur <a href="http://fantabobshow.com">fantabobshow.com</a>, et enjoy ! :D</p>
-<p><object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="640" height="390" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="allowFullScreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="src" value="http://www.youtube.com/v/fPZieQfOdfE?fs=1&hl=fr_FR&hd=1" /><param name="allowfullscreen" value="true" /><embed type="application/x-shockwave-flash" width="640" height="390" src="http://www.youtube.com/v/fPZieQfOdfE?fs=1&hl=fr_FR&hd=1" allowfullscreen="true" allowscriptaccess="always"></embed></object></p>
+Minecraft est un jeu vidéo pour PC assez spécial. Il est en 3D, mais... Comment dire... C'est un mélange entre un jeu actuel et Super Marios Bros. 1.  
+[][1]
+
+[![](https://outadoc.fr/wp-content/uploads/2011/02/20110218-1132051.jpg)][2]
+
+C'est un jeu très addictif, sans objectif défini. Le but du jeu : vous amuser. Vous creusez pour récupérer des matériaux (sous la forme de gros cubes). Vous n'avez que vos mains pour creuser au départ. Mais plus vous creusez, plus vous pouvez créer d'objets, et plus vous créez d'objets, plus vous creusez... Tout ça en assemblant des blocs pour faire des constructions aussi folles que votre imagination le permettra.
+
+[![](https://outadoc.fr/wp-content/uploads/2011/02/2011-02-02_22.34.501.png "De l'imagination, et hop, c'est parti !")][3]
+
+Vous pouvez jouer à Minecraft en solo ou en multijoueur. Si vous choisissez de jouer en multi, pourquoi ne pas venir faire un petit coucou sur [minecraft.outrant.be][4] ?.. ;)
+
+[![](https://outadoc.fr/wp-content/uploads/2011/02/2011-01-31_16.03.591.png "En multi, c'est sympa aussi !")][5]
+
+Et l'avantage du multijoueur, c'est que parfois on s'éclate vraiment bien.
+
+[![](https://outadoc.fr/wp-content/uploads/2011/02/2011-02-16_16.02.491.png "Screenshot tiré du serveur minefield.fr. ONK ONK")][6]
+
+Minecraft est toujours en beta au moment où je rédige cet article. Il coûte 15€, mais il vous en coûtera 20€ si vous comptez l'acheter dans sa version finale; en sachant qu'en l'achetant maintenant, vous avez droit à toutes les futures mises à jour gratuitement, ça ne vaut peut-être pas le coup d'attendre... ;)
+
+Une version gratuite, très limitée en fonctionnalités est disponible sur [minecraft.net][7], tout comme le jeu complet. Au passage, si vous cherchez des tutos pour débuter, ne cherchez plus : j'ai ce qu'il vous faut. Rendez-vous sur [fantabobshow.com][8], et enjoy ! :D
+
+<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="640" height="390" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="allowFullScreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="src" value="http://www.youtube.com/v/fPZieQfOdfE?fs=1&hl=fr_FR&hd=1" /><param name="allowfullscreen" value="true" /><embed type="application/x-shockwave-flash" width="640" height="390" src="http://www.youtube.com/v/fPZieQfOdfE?fs=1&hl=fr_FR&hd=1" allowfullscreen="true" allowscriptaccess="always"></embed></object>
+
+[1]: https://outadoc.fr/wp-content/uploads/2011/02/20110218-1132051.jpg
+[2]: http://minecraft.net
+[3]: http://minecraft.outrant.be
+[4]: minecraft.outrant.be
+[5]: http://minecraft.outrant.be
+[6]: http://minefield.fr
+[7]: http://minecraft.net
+[8]: http://fantabobshow.com

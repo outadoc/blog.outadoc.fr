@@ -32,11 +32,18 @@ comments:
   date_gmt: '2011-12-26 12:54:49 +0000'
   content: Mais c'est donc ça l'équivalent francophone d'xkcd!
 ---
-<p>Si vous êtes un geek (ou une geekette ? Oo) et que vous vous ennuyez souvent devant votre PC, j'ai de quoi vous occuper pendant un bon moment ! :D</p>
-<p><a href="https://outadoc.fr/wp-content/uploads/2011/07/neo_banniere1.png"><img class="aligncenter size-full wp-image-495" title="neo_banniere" src="https://outadoc.fr/wp-content/uploads/2011/07/neo_banniere1.png" alt="" width="485" height="100" /></a></p>
-<p>Hmm-la-bd est un site en français (créé par <a href="https://twitter.com/#!/Mogmi95">mogmi</a>) qui propose des strips marrants assez régulièrement. Il faut être un geek pour comprendre certains d'entre eux, mais pour ça je vous fais confiance ! :D</p>
-<p>Quelques strips pour vous allécher :</p>
-<p style="text-align: center;"><a href="http://hmm-la-bd.eu"><img class="aligncenter" title="hmm-la-bd-preuve" src="https://outadoc.fr/wp-content/uploads/2011/07/134-preuve.png" alt="" width="583" height="292" /></a></p>
-<h2 style="text-align: center;"><a href="http://hmm-la-bd.eu"><img class="aligncenter" title="hmm-la-bd-repartition" src="https://outadoc.fr/wp-content/uploads/2011/07/139-repartition.png" alt="" width="540" height="540" /></a><a href="http://hmm-la-bd.eu">Aller sur Hmm-la-bd.eu</a></h2>
-<p> </p>
-<p> </p>
+Si vous êtes un geek (ou une geekette ? Oo) et que vous vous ennuyez souvent devant votre PC, j'ai de quoi vous occuper pendant un bon moment ! :D
+
+[![](https://outadoc.fr/wp-content/uploads/2011/07/neo_banniere1.png "neo_banniere")][1]
+
+Hmm-la-bd est un site en français (créé par [mogmi][2]) qui propose des strips marrants assez régulièrement. Il faut être un geek pour comprendre certains d'entre eux, mais pour ça je vous fais confiance ! :D
+
+Quelques strips pour vous allécher :
+
+[![](https://outadoc.fr/wp-content/uploads/2011/07/134-preuve.png "hmm-la-bd-preuve")][3]
+
+## [![](https://outadoc.fr/wp-content/uploads/2011/07/139-repartition.png "hmm-la-bd-repartition")][3][Aller sur Hmm-la-bd.eu][3]
+
+[1]: https://outadoc.fr/wp-content/uploads/2011/07/neo_banniere1.png
+[2]: https://twitter.com/#!/Mogmi95
+[3]: http://hmm-la-bd.eu

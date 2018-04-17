@@ -38,6 +38,11 @@ comments:
   date_gmt: '2011-04-18 22:43:16 +0100'
   content: grou oO ça va tourner de par chez moi !
 ---
-<p>Parce que vous le valez bien.</p>
-<p style="text-align: center;"><object width="480" height="390"><param name="movie" value="http://www.youtube.com/v/QH2-TGUlwu4?fs=1&hl=fr_FR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/QH2-TGUlwu4?fs=1&hl=fr_FR" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="390"></embed></object></p>
-<p>(via <a href="http://twitter.com/#!/Serialk_/status/59001756750839808">@Serialk_</a>)</p>
+Parce que vous le valez bien.
+
+<object width="480" height="390"><param name="movie" value="http://www.youtube.com/v/QH2-TGUlwu4?fs=1&hl=fr_FR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/QH2-TGUlwu4?fs=1&hl=fr_FR" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="390"></embed></object>
+
+(via [@Serialk_][1])
+
+[1]: http://twitter.com/#!/Serialk_/status/59001756750839808
+

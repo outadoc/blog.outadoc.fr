@@ -49,17 +49,30 @@ comments:
     façon je dois attendre la mise à jour du Minecraft Coder Pack. Mais
     je promets de le mettre à jour le plus rapidement possible ;)
 ---
-<p>Comme vous le savez peut-être, je suis le développeur du (maintenant célèbre o/) <a href="http://forum.fantabobshow.com/index.php?threads/1-6-4-fantabobmod-le-mod-le-plus-show.23825/">mod FantaBobShow</a> pour <a href="http://outadoc.fr/2011/02/minecraft-3d-analogique/">Minecraft</a>. Un mod qui reprend les acteurs du <a href="http://fantabobshow.com">FantaBobShow</a> et les ajoute dans le jeu, notamment. Et qui reprend certaines de leurs répliques pour les ressortir ingame.</p>
-<p><a href="https://outadoc.fr/wp-content/uploads/2011/08/boblennon1.png"><img class="aligncenter size-full wp-image-715" title="boblennon" src="https://outadoc.fr/wp-content/uploads/2011/08/boblennon1.png" alt="" width="500" height="304" /></a></p>
-<p>Et nous y voilà, le point fâcheux du mod... Autant je me débrouille plutôt pas mal niveau code, autant télécharger des dizaines de fois les versions MP3 des vidéos YouTube afin d'y récupérer les quelques répliques intéressantes, c'est pas vraiment mon truc.</p>
-<p>C'est pourquoi je vous propose de m'aider à regrouper le plus possible de sons pour Fanta, Bob Lennon et Jean-Kévin afin qu'ils soient peut-être intégrés à la version 1.8 du mod ! :D</p>
-<h5>Comment faire ?</h5>
-<ol>
-<li>Téléchargez la vidéo YouTube où vous avez repéré un son intéressant avec votre outil préféré</li>
-<li>Utilisez un outil comme <a href="http://audacity.sourceforge.net/download/">Audacity</a> pour extraire le passage précis de la réplique</li>
-<li>Envoyez-le sur un hébergeur de fichier comme <a href="http://www.mediafire.com/">MediaFire</a>, <a href="http://www.megaupload.com/">MegaUpload</a>, ou celui de votre choix</li>
-<li>Postez un commentaire à la suite de ce billet avec le lien vers le son et votre nom/pseudo (comme ça je pourrai vous remercier sur le <a href="http://forum.fantabobshow.com/">Forum FantaBobShow</a> ;) )</li>
-<li>Si je trouve que le son est de bonne qualité, je l'ajouterai à la version 1.8 !</li>
-</ol>
-<p>Bien entendu, vous pouvez procéder autrement, du moment que le résultat est le même... :)<br />
-Merci d'avance à ceux qui tenteront l'aventure !</p>
+Comme vous le savez peut-être, je suis le développeur du (maintenant célèbre o/) [mod FantaBobShow][1] pour [Minecraft][2]. Un mod qui reprend les acteurs du [FantaBobShow][3] et les ajoute dans le jeu, notamment. Et qui reprend certaines de leurs répliques pour les ressortir ingame.
+
+[![](https://outadoc.fr/wp-content/uploads/2011/08/boblennon1.png "boblennon")][4]
+
+Et nous y voilà, le point fâcheux du mod... Autant je me débrouille plutôt pas mal niveau code, autant télécharger des dizaines de fois les versions MP3 des vidéos YouTube afin d'y récupérer les quelques répliques intéressantes, c'est pas vraiment mon truc.
+
+C'est pourquoi je vous propose de m'aider à regrouper le plus possible de sons pour Fanta, Bob Lennon et Jean-Kévin afin qu'ils soient peut-être intégrés à la version 1.8 du mod ! :D
+
+##### Comment faire ?
+
+1.  Téléchargez la vidéo YouTube où vous avez repéré un son intéressant avec votre outil préféré
+2.  Utilisez un outil comme [Audacity][5] pour extraire le passage précis de la réplique
+3.  Envoyez-le sur un hébergeur de fichier comme [MediaFire][6], [MegaUpload][7], ou celui de votre choix
+4.  Postez un commentaire à la suite de ce billet avec le lien vers le son et votre nom/pseudo (comme ça je pourrai vous remercier sur le [Forum FantaBobShow][8] ;) )
+5.  Si je trouve que le son est de bonne qualité, je l'ajouterai à la version 1.8 !
+
+Bien entendu, vous pouvez procéder autrement, du moment que le résultat est le même... :)  
+Merci d'avance à ceux qui tenteront l'aventure !
+
+[1]: http://forum.fantabobshow.com/index.php?threads/1-6-4-fantabobmod-le-mod-le-plus-show.23825/
+[2]: http://outadoc.fr/2011/02/minecraft-3d-analogique/
+[3]: http://fantabobshow.com
+[4]: https://outadoc.fr/wp-content/uploads/2011/08/boblennon1.png
+[5]: http://audacity.sourceforge.net/download/
+[6]: http://www.mediafire.com/
+[7]: http://www.megaupload.com/
+[8]: http://forum.fantabobshow.com/

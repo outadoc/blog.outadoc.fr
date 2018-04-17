@@ -127,49 +127,88 @@ comments:
   content: C'est toujours tellement plus facile de mépriser et d'insulter quand
     on est incapable d'argumenter pour exprimer son avis. Pathétique.
 ---
-<p>Vous le savez, <a href="http://outadoc.fr/2012/08/new-twitter-display-requirements-open-letter-to-twitter/">j'en avais parlé</a> lorsque l'affaire était parue. Twitter a annoncé il y a quelques mois son API 1.1, une vaste blague ayant pour but "d'uniformiser l'expérience de l'utilisateur", et qui se résume à faire un magnifique doigt d'honneur aux utilisateurs et des développeurs.</p>
-<p>[caption id="attachment_788" align="aligncenter" width="210"]<a href="https://outadoc.fr/wp-content/uploads/2013/03/twitter-bird-light-bgs-copie1.png"><img class=" wp-image-788 " alt="Die, bitch." src="https://outadoc.fr/wp-content/uploads/2013/03/twitter-bird-light-bgs-copie1.png" width="210" height="245" /></a> T'as vu Twitter, je suis pas gentil, j'ai modifié ton logo officiel. Oups.[/caption]</p>
-<p>Pour résumer, la nouvelle version de cette API (qui est désormais la seule fonctionnelle) repose sur deux points principaux :</p>
-<ul>
-<li>Le nombre de requêtes est limité à 60 par heures pour les requêtes de la timeline et l'envoi des tweets</li>
-<li>Une application ne peut pas avoir plus de 100000 utilisateurs</li>
-</ul>
-<p>Un cadeau pour les utilisateurs, et un cadeau pour les développeurs. Merci Twitter !</p>
-<p>La stratégie derrière tout ça est claire : ces limitations ne s'appliquant qu'aux apps de tierce-partie, les utilisateurs vont, faute de patience, migrer vers l'app officielle de Twitter, sur laquelle ils ont un contrôle total.</p>
-<p>Problème : l'app officielle de Twitter, elle est nulle. Absence totale de configuration, aucun choix pour le service d'upload de photos par exemple (obligation de passer par le service extrêmement limité et mal conçu de Twitter), impossible d'afficher les pseudos en place et lieu des "noms réels" -chose que j'ai toujours trouvée débile, étant donné que ce n'est pas avec ce nom qu'on interagit sur Twitter, mais avec le pseudo, interface lente, moche et mal pensée, obligation d'afficher le détail d'un tweet pour interagir avec, etc. Oui, etc, parce que je pourrais continuer pendant longtemps.</p>
-<p>Donc, Twitter, fais bien les choses. Plutôt que de tenter de tuer ceux qui ont contribué à ta réussite, tu ferais mieux de chercher de vraies solutions au problème. Parce que oui, ceux qui utilisent les apps tierces, malheureusement, ce ne sont pas les utilisateurs lambda; et ces utilisateurs-là, ils n'étaient pas sur Twitter il y a deux-trois ans, quand tu en avais encore quelque-chose à foutre d'eux.</p>
-<p>Donc voilà, Twitter me gonfle, et je suis trop accro pour le quitter, donc je reste. Comme tout le monde. Comme un mouton. Tant pis pour moi, de toute façon dans la vraie vie, c'est toujours le méchant qui gagne.</p>
-<p>En attendant, il y a une solution à ces problèmes d'API : se faire passer pour Twitter. Pour ça, c'est simple, il suffirait de récupérer les clés d'API des apps officielles, qui ne sont, elles, pas bridées. Sauf qu'elles sont secrètes, et que personne ne peut les récupérer...</p>
-<p>...oh, mais attendez. Quelqu'un l'a fait.</p>
-<blockquote>
-<h2>Twitter for iPhone</h2>
-<pre><code>Consumer key: IQKbtAYlXLripLGPWd0HUA
-Consumer secret: GgDYlkSvaPxGxC4X8liwpUoqKwwr3lCADbz8A7ADU
-</code></pre>
-<h2>Twitter for Android</h2>
-<pre><code>Consumer key: 3nVuSoBZnx6U4vzUxf5w
-Consumer secret: Bcs59EFbbsdF6Sl9Ng71smgStWEGwXXKSjYvPVt7qys
-</code></pre>
-<h2>Twitter for Google TV</h2>
-<pre><code>Consumer key: iAtYJ4HpUVfIUoNnif1DA
-Consumer secret: 172fOpzuZoYzNYaU3mMYvE8m8MEyLbztOdbrUolU
-</code></pre>
-<h2>Twitter for iPad</h2>
-<pre><code>Consumer key: CjulERsDeqhhjSme66ECg
-Consumer secret: IQWdVyqFxghAtURHGeGiWAsmCAGmdW3WmbEx6Hck
-</code></pre>
-<h2>Twitter for Mac</h2>
-<pre><code>Consumer key: 3rJOl1ODzm9yZy63FACdg
-Consumer secret: 5jPoQ5kQvMJFDYRNE8bQ4rHuds4xJqhvgNJM4awaE8
-</code></pre>
-<h2>Twitter for Windows Phone</h2>
-<pre><code>Consumer key: yN3DUNVO0Me63IAQdhTfCA
-Consumer secret: c768oTKdzAjIYCmpSNIdZbGaG0t6rOhSFQP0S5uC79g
-</code></pre>
-<h2>TweetDeck</h2>
-<pre><code>Consumer key: yT577ApRtZw51q4NPMPPOQ
-Consumer secret: 3neq3XqN5fO3obqwZoajavGFCUrC42ZfbrLXy5sCv8
-</code></pre>
-</blockquote>
-<p>(source)</p>
-<p>(Qu'est-ce que j'aimerais que Twitter me demande de retirer cet article. On s'amuserait bien.)</p>
+Vous le savez, [j'en avais parlé][1] lorsque l'affaire était parue. Twitter a annoncé il y a quelques mois son API 1.1, une vaste blague ayant pour but "d'uniformiser l'expérience de l'utilisateur", et qui se résume à faire un magnifique doigt d'honneur aux utilisateurs et des développeurs.
+
+[![Die, bitch.](https://outadoc.fr/wp-content/uploads/2013/03/twitter-bird-light-bgs-copie1.png "T'as vu Twitter, je suis pas gentil, j'ai modifié ton logo officiel. Oups.")][2]
+
+Pour résumer, la nouvelle version de cette API (qui est désormais la seule fonctionnelle) repose sur deux points principaux :
+
+-   Le nombre de requêtes est limité à 60 par heures pour les requêtes de la timeline et l'envoi des tweets
+-   Une application ne peut pas avoir plus de 100000 utilisateurs
+
+Un cadeau pour les utilisateurs, et un cadeau pour les développeurs. Merci Twitter !
+
+La stratégie derrière tout ça est claire : ces limitations ne s'appliquant qu'aux apps de tierce-partie, les utilisateurs vont, faute de patience, migrer vers l'app officielle de Twitter, sur laquelle ils ont un contrôle total.
+
+Problème : l'app officielle de Twitter, elle est nulle. Absence totale de configuration, aucun choix pour le service d'upload de photos par exemple (obligation de passer par le service extrêmement limité et mal conçu de Twitter), impossible d'afficher les pseudos en place et lieu des "noms réels" -chose que j'ai toujours trouvée débile, étant donné que ce n'est pas avec ce nom qu'on interagit sur Twitter, mais avec le pseudo, interface lente, moche et mal pensée, obligation d'afficher le détail d'un tweet pour interagir avec, etc. Oui, etc, parce que je pourrais continuer pendant longtemps.
+
+Donc, Twitter, fais bien les choses. Plutôt que de tenter de tuer ceux qui ont contribué à ta réussite, tu ferais mieux de chercher de vraies solutions au problème. Parce que oui, ceux qui utilisent les apps tierces, malheureusement, ce ne sont pas les utilisateurs lambda; et ces utilisateurs-là, ils n'étaient pas sur Twitter il y a deux-trois ans, quand tu en avais encore quelque-chose à foutre d'eux.
+
+Donc voilà, Twitter me gonfle, et je suis trop accro pour le quitter, donc je reste. Comme tout le monde. Comme un mouton. Tant pis pour moi, de toute façon dans la vraie vie, c'est toujours le méchant qui gagne.
+
+En attendant, il y a une solution à ces problèmes d'API : se faire passer pour Twitter. Pour ça, c'est simple, il suffirait de récupérer les clés d'API des apps officielles, qui ne sont, elles, pas bridées. Sauf qu'elles sont secrètes, et que personne ne peut les récupérer...
+
+...oh, mais attendez. Quelqu'un l'a fait.
+
+> ## Twitter for iPhone
+> 
+> ```
+> Consumer key: IQKbtAYlXLripLGPWd0HUA
+> Consumer secret: GgDYlkSvaPxGxC4X8liwpUoqKwwr3lCADbz8A7ADU
+> 
+> ```
+> 
+> ## Twitter for Android
+> 
+> ```
+> Consumer key: 3nVuSoBZnx6U4vzUxf5w
+> Consumer secret: Bcs59EFbbsdF6Sl9Ng71smgStWEGwXXKSjYvPVt7qys
+> 
+> ```
+> 
+> ## Twitter for Google TV
+> 
+> ```
+> Consumer key: iAtYJ4HpUVfIUoNnif1DA
+> Consumer secret: 172fOpzuZoYzNYaU3mMYvE8m8MEyLbztOdbrUolU
+> 
+> ```
+> 
+> ## Twitter for iPad
+> 
+> ```
+> Consumer key: CjulERsDeqhhjSme66ECg
+> Consumer secret: IQWdVyqFxghAtURHGeGiWAsmCAGmdW3WmbEx6Hck
+> 
+> ```
+> 
+> ## Twitter for Mac
+> 
+> ```
+> Consumer key: 3rJOl1ODzm9yZy63FACdg
+> Consumer secret: 5jPoQ5kQvMJFDYRNE8bQ4rHuds4xJqhvgNJM4awaE8
+> 
+> ```
+> 
+> ## Twitter for Windows Phone
+> 
+> ```
+> Consumer key: yN3DUNVO0Me63IAQdhTfCA
+> Consumer secret: c768oTKdzAjIYCmpSNIdZbGaG0t6rOhSFQP0S5uC79g
+> 
+> ```
+> 
+> ## TweetDeck
+> 
+> ```
+> Consumer key: yT577ApRtZw51q4NPMPPOQ
+> Consumer secret: 3neq3XqN5fO3obqwZoajavGFCUrC42ZfbrLXy5sCv8
+> 
+> ```
+
+(source)
+
+(Qu'est-ce que j'aimerais que Twitter me demande de retirer cet article. On s'amuserait bien.)
+
+[1]: http://outadoc.fr/2012/08/new-twitter-display-requirements-open-letter-to-twitter/
+[2]: https://outadoc.fr/wp-content/uploads/2013/03/twitter-bird-light-bgs-copie1.png

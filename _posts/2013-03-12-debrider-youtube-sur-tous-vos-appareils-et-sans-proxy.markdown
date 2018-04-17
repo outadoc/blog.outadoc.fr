@@ -141,24 +141,32 @@ comments:
     à entrer dans le terminal qui effacerai celle qui est donnée dans
     cet article ? Merci"
 ---
-<p>Je vous avais présenté <a href="http://outadoc.fr/2012/11/proxfree-proxy-gratuit/">il y a pas longtemps</a> un site web qui vous permettait de passer par un proxy pour regarder vos vidéos YouTube sans bridage de la part de votre FAI (<em>ahem</em> FREE <em>ahem</em>). Cependant, le fait de devoir passer par un site web indépendant ainsi que l'instabilité du player qu'il utilisait était peu pratique, et personnellement, je continuais à regarder mes vidéos sur le site officiel et en 480/360p. Surtout sur ma tablette, faute de Flash Player. Pauvre de moi.</p>
-<p style="text-align: center;"><a href="https://outadoc.fr/wp-content/uploads/2013/03/05512027-photo-logo-free1.png"><img class="aligncenter  wp-image-784" alt="05512027-photo-logo-free" src="https://outadoc.fr/wp-content/uploads/2013/03/05512027-photo-logo-free1.png" width="346" height="133" /></a></p>
-<p>SAUF QUE. Korben a publié récemment un article sur son blog avec une astuce pour outrepasser les serveurs de cache de Google, ce qui force le navigateur à contacter directement les serveurs de Youtube, qui ne sont eux pas bridés par Free.</p>
-<p>Oui, je sais, moi non plus j'ai rien compris.</p>
-<p>Bref, voici les commandes à taper pour configurer votre firewall et outre-passer cette limitation :</p>
-<ul>
-<li>Sous <strong>Windows</strong> (avec cmd en mode administrateur) :<br />
-<code>netsh.exe advfirewall firewall add rule name="FREEYT" action=block dir=IN remoteip=173.194.52.0/22</code></p>
-</li>
-<li>
-<p>Sous <strong>OS X</strong> (en root) :<br />
-<code>ipfw add 01337 deny ip from any to 173.194.52.0/22</code></p>
-</li>
-<li>
-<p>Et le meilleur pour la fin, sous <strong>Linux</strong> et <strong>Android</strong> (si vous avez un accès root) :<br />
-<code>iptables -A OUTPUT -p 6 -d 173.194.52.0/22 -j REJECT --reject-with tcp-reset</code></p>
-</li>
-</ul>
-<p>Je n'ai pas une grande expérience dans les réseaux, mais j'imagine qu'en appliquant cette règle sur votre routeur ou autre, vous pourriez débrider d'un seul coup tous les appareils connectés sur le réseau. Pratique !</p>
-<p>Et voilà, vous pouvez ENFIN regarder des vidéos en 720p sans trop de problèmes. Il est possible que l'IP des serveurs change, mais d'ici là, vous êtes tranquilles ! ;)</p>
-<p><a href="http://korben.info/free-et-youtube-comment-regler-le-souci-sous-windows-mac-et-linux.html" target="_blank">Source: Korben.info</a></p>
+Je vous avais présenté [il y a pas longtemps][1] un site web qui vous permettait de passer par un proxy pour regarder vos vidéos YouTube sans bridage de la part de votre FAI (*ahem* FREE *ahem*). Cependant, le fait de devoir passer par un site web indépendant ainsi que l'instabilité du player qu'il utilisait était peu pratique, et personnellement, je continuais à regarder mes vidéos sur le site officiel et en 480/360p. Surtout sur ma tablette, faute de Flash Player. Pauvre de moi.
+
+[![05512027-photo-logo-free](https://outadoc.fr/wp-content/uploads/2013/03/05512027-photo-logo-free1.png)][2]
+
+SAUF QUE. Korben a publié récemment un article sur son blog avec une astuce pour outrepasser les serveurs de cache de Google, ce qui force le navigateur à contacter directement les serveurs de Youtube, qui ne sont eux pas bridés par Free.
+
+Oui, je sais, moi non plus j'ai rien compris.
+
+Bref, voici les commandes à taper pour configurer votre firewall et outre-passer cette limitation :
+
+-   Sous **Windows** (avec cmd en mode administrateur) :  
+    `netsh.exe advfirewall firewall add rule name="FREEYT" action=block dir=IN remoteip=173.194.52.0/22`
+    
+-   Sous **OS X** (en root) :  
+    `ipfw add 01337 deny ip from any to 173.194.52.0/22`
+    
+-   Et le meilleur pour la fin, sous **Linux** et **Android** (si vous avez un accès root) :  
+    `iptables -A OUTPUT -p 6 -d 173.194.52.0/22 -j REJECT --reject-with tcp-reset`
+    
+
+Je n'ai pas une grande expérience dans les réseaux, mais j'imagine qu'en appliquant cette règle sur votre routeur ou autre, vous pourriez débrider d'un seul coup tous les appareils connectés sur le réseau. Pratique !
+
+Et voilà, vous pouvez ENFIN regarder des vidéos en 720p sans trop de problèmes. Il est possible que l'IP des serveurs change, mais d'ici là, vous êtes tranquilles ! ;)
+
+[Source: Korben.info][3]
+
+[1]: http://outadoc.fr/2012/11/proxfree-proxy-gratuit/
+[2]: https://outadoc.fr/wp-content/uploads/2013/03/05512027-photo-logo-free1.png
+[3]: http://korben.info/free-et-youtube-comment-regler-le-souci-sous-windows-mac-et-linux.html

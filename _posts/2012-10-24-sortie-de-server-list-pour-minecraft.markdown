@@ -58,18 +58,34 @@ comments:
     que tu ne la publies pas dans ce cas. Autant partir d'une idée bien à
     toi, comme ça tu es libre après. :)
 ---
-<p>Hey les gens ! Vous saviez que Minecraft 1.4 sortait demain ? Il y aura plein de nouvelles fonctionnalités sympa d'ajoutées, grâce aux développeurs qui ont récemment rejoint l'équipe. Bravo à eux, même s'ils ne me liront pas. :D</p>
-<p>Et bien, coup de chance (si si), demain c'est aussi la sortie de ma nouvelle application : Server List for Minecraft !</p>
-<p style="text-align: center;"><a href="http://dev.outadoc.fr/project/server-list/"><img class="aligncenter  wp-image-731" title="Icon" src="https://outadoc.fr/wp-content/uploads/2012/10/icon-large@2x1.png" alt="" width="189" height="189" /></a></p>
-<p style="text-align: left;">C'est une application toute simple, mais qui ravira de nombreux joueurs et administrateurs de serveurs, j'en suis certain.</p>
-<blockquote>
-<p style="text-align: left;">Server List pour Minecraft est la meilleure solution pour gérer et contrôler vos serveurs Minecraft favoris facilement.</p>
-<p>Que vous soyez un joueur ou un administrateur de serveur qui souhaite contrôler le statut de son serveur, Server List vous séduira par sa simplicité d'usage et sa légèreté.</p>
-<p>Tout se déroule comme dans la liste de serveur Minecraft originelle; mis à part que vous pouvez aussi garder votre appareil avec la liste affichée pendant que vous jouez, que vous n'êtes pas obligé de lancer le jeu juste pour voir s'il reste des places disponibles sur votre serveur préféré...</p>
-<p>Cliquez simplement "ajouter", entrez les coordonnées du serveur, cliquez "terminé", et c'est bon ! Votre serveur est ajouté sur l'écran principal.</p></blockquote>
-<p style="text-align: left;">Voilà, ça c'était la version formelle. En gros, l'application vous permettra d'afficher vos serveurs préférés, pour que vous puissiez savoir s'ils sont down, ou s'il reste de la place dessus, sans avoir à lancer Minecraft. D'ailleurs, on notera que sa liste de serveurs est assez bugguée; quand la connexion à un serveur échoue, quoi qu'il arrive, le serveur affiché dans la liste ne pourra plus ping non plus et donc vous ne pourrez plus avoir ses infos, même s'il est up. Sever List pour Minecraft devrait vous permettre de contourner le problème de façon assez ergonomique.</p>
-<p> </p>
-<div style="text-align: center;"><a href="https://outadoc.fr/wp-content/uploads/2012/10/screen11.png"><img class="wp-image-733" title="screen1" src="https://outadoc.fr/wp-content/uploads/2012/10/screen1-464x10241.png" alt="" width="266" height="589" /></a><a href="https://outadoc.fr/wp-content/uploads/2012/10/screen21.png"><img class="wp-image-734" title="screen2" src="https://outadoc.fr/wp-content/uploads/2012/10/screen2-464x10241.png" alt="" width="266" height="589" /></a></div>
-<p>J'espère que l'app vous plaira ! Sinon (et si oui aussi d'ailleurs :p), vous pouvez toujours aller regarder mes autres applications, tout est sur le <a href="http://dev.outadoc.fr/projects.html">nouveau site tout beau tout neuf de outa[dev]</a>.</p>
-<p>Server List pour Minecraft est disponible dans l'App Store en français et en anglais à partir du 25 octobre.</p>
-<h2 style="text-align: center;"><a href="https://itunes.apple.com/en/app/server-list-for-minecraft/id568969472?l=fr&ls=1&mt=8">Télécharger Server List for Minecraft</a></h2>
+Hey les gens ! Vous saviez que Minecraft 1.4 sortait demain ? Il y aura plein de nouvelles fonctionnalités sympa d'ajoutées, grâce aux développeurs qui ont récemment rejoint l'équipe. Bravo à eux, même s'ils ne me liront pas. :D
+
+Et bien, coup de chance (si si), demain c'est aussi la sortie de ma nouvelle application : Server List for Minecraft !
+
+[![](https://outadoc.fr/wp-content/uploads/2012/10/icon-large@2x1.png "Icon")][1]
+
+C'est une application toute simple, mais qui ravira de nombreux joueurs et administrateurs de serveurs, j'en suis certain.
+
+> Server List pour Minecraft est la meilleure solution pour gérer et contrôler vos serveurs Minecraft favoris facilement.
+> 
+> Que vous soyez un joueur ou un administrateur de serveur qui souhaite contrôler le statut de son serveur, Server List vous séduira par sa simplicité d'usage et sa légèreté.
+> 
+> Tout se déroule comme dans la liste de serveur Minecraft originelle; mis à part que vous pouvez aussi garder votre appareil avec la liste affichée pendant que vous jouez, que vous n'êtes pas obligé de lancer le jeu juste pour voir s'il reste des places disponibles sur votre serveur préféré...
+> 
+> Cliquez simplement "ajouter", entrez les coordonnées du serveur, cliquez "terminé", et c'est bon ! Votre serveur est ajouté sur l'écran principal.
+
+Voilà, ça c'était la version formelle. En gros, l'application vous permettra d'afficher vos serveurs préférés, pour que vous puissiez savoir s'ils sont down, ou s'il reste de la place dessus, sans avoir à lancer Minecraft. D'ailleurs, on notera que sa liste de serveurs est assez bugguée; quand la connexion à un serveur échoue, quoi qu'il arrive, le serveur affiché dans la liste ne pourra plus ping non plus et donc vous ne pourrez plus avoir ses infos, même s'il est up. Sever List pour Minecraft devrait vous permettre de contourner le problème de façon assez ergonomique.
+
+[![](https://outadoc.fr/wp-content/uploads/2012/10/screen1-464x10241.png "screen1")][2][![](https://outadoc.fr/wp-content/uploads/2012/10/screen2-464x10241.png "screen2")][3]
+
+J'espère que l'app vous plaira ! Sinon (et si oui aussi d'ailleurs :p), vous pouvez toujours aller regarder mes autres applications, tout est sur le [nouveau site tout beau tout neuf de outa\[dev\]][4].
+
+Server List pour Minecraft est disponible dans l'App Store en français et en anglais à partir du 25 octobre.
+
+## [Télécharger Server List for Minecraft][5]
+
+[1]: http://dev.outadoc.fr/project/server-list/
+[2]: https://outadoc.fr/wp-content/uploads/2012/10/screen11.png
+[3]: https://outadoc.fr/wp-content/uploads/2012/10/screen21.png
+[4]: http://dev.outadoc.fr/projects.html
+[5]: https://itunes.apple.com/en/app/server-list-for-minecraft/id568969472?l=fr&ls=1&mt=8
