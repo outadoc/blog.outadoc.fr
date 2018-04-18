@@ -28,7 +28,7 @@ comments:
 ---
 Vous connaissez sans doute "Où est Charlie ?", ce livre où à chaque page, il faut retrouver dans la foule un type qui s'appelle Charlie. Et bien, Time Geeks c'est la même chose, mais sur iPhone.
 
-[![](https://outadoc.fr/wp-content/uploads/2011/03/40-300x2001.png "TimeGeeks")][1]
+[![]({{ site.baseurl }}/assets/40-300x2001.png "TimeGeeks")][1]
 
 Vous êtes dans un monde totalement en 8 bits. Après un truc temporel foiré, des personnes ont été éparpillées à toutes les époques ! Vous devez les retrouver dans un temps donné, accompagné par une agréable musique 8 bits. Il y a 7 modes de jeu. Le plus "classique", le mode histoire, est celui dont je vous parlais. Mais il y a aussi un mode mini-jeux, un mode éditeur, etc !
 
@@ -38,7 +38,7 @@ Time Geeks est est disponible pour iPhone, iPod Touch et iPad [à 0,79€ sur l'
 
 Et allez, je suis gentil : une vidéo bonus ! :D
 
-<embed type="application/x-shockwave-flash" width="640" height="390" src="http://www.youtube.com/v/w6QXJoHeUno?fs=1&hl=fr_FR&rel=0" allowscriptaccess="always" allowfullscreen="true"></embed>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/w6QXJoHeUno" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-[1]: https://outadoc.fr/wp-content/uploads/2011/03/401.png
+[1]: {{ site.baseurl }}/assets/401.png
 [2]: http://itunes.apple.com/fr/app/time-geeks-find-all/id391469201?mt=8

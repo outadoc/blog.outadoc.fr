@@ -18,7 +18,7 @@ comments: []
 ---
 Je vois souvent passer des messages d'abstentionnistes outrés qu'on *ose* leur reprocher de ne pas voter.
 
-[![listen here u lil shit](https://outadoc.fr/wp-content/uploads/2017/04/573.jpg)][1]
+[![listen here u lil shit]({{ site.baseurl }}/assets/573.jpg)][1]
 
 Le vote, c'est le seul moyen direct, en tant que citoyens français, qu'on ait pour peser dans les décisions de notre gouvernement — qui, peut-être dois-je le rappeler, nous *gouverne*.
 
@@ -36,4 +36,4 @@ L'abstention, c'est la manière la plus feignante de protester. Je n'ai rien con
 
 Mais par pitié, ne restez pas chez vous, les bras croisés, à vous vanter sur Twitter que vous n'avez pas exercé votre devoir ce citoyen digne de ce nom.
 
-[1]: https://outadoc.fr/wp-content/uploads/2017/04/573.jpg
+[1]: {{ site.baseurl }}/assets/573.jpg

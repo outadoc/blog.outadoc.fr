@@ -143,7 +143,7 @@ comments:
 ---
 Je vous avais présenté [il y a pas longtemps][1] un site web qui vous permettait de passer par un proxy pour regarder vos vidéos YouTube sans bridage de la part de votre FAI (*ahem* FREE *ahem*). Cependant, le fait de devoir passer par un site web indépendant ainsi que l'instabilité du player qu'il utilisait était peu pratique, et personnellement, je continuais à regarder mes vidéos sur le site officiel et en 480/360p. Surtout sur ma tablette, faute de Flash Player. Pauvre de moi.
 
-[![05512027-photo-logo-free](https://outadoc.fr/wp-content/uploads/2013/03/05512027-photo-logo-free1.png)][2]
+[![05512027-photo-logo-free]({{ site.baseurl }}/assets/05512027-photo-logo-free1.png)][2]
 
 SAUF QUE. Korben a publié récemment un article sur son blog avec une astuce pour outrepasser les serveurs de cache de Google, ce qui force le navigateur à contacter directement les serveurs de Youtube, qui ne sont eux pas bridés par Free.
 
@@ -168,5 +168,5 @@ Et voilà, vous pouvez ENFIN regarder des vidéos en 720p sans trop de problème
 [Source: Korben.info][3]
 
 [1]: http://outadoc.fr/2012/11/proxfree-proxy-gratuit/
-[2]: https://outadoc.fr/wp-content/uploads/2013/03/05512027-photo-logo-free1.png
+[2]: {{ site.baseurl }}/assets/05512027-photo-logo-free1.png
 [3]: http://korben.info/free-et-youtube-comment-regler-le-souci-sous-windows-mac-et-linux.html

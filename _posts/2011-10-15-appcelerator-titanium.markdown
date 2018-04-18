@@ -25,7 +25,7 @@ comments: []
 ---
 Il y a quelques mois (oui, ça fait longtemps que j'ai pas bloggué...), [HarryLafranc][1] me parlait sur Twitter d'un service pour développer des **apps natives** iPhone et Android en Javascript.
 
-[![](https://outadoc.fr/wp-content/uploads/2011/10/appcelerator1.png "appcelerator")][2][  
+[![]({{ site.baseurl }}/assets/appcelerator1.png "appcelerator")][2][  
 ][3]Cet outil, développé par **Appcelerator**, s'appelle **Titanium**. C'est en fait un intérpréteur de code **Javascript**, qui vous permettra de développer sur iPhone ou Android sans que vous n'ayiez à écrire **une seule ligne** de code en Objective-C ou Java. Plutôt alléchant... surtout quand on connaît le JS (qui est un langage très simple, il faut l'avouer). Seront également intéressés les personnes cherchant à développer rapidement pour les deux plateformes sans avoir à **tout re-coder**.
 
 Oui mais alors, quid de l'UI ? En effet, en général, ce genre d'outil vous génère un application un peu moche qui est en fait une webapp, littéralement. Et bien pas Titanium ! Il convertira, lui, vos éléments d'UI codés en JavaScript en de **"vrais" éléments** d'UI disponibles dans le SDK de la plateforme correspondante. Le résultat donc, sera une vraie application **respectant le style de l'OS**.
@@ -63,7 +63,7 @@ Titanium est totalement **gratuit** (à moins que vous ne souhaitiez développer
 PS : je vous prépare une version iPhone de **FreeStance**... [suivez-moi sur Twitter][5] pour avoir des infos au fur-et-à-mesure du développement ! ;)
 
 [1]: http://twitter.com/HarryLafranc
-[2]: https://outadoc.fr/wp-content/uploads/2011/10/appcelerator1.png
+[2]: {{ site.baseurl }}/assets/appcelerator1.png
 [3]: http://appcelerator.com
 [4]: http://www.appcelerator.com/products/titanium-studio/
 [5]: http://twitter.com/outadoc

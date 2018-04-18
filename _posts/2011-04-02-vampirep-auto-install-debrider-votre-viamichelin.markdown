@@ -75,7 +75,7 @@ comments:
 ---
 Comme vous le savez peut-être, ViaMichelin a commercialisé des GPS sous sa marque, puis a annoncé l'arrêt de leur évolution quelques années plus tard. Ce qui signifie que désormais, non seulement ViaMichelin ne commercialise plus de GPS, mais plus grave pour les utilisateurs, il ne fournit **plus de mises à jour de cartes** ! Inadmissible selon certains (j'en fais partie). Heureusement, les GPS ViaMichelin sont basés sur Windows CE, ce qui permet de les débrider assez facilement. Le débridage est une opération consistant en le remplacement de fichiers sur la carte SD, qui autorisent ensuite l'accès au Windows sur l'appareil.
 
-[![](https://outadoc.fr/wp-content/uploads/2011/04/ViaMichelin_X_970T-300x2341.jpg "ViaMichelin_X_970T")][1]
+[![]({{ site.baseurl }}/assets/ViaMichelin_X_970T-300x2341.jpg "ViaMichelin_X_970T")][1]
 
 L'installation de Vampirep Auto Install (du pseudo de son créateur) permettra ensuite d'installer d'autres logiciels, comme des logiciels de randonnée, TomTom (jamais réussi pour ma part), ou même un lecteur audio/vidéo !
 
@@ -90,17 +90,17 @@ Attention :  je décline toute responsabilité en cas de problème causé par v
 -   En utilisant l'explorateur sur votre GPS ou ActiveSync, déplacez `/Program Files/ViaMichelin` dans `/Storage Card/ApplisGPS` ; si `/Program Files/ViaMichelin` n'existe pas, exécutez `/Storage Card/InstallSDVM/InstallSD.exe` et réessayez
 -   Dans Vampirep Auto Install (qui démarre au démarrage du GPS), cliquez sur "Installer", puis, lorsqu'il le demande, faites un soft reset
 
-[![](https://outadoc.fr/wp-content/uploads/2011/04/TonioToulouse_4_VMTaskManager1.jpg "TonioToulouse_4_VMTaskManager")][3]
+[![]({{ site.baseurl }}/assets/TonioToulouse_4_VMTaskManager1.jpg "TonioToulouse_4_VMTaskManager")][3]
 
 Et ça devrait être bon ! Utilisez Vampirep Auto Install pour lancer le logiciel de navigation ViaMichelin Navigator. VAI installe d'autres logiciels : faites-en le tour pour voir leurs fonctions.
 
-[![](https://outadoc.fr/wp-content/uploads/2011/04/TonioToulouse_5_VMOzi1.jpg "TonioToulouse_5_VMOzi")][4]
+[![]({{ site.baseurl }}/assets/TonioToulouse_5_VMOzi1.jpg "TonioToulouse_5_VMOzi")][4]
 
 Je vous conseille fortement de consulter ces pages sur les forums GpsPassion, ou d'autres que vous trouverez sur ce site : [Personnaliser le VM X930 V1.5][5], [Personnaliser le ViaMichelin X-970T New Edition.][6]
 
-[1]: https://outadoc.fr/wp-content/uploads/2011/04/ViaMichelin_X_970T1.jpg
+[1]: {{ site.baseurl }}/assets/ViaMichelin_X_970T1.jpg
 [2]: http://files.outadoc.fr/PackCompletVampirepGPSPassionV1-5.zip
-[3]: https://outadoc.fr/wp-content/uploads/2011/04/TonioToulouse_4_VMTaskManager1.jpg
-[4]: https://outadoc.fr/wp-content/uploads/2011/04/TonioToulouse_5_VMOzi1.jpg
+[3]: {{ site.baseurl }}/assets/TonioToulouse_4_VMTaskManager1.jpg
+[4]: {{ site.baseurl }}/assets/TonioToulouse_5_VMOzi1.jpg
 [5]: http://www.gpspassion.com/forumsen/topic.asp?topic_id=59108
 [6]: http://www.gpspassion.com/forumsen/topic.asp?TOPIC_ID=107964

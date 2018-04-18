@@ -25,7 +25,7 @@ Et j'imagine que vous vous êtes demandé ce que c'était. Et bien mes amis, c'e
 
 Ouvrez l'appli et scannez le QR Code ci-dessus. Voilà ce qui devrait apparaître:
 
-![](https://outadoc.fr/wp-content/uploads/2011/01/IMG_04831.png "RedLaser")
+![]({{ site.baseurl }}/assets/IMG_04831.png "RedLaser")
 
 Tadaaaa ! Mais maintenant vous aimeriez peut-être créer vos propres QR Codes pour les refiler à d'autres personnes. Il vous faut trouver un générateur de code QR. Je vous conseille [http://qrcode.kaywa.com/][1]. Choisissez le type de contenu (texte, URL, numéro de tel, SMS), remplissez le contenu, choisissez la taille du code-barres et cliquez sur "Générer". Hop,  un joli QR Code prêt à être partagé ! :D
 

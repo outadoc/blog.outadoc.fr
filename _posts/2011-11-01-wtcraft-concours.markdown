@@ -22,7 +22,7 @@ comments: []
 ---
 Le billet d'aujourd'hui est consacré à Minecraft (qui a dit "encore lui" ?), et plus particulièrement à un blog apprécié de tous, WTCraft.com !
 
-[![](https://outadoc.fr/wp-content/uploads/2011/11/wtc1.png "WTCraft")][1]
+[![]({{ site.baseurl }}/assets/wtc1.png "WTCraft")][1]
 
 Je vous vois venir : "Oui, okay, joli le logo, mais c'est pas un peu le énième blog sur Minecraft existant ?" -> Ouiiii, maaais non.
 

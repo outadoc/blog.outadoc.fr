@@ -24,8 +24,8 @@ comments:
 ---
 Comme promis, voici, un peu en retard (on ne laisse pas patienter le nouvel-an... ;) ) le Bob du Week-End ! :D Pour plus d'infos, voyez mon tout premier post.
 
-[![](https://outadoc.fr/wp-content/uploads/2011/01/bob-0051.jpg "Bob 1")][1]
+[![]({{ site.baseurl }}/assets/bob-0051.jpg "Bob 1")][1]
 
 *Voici Bob.*
 
-[1]: https://outadoc.fr/wp-content/uploads/2011/01/bob-0051.jpg
+[1]: {{ site.baseurl }}/assets/bob-0051.jpg

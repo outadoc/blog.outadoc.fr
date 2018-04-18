@@ -20,7 +20,7 @@ tags:
 comments: []
 ---
 Bonne nouvelle ! La Chronic Dev Team vient de sortir son nouvel outil, Animate, qui permet de modifier le boot logo de son iPod touch ou iPhone jailbreaké avec le dernier GreenPois0n.  
-![](https://outadoc.fr/wp-content/uploads/2011/02/cdev_logo1.png "cdev_logo")
+![]({{ site.baseurl }}/assets/cdev_logo1.png "cdev_logo")
 
 Il est normalement disponible dans Cydia; sinon, il vous faudra l'installer en tapant les commandes suivantes par SSH:
 
@@ -35,16 +35,16 @@ Et vous aurez comme par magie un panneau "BootLogo" dans les réglages. :) Par d
 
 Vous pouvez ensuite créer vos propres boot logos ! Beaucoup devraient arriver très bientôt sur Cydia, mais pas besoin d'attendre aussi longtemps... Commencez par télécharger le boot logo d'origine (vous pouvez également partir d'une feuille blanche):[][2]
 
-[![](https://outadoc.fr/wp-content/uploads/2011/02/logo-200x3001.png "logo")][3]
+[![]({{ site.baseurl }}/assets/logo-200x3001.png "logo")][3]
 
 Modifiez-le comme vous le souhaitez, et nommez-le "0.png". Et là où ça devient très intéressant, c'est qu'ils peuvent être animés ! :D Pas de façon très fluide pour le moment (environ 5 FPS: ils bossent dessus), mais c'est déjà ça. Il vous faudra créer plusieurs images de la même façon qu'au-dessus, en les nommant dans l'ordre d'apparition 0.png, 1.png, 2.png, etc...
 
 Ensuite, créez un dossier du nom souhaité de votre logo dans /Library/BootLogos/. Puis, placez votre/vos image(s) dans ce dossier. Il ne vous reste plus qu'à retourner dans Réglages -> BootLogo et à l'activer ! :D
 
 Note: le boot logo d'origine apparaîtra toujours pendant les quelques premières secondes du démarrage.  
-[![](https://outadoc.fr/wp-content/uploads/2011/02/PL_PID_1000000296-200x3001.png "PL_PID_1000000296")][4]
+[![]({{ site.baseurl }}/assets/PL_PID_1000000296-200x3001.png "PL_PID_1000000296")][4]
 
 [1]: http://outadoc.fr/2011/02/greenpois0n-rc5-jailbreak-4-2-1-untethered/
-[2]: https://outadoc.fr/wp-content/uploads/2011/02/logo1.png
-[3]: https://outadoc.fr/wp-content/uploads/2011/02/logo1.png
-[4]: https://outadoc.fr/wp-content/uploads/2011/02/PL_PID_10000002961.png
+[2]: {{ site.baseurl }}/assets/logo1.png
+[3]: {{ site.baseurl }}/assets/logo1.png
+[4]: {{ site.baseurl }}/assets/PL_PID_10000002961.png

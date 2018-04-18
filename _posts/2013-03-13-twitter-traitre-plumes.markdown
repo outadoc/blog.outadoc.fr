@@ -129,7 +129,7 @@ comments:
 ---
 Vous le savez, [j'en avais parlé][1] lorsque l'affaire était parue. Twitter a annoncé il y a quelques mois son API 1.1, une vaste blague ayant pour but "d'uniformiser l'expérience de l'utilisateur", et qui se résume à faire un magnifique doigt d'honneur aux utilisateurs et des développeurs.
 
-[![Die, bitch.](https://outadoc.fr/wp-content/uploads/2013/03/twitter-bird-light-bgs-copie1.png "T'as vu Twitter, je suis pas gentil, j'ai modifié ton logo officiel. Oups.")][2]
+[![Die, bitch.]({{ site.baseurl }}/assets/twitter-bird-light-bgs-copie1.png "T'as vu Twitter, je suis pas gentil, j'ai modifié ton logo officiel. Oups.")][2]
 
 Pour résumer, la nouvelle version de cette API (qui est désormais la seule fonctionnelle) repose sur deux points principaux :
 
@@ -209,4 +209,4 @@ En attendant, il y a une solution à ces problèmes d'API : se faire passer pour
 (Qu'est-ce que j'aimerais que Twitter me demande de retirer cet article. On s'amuserait bien.)
 
 [1]: http://outadoc.fr/2012/08/new-twitter-display-requirements-open-letter-to-twitter/
-[2]: https://outadoc.fr/wp-content/uploads/2013/03/twitter-bird-light-bgs-copie1.png
+[2]: {{ site.baseurl }}/assets/twitter-bird-light-bgs-copie1.png

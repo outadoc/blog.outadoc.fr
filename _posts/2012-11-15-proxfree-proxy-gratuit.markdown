@@ -54,7 +54,7 @@ Si comme moi vous êtes chez Free et que vous êtes friand de vidéos Youtube, v
 
 Et si vous êtes aussi têtu que moi, vous n'allez pas non plus accepter la solution la plus "simple" : changer de FAI.
 
-[![](https://outadoc.fr/wp-content/uploads/2012/11/sprite11.png "proxfree")][1]
+[![]({{ site.baseurl }}/assets/sprite11.png "proxfree")][1]
 
 Mais hey, il y a d'autres solutions, évidemment. La plus efficace et employée, c'est de passer par un serveur proxy. Pour faire simple, un serveur proxy est un intermédiaire entre votre ordinateur et le site auquel vous souhaitez accéder; dans notre cas, Youtube.
 

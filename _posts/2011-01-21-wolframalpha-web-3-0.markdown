@@ -34,7 +34,7 @@ comments:
 ---
 Wolfram\|Alpha, c'est un site web qui a été transformé en calculateur... magique. Enfin, vous allez voir :)
 
-![](https://outadoc.fr/wp-content/uploads/2011/01/wa-logo.png "WolframAlpha")
+![]({{ site.baseurl }}/assets/wa-logo.png "WolframAlpha")
 
 Wolfram\|Alpha est un site qui vous permet de calculer, ou d'obtenir des informations sur à peu-près n'importe-quoi. Le nombre d'entrées de Bienvenue Chez Les Ch'tis ? Quel est le résultat de 3x+87y=52, avec une représentation graphique ? Des chiffres sur votre date de naissance ? Wolfram\|Alpha sait tout ça, et bien plus encore ! :D
 
@@ -44,21 +44,21 @@ Voici, entre autres, ce qu'on obtient:
 
 - l'emplacement dans la table périodique:
 
-[![](https://outadoc.fr/wp-content/uploads/2011/01/MSP859219e313h8h5a330b600001g66c0ibhdhf89e61.gif "Table Périodique")][1]
+[![]({{ site.baseurl }}/assets/MSP859219e313h8h5a330b600001g66c0ibhdhf89e61.gif "Table Périodique")][1]
 
 - des infos de base:
 
-[![](https://outadoc.fr/wp-content/uploads/2011/01/wolframalpha-201101211452568561.gif "Infos")][2]
+[![]({{ site.baseurl }}/assets/wolframalpha-201101211452568561.gif "Infos")][2]
 
 Et des tas d'autres trucs plus techniques...
 
 Mais vous n'êtes pas obligé d'être mathématicien pour profiter de Wolfram\|Alpha ! Si, par exemple, je tape "July 16, 1995 to today", j'ai le temps exact écoulé entre ce jour et aujourd'hui ! C'est-y-pas magnifique ? :D
 
-[![](https://outadoc.fr/wp-content/uploads/2011/01/wolframalpha-201101211457576501.gif "Naissance")][3]
+[![]({{ site.baseurl }}/assets/wolframalpha-201101211457576501.gif "Naissance")][3]
 
 ## [Aller sur Wolfram|Alpha.com][4]
 
-[1]: https://outadoc.fr/wp-content/uploads/2011/01/MSP859219e313h8h5a330b600001g66c0ibhdhf89e61.gif
-[2]: https://outadoc.fr/wp-content/uploads/2011/01/wolframalpha-201101211452568561.gif
-[3]: https://outadoc.fr/wp-content/uploads/2011/01/wolframalpha-201101211457576501.gif
+[1]: {{ site.baseurl }}/assets/MSP859219e313h8h5a330b600001g66c0ibhdhf89e61.gif
+[2]: {{ site.baseurl }}/assets/wolframalpha-201101211452568561.gif
+[3]: {{ site.baseurl }}/assets/wolframalpha-201101211457576501.gif
 [4]: http://wolframalpha.com

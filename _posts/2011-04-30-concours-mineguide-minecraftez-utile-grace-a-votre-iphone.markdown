@@ -39,13 +39,13 @@ comments:
 Me voilà de retour pour un billet un peu spécial ! En effet, je vous réserve une petite surprise à la fin de ce test... ;)  
 Amis Minecraftiens, que vous ayez découvert [Minecraft][1] récemment, il y a longtemps, voire même jamais, vous avez forcément dû vous aider d'un tutoriel à un moment ou l'autre, ne serait-ce que pour connaitre les bases. Et bien, j'ai désormais pour vous l'app pour iPhone rrrrévolutionnaire de [Gielve Apps][2], j'ai nommé : MineGuide ! Et en français, je vous prie ! :D Elle est [disponible ici sur l'AppStore][3].
 
-[![](https://outadoc.fr/wp-content/uploads/2011/04/téléchargement1.jpg "mineguide logo")][4]
+[![]({{ site.baseurl }}/assets/téléchargement1.jpg "mineguide logo")][4]
 
 C'est l'application idéale si vous voulez jouer tout en suivant des conseils, ou en consultant les recettes de crafting, etc.
 
 L'app est très bien conçue. On y retrouve les infos dans des catégories bien définies :
 
-[![](https://outadoc.fr/wp-content/uploads/2011/04/mzl.xrzmacxd.320x480-751.jpg "mineguide 1")][5]
+[![]({{ site.baseurl }}/assets/mzl.xrzmacxd.320x480-751.jpg "mineguide 1")][5]
 
 -   **Animaux** : leurs caractéristiques, leur utilité
 -   **Ennemis** : leurs caractéristiques, comment les tuer, comment les éviter
@@ -69,8 +69,8 @@ Et pensez à faire un tour sur [le site de Gielve Apps][8] en attendant ! :D
 [1]: http://outadoc.fr/2011/02/minecraft-3d-analogique/ "MineCraft – 3D analogique"
 [2]: http://gielve.com/
 [3]: http://itunes.apple.com/fr/app/guide-minecraft/id430173137?mt=8
-[4]: https://outadoc.fr/wp-content/uploads/2011/04/téléchargement1.jpg
-[5]: https://outadoc.fr/wp-content/uploads/2011/04/mzl.xrzmacxd.320x480-751.jpg
+[4]: {{ site.baseurl }}/assets/téléchargement1.jpg
+[5]: {{ site.baseurl }}/assets/mzl.xrzmacxd.320x480-751.jpg
 [6]: http://youtube.com/user/Arno00
 [7]: http://twitter.com/outadoc
 [8]: http://gielve.com/

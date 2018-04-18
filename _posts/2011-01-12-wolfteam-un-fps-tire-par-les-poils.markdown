@@ -37,7 +37,7 @@ comments:
 ---
 Si vous aimez les jeux vidéo, et en particulier les FPS, celui-ci pourrait peut-être vous intéresser.
 
-[![](https://outadoc.fr/wp-content/uploads/2011/01/1247049438_wolfteam1.png "WolfTeam")][1]
+[![]({{ site.baseurl }}/assets/1247049438_wolfteam1.png "WolfTeam")][1]
 
 WolfTeam est un FPS multijoueur en ligne, et gratuit. La communauté est assez grande, vous ne serez pas seul sur les serveurs... :P
 
@@ -51,4 +51,4 @@ Les graphismes, eux, sont plutôt bons. Je ne parle pas des performances graphiq
 
 Donc je mettrais bien un... **7,5/10**. Les bugs sont quand même très dérangeants, et le jeu devient vite lassant, malgré plusieurs modes de jeu.
 
-[1]: https://outadoc.fr/wp-content/uploads/2011/01/1247049438_wolfteam1.png
+[1]: {{ site.baseurl }}/assets/1247049438_wolfteam1.png

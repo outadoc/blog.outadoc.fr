@@ -52,7 +52,7 @@ comments:
   content: slt ^^ interessant l'billet :D
 ---
 Si vous vous demandez comment fonctionnent des programmes comme [FreeStance][1] pour communiquer avec votre Freebox sans fil, cet article est là pour vous l'expliquer ! Free a tout simplement développé une API complètement libre et très, très simple d'utilisation.  
-![](https://outadoc.fr/wp-content/uploads/2011/06/Freebox-Revolution-V61.jpg "Freebox-Revolution-V6")
+![]({{ site.baseurl }}/assets/Freebox-Revolution-V61.jpg "Freebox-Revolution-V6")
 
 Elle vous permet en fait de simuler un appui sur une des touches de la télécommande de n'importe quelle Freebox sur le réseau. Tout ça via un simple appel d'URL ! Vous pouvez donc par exemple, changer de chaîne directement par votre navigateur en tapant une adresse spécifique, ou via wget, ou n'importe quel programme ou librairie supportant un appel d'URL tout bête.
 

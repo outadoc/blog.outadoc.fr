@@ -19,7 +19,7 @@ comments: []
 ---
 Si vous avez aimé le jeu The Walking Dead de Telltale, il y a de grandes chances pour que vous aimiez aussi Life Is Strange.
 
-![2015-02-01_00005](https://outadoc.fr/wp-content/uploads/2015/03/2015-02-01_00005-1024x576.jpg)
+![2015-02-01_00005]({{ site.baseurl }}/assets/2015-02-01_00005-1024x576.jpg)
 
 Le dernier né de DONTNOD Entertainment et Square Enix s'en inspire en effet beaucoup. Les mécaniques sont similaires, voire franchement pompées sur le modèle de Telltale. Le gameplay est simple : vous découvrez le monde dans lequel vous allez évoluer. Au fil des discussions et des découvertes, vous devrez faire des choix, qui auront une influence plus ou moins importante sur votre avenir et vos relations. Le jeu est découpé en plusieurs épisodes, là aussi à l'instar de The Walking Dead et autres. Rien de très nouveau de ce côté-là, donc; il ne manque à Life Is Strange guère que les QTE, et ils ne manqueront à personne.
 
@@ -33,11 +33,11 @@ Voilà pour ce qui est du gameplay. Maintenant que les joueurs familiers aux jeu
 
 Vous êtes Max Caulfield, une jeune étudiante en photographie qui est entrée il y a quelques mois à Blackwell Academy, école très réputée de Arcadia Bay. Tout n'est malheureusement pas si rose : comme dans toute école réputée qui se respecte, il a des cons, et puisqu'on est aux USA, il y a même des clubs de cons qui s'unissent dans le seul but de montrer qu'ils sont fiers d'être cons (et riches). Vous avez tout de même des gens sur qui vous pouvez compter, qui deviendront vos amis si vous êtes gentille avec eux.
 
-[![2015-03-28_00012](https://outadoc.fr/wp-content/uploads/2015/03/2015-03-28_00012-1024x576.jpg)][1]
+[![2015-03-28_00012]({{ site.baseurl }}/assets/2015-03-28_00012-1024x576.jpg)][1]
 
 L'immersion est totale. Vous pouvez vous déplacer plus ou moins librement quand vous y êtes invité, aller parler aux autres étudiants, et surtout lire. Le monde est rempli d'affiches, d'objets qui ont leur histoire, de photos. Max aime beaucoup la photographie, et vous pourrez vous balader dans Arcadia Bay en cherchant des sujets qui feront de belles photos, des écureuils aux autobus délabrés. Plus vous passez de temps à explorer l'univers, plus vous en apprendrez sur le monde qui vous entoure. Life Is Strange n'est pas un jeu qui se speedrun; il se déguste.
 
-[![2015-03-28_00001](https://outadoc.fr/wp-content/uploads/2015/03/2015-03-28_00001-1024x576.jpg)][2]
+[![2015-03-28_00001]({{ site.baseurl }}/assets/2015-03-28_00001-1024x576.jpg)][2]
 
 Bien évidemment, le jeu ne se limite pas à l'exploration. Des événements viennent perturber votre tranquillité, et celle de toute la ville. Vous ne savez pas pourquoi vous avez le pouvoir de remonter le temps, mais une chose est sûre : si vous l'avez, c'est qu'il y a une bonne raison. Vous ferez d'innombrables rencontres, des découvertes choquantes, des amis proches, et aurez probablement envie de rire, de pleurer ou de claquer quelqu'un. Life Is Strange joue avec vos émotions, sans utiliser des techniques faciles et revues, mais subtilement, et vous en redemanderez.
 
@@ -47,6 +47,6 @@ Au fait, rapide disclaimer : cet article n'est pas une critique, ni même une r
 
 ### [Life Is Strange sur Steam][3]
 
-[1]: https://outadoc.fr/wp-content/uploads/2015/03/2015-03-28_00012.jpg
-[2]: https://outadoc.fr/wp-content/uploads/2015/03/2015-03-28_00001.jpg
+[1]: {{ site.baseurl }}/assets/2015-03-28_00012.jpg
+[2]: {{ site.baseurl }}/assets/2015-03-28_00001.jpg
 [3]: http://store.steampowered.com/app/319630/

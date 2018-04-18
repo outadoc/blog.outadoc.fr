@@ -23,6 +23,6 @@ comments:
 ---
 Le Bob nouveau est arrivé ! Il a un peu de mal à se retrouver dans ses chiffres significatifs.
 
-[![](https://outadoc.fr/wp-content/uploads/2011/01/bob-001-300x1771.jpg "Bob")][1]*Bob fait ses maths.*
+[![]({{ site.baseurl }}/assets/bob-001-300x1771.jpg "Bob")][1]*Bob fait ses maths.*
 
-[1]: https://outadoc.fr/wp-content/uploads/2011/01/bob-0011.jpg
+[1]: {{ site.baseurl }}/assets/bob-0011.jpg

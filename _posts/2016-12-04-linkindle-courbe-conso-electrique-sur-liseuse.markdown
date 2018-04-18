@@ -84,7 +84,7 @@ comments:
 
 Voulant garder un oeil sur ma consommation électrique durant l'hiver tout en profitant des données maintenant fournies directement par Enedis, j'ai créé le projet Linkindle.
 
-[![linkindle](https://outadoc.fr/wp-content/uploads/2016/12/IMG_20161204_190043-768x576.jpg "Linkindle, fini et accroché au mur")][1]
+[![linkindle]({{ site.baseurl }}/assets/IMG_20161204_190043-768x576.jpg "Linkindle, fini et accroché au mur")][1]
 
 L'afficheur est accroché au mur de mon appartement et allumé en permanence. Grâce à l'écran e-ink de la Kindle, la batterie devrait tenir des semaines sans nécessiter de recharge. L'histogramme est mis à jour une fois par jour.
 
@@ -168,7 +168,7 @@ Le screensaver hack (ou linkss) permet de remplacer les fonds d'écran par défa
 
 Pour l'installer, glissez les fichiers `*.bin` nécessaires dans le dossier racine de votre Kindle (y compris Python 2.7, qui est également fourni, et qui est une dépendance). Ensuite, ouvrez KUAL, puis sélectionnez MR Package Installer et lancez l'installation.
 
-[![python sur kindle](https://outadoc.fr/wp-content/uploads/2016/12/IMG_20161125_183232-768x576.jpg "Installons Python tranquillement")][9]
+[![python sur kindle]({{ site.baseurl }}/assets/IMG_20161125_183232-768x576.jpg "Installons Python tranquillement")][9]
 
 [Thread principal][10]
 
@@ -182,7 +182,7 @@ Téléchargez l'extension [depuis cette page][11] et placez-la dans le dossier `
 
 Et voilà, tout devrait être configuré correctement. Faites un test en lançant une mise à jour du screensaver depuis KUAL > Online Screensaver. Essayez de redémarrer la Kindle, et boum, ça devrait être bon ! ?
 
-[![kindle au mur](https://outadoc.fr/wp-content/uploads/2016/12/IMG_20161204_205043-768x576.jpg "o/")][12]
+[![kindle au mur]({{ site.baseurl }}/assets/IMG_20161204_205043-768x576.jpg "o/")][12]
 
 ## Comment ça marche ?
 
@@ -196,7 +196,7 @@ La génération des histogrammes est réalisée par `linky_plot.py`. J'utilise `
 
 Enfin, le point d'entrée "normale" est le fichier `gen_graphs.sh`, dans lequel est appelé le script Python 3, mais également l'outil `imagemagick`, qui est **hyper important** pour la génération d'images adaptées à l'écran de la Kindle. Un paramètre incorrect, et les résultats seront inutilisables.
 
-[1]: https://outadoc.fr/wp-content/uploads/2016/12/IMG_20161204_190043.jpg
+[1]: {{ site.baseurl }}/assets/IMG_20161204_190043.jpg
 [2]: https://www.amazon.fr/mycd
 [3]: https://github.com/outadoc/linkindle/
 [4]: http://wiki.mobileread.com/wiki/Kindle_Serial_Numbers
@@ -204,7 +204,7 @@ Enfin, le point d'entrée "normale" est le fichier `gen_graphs.sh`, dans lequel 
 [6]: http://www.mobileread.com/forums/showthread.php?t=225030
 [7]: http://www.mobileread.com/forums/showthread.php?t=203326
 [8]: http://www.mobileread.com/forums/showthread.php?t=251143
-[9]: https://outadoc.fr/wp-content/uploads/2016/12/IMG_20161125_183232.jpg
+[9]: {{ site.baseurl }}/assets/IMG_20161125_183232.jpg
 [10]: http://www.mobileread.com/forums/showthread.php?t=195474
 [11]: http://www.mobileread.com/forums/showthread.php?t=236104
-[12]: https://outadoc.fr/wp-content/uploads/2016/12/IMG_20161204_205043.jpg
+[12]: {{ site.baseurl }}/assets/IMG_20161204_205043.jpg

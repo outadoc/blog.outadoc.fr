@@ -29,7 +29,7 @@ comments:
 ---
 Le Site du Zéro, ou SdZ, est un site pour apprendre l'informatique (de façon plus ou moins poussée) aux débutants dans ce domaine.
 
-[![](https://outadoc.fr/wp-content/uploads/2011/02/logo_sdz_fr1.png "logo_sdz_fr")][1]
+[![]({{ site.baseurl }}/assets/logo_sdz_fr1.png "logo_sdz_fr")][1]
 
 Vous y trouverez des tutoriels d'à peu-près tous les genres, se rapportant à l'informatique ou, depuis peu, aux sciences. Le site repose également sur une immense communauté : un forum et des news collaboratives ont été mis en place.
 
@@ -50,7 +50,7 @@ Il existe également [une page sur le site][12] pour accueillir les petits nouve
 
 ## [Aller sur le Site du Zéro][13]
 
-[1]: https://outadoc.fr/wp-content/uploads/2011/02/logo_sdz_fr1.png
+[1]: {{ site.baseurl }}/assets/logo_sdz_fr1.png
 [2]: http://www.siteduzero.com/tutoriel-1-57-programmation.html
 [3]: http://www.siteduzero.com/tutoriel-1-67-site-web.html
 [4]: http://www.siteduzero.com/tutoriel-1-60-systemes-d-exploitation.html

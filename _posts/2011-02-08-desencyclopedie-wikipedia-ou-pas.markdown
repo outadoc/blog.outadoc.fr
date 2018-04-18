@@ -28,7 +28,7 @@ comments:
 ---
 Vous connaissez FORCÉMENT Wikipedia. Et bien la dÉsencyclopédie est ce qu'on pourrait appeler... son jumeau diabolique. (tiens, j'ai capté votre attention là :P )
 
-[![](https://outadoc.fr/wp-content/uploads/2011/02/Désencyclopédie-release_candidates1m1.png "Désencyclopédie-release_candidates1m")][1]
+[![]({{ site.baseurl }}/assets/Désencyclopédie-release_candidates1m1.png "Désencyclopédie-release_candidates1m")][1]
 
 La dÉsencyclopédie repose sur le même moteur que Wikipédia: son apparence est donc la même (au changement de version près). Mais le contenu est... différent. Jetons par exemple un coup d'oeil à cet [article sur l'abricot.][2]
 
@@ -38,7 +38,7 @@ C'est ce que j'appelle une citation courte mais efficace.
 
 Mais mon article préféré reste celui sur [le truc en plastique dont on ne se souvient jamais du nom qui sert à sortir les cornichons du bocal sans y mettre les doigts][3]. Et oui, ils l'ont fait... je vous laisse lire ça tranquillement, ça en vaut la peine. Oh, et un dernier conseil: n'hésitez pas à utiliser le lien [Page au hasard][4] dans la colonne de gauche ! ;)
 
-[1]: https://outadoc.fr/wp-content/uploads/2011/02/Désencyclopédie-release_candidates1m1.png
+[1]: {{ site.baseurl }}/assets/Désencyclopédie-release_candidates1m1.png
 [2]: http://desencyclopedie.wikia.com/wiki/Abricot
 [3]: http://desencyclopedie.wikia.com/wiki/Le_truc_en_plastique_dont_on_ne_se_souvient_jamais_du_nom_qui_sert_%C3%A0_sortir_les_cornichons_du_bocal_sans_y_mettre_les_doigts
 [4]: http://desencyclopedie.wikia.com/wiki/Sp%C3%A9cial:Page_au_hasard

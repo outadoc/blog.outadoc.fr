@@ -26,7 +26,7 @@ comments:
 ---
 Si vous connaissez Windows 7 et Mac OS X, vous saurez que la manipulation des fenêtres de ce dernier peut vite devenir chaotique. Windows 7 a introduit un système de vignettes quand on survole l'icône d'un programme dans la barre des tâches, ainsi qu'Aero Snap. Quant au Dock de Mac OS, il n'a pas changé depuis bien longtemps... HyperDock est là pour lui apporter les nouveautés qui lui reviennent de droit.
 
-[![](https://outadoc.fr/wp-content/uploads/2011/08/top1.png "HyperDock")][1]
+[![]({{ site.baseurl }}/assets/top1.png "HyperDock")][1]
 
 Les principales fonctionnalités de ce programme (malheureusement payant) sont:
 

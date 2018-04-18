@@ -34,16 +34,16 @@ comments:
 ---
 Si vous êtes un geek (ou une geekette ? Oo) et que vous vous ennuyez souvent devant votre PC, j'ai de quoi vous occuper pendant un bon moment ! :D
 
-[![](https://outadoc.fr/wp-content/uploads/2011/07/neo_banniere1.png "neo_banniere")][1]
+[![]({{ site.baseurl }}/assets/neo_banniere1.png "neo_banniere")][1]
 
 Hmm-la-bd est un site en français (créé par [mogmi][2]) qui propose des strips marrants assez régulièrement. Il faut être un geek pour comprendre certains d'entre eux, mais pour ça je vous fais confiance ! :D
 
 Quelques strips pour vous allécher :
 
-[![](https://outadoc.fr/wp-content/uploads/2011/07/134-preuve.png "hmm-la-bd-preuve")][3]
+[![]({{ site.baseurl }}/assets/134-preuve.png "hmm-la-bd-preuve")][3]
 
-## [![](https://outadoc.fr/wp-content/uploads/2011/07/139-repartition.png "hmm-la-bd-repartition")][3][Aller sur Hmm-la-bd.eu][3]
+## [![]({{ site.baseurl }}/assets/139-repartition.png "hmm-la-bd-repartition")][3][Aller sur Hmm-la-bd.eu][3]
 
-[1]: https://outadoc.fr/wp-content/uploads/2011/07/neo_banniere1.png
+[1]: {{ site.baseurl }}/assets/neo_banniere1.png
 [2]: https://twitter.com/#!/Mogmi95
 [3]: http://hmm-la-bd.eu

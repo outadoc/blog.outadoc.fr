@@ -48,10 +48,10 @@ comments:
 ---
 Je viens de mettre à jour [Chromote][1], mon extension Google Chrome pour contrôler sa Freebox depuis n'importe quelle page web. La première version était, il faut bien l'avouer, franchement pas belle... Chromote a donc reçu une refonte complète de son interface.
 
-[![](https://outadoc.fr/wp-content/uploads/2011/01/screen1.png "Chromote")][2]
+[![]({{ site.baseurl }}/assets/screen1.png "Chromote")][2]
 
 Vous pouvez télécharger Chromote sur [le site d'extensions Google Chrome][3].
 
 [1]: https://dev.outadoc.fr/project/freestance/
-[2]: https://outadoc.fr/wp-content/uploads/2011/01/screen1.png
+[2]: {{ site.baseurl }}/assets/screen1.png
 [3]: https://chrome.google.com/extensions/detail/cpchednnjdladkifnhcohdhkjpkabmjf

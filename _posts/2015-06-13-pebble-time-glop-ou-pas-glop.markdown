@@ -20,7 +20,7 @@ Si vous vous intéressez à la tech et en particulier aux montres connectées, v
 
 Après avoir été critiqué pour les délais de fabrication, et le lancement Pebble Steel un an plus tard, version en métal plus "testostérone" de la montre, Pebble est de retour sur [Kickstarter en février 2015][2], et cette fois-ci ils savent ce qu'ils font. 20 millions de dollars plus tard... L'heure du galet est arrivée.
 
-![IMG_20150613_113722](https://outadoc.fr/wp-content/uploads/2015/06/IMG_20150613_113722-1024x584.jpg)
+![IMG_20150613_113722]({{ site.baseurl }}/assets/IMG_20150613_113722-1024x584.jpg)
 
 Pebble Time est la nouvelle montre connectée de Pebble. Elle propose un design plus propre et moins "jouet" que la Pebble originelle, un écran en couleur, une interface repensée, et toujours 7 jours de batterie. Et je l'ai testée ! Je vais essayer de faire une critique plutôt objective - mais je me réserve le droit d'être subjectif, donc ne buvez pas mes mots - et de découper ça en deux parties : matériel et logiciel.
 
@@ -30,7 +30,7 @@ Pebble Time est la nouvelle montre connectée de Pebble. Elle propose un design 
 
 La Pebble Time est une jolie montre. Plus jolie en vrai que sur les photos marketing, comme c'est souvent le cas pour les montres. Elle n'est pas trop grosse, et le dos est un peu arrondi, ce qui lui permet de bien épouser la forme du poignet. Elle est vraiment confortable, bien plus que la Pebble originelle. Même si elle est en plastique, les finitions sont plutôt bonnes et elle est assez solide; comme souvent noté, elle fait moins "jouet" que la Pebble originelle, et j'aurais bien moins honte de la porter dans n'importe quelle situation.
 
-[![IMG_20150613_113214](https://outadoc.fr/wp-content/uploads/2015/06/IMG_20150613_113214-1024x584.jpg)][3]
+[![IMG_20150613_113214]({{ site.baseurl }}/assets/IMG_20150613_113214-1024x584.jpg)][3]
 
 ## Écran
 
@@ -38,11 +38,11 @@ L'écran de la Pebble Time est à la fois son point fort et son point faible. L'
 
 La couleur, mine de rien, ajoute beaucoup à l'écran. Je ne vais pas rentrer dans les détails logiciels tout de suite, mais l'utilisation de la couleur dans l'OS est très proéminente, et franchement agréable. On est toutefois limités à 64 couleurs, ce qui sera gênant dans certains cas. Le geek en moi aime toutefois beaucoup cette limitation. Un écran limité à 144x168 pixels et 64 couleurs, ça permet de donner libre cours à l'imagination des développeurs et designers ; tout comme une limitation de 140 caractères a donné vie à un service web aujourd'hui inévitable.
 
-[![NYAN NYAN NYAN NYAN NYAN NYAN NYAN~](https://outadoc.fr/wp-content/uploads/2015/06/IMG_20150613_163315-1024x584.jpg "Nyan nyan nyan nyan nyan nyan nyan nyan~")][4]
+[![NYAN NYAN NYAN NYAN NYAN NYAN NYAN~]({{ site.baseurl }}/assets/IMG_20150613_163315-1024x584.jpg "Nyan nyan nyan nyan nyan nyan nyan nyan~")][4]
 
 Le gros point faible de l'écran, c'est sa lisibilité dans certaines situations. Là où l'écran de la Pebble originelle était quasiment toujours lisible sauf dans l'obscurité, ma première impression en voyant l'écran de la Time est qu'il est... sombre. Les couleurs sont fades. Il est très facilement lisible en plein soleil, mais en intérieur, c'est moins facilement le cas ; le manque de contraste fait que vous devrez plus souvent activer le rétroéclairage, qui, heureusement, fonctionne toujours aussi bien. Vous pouvez secouer votre poignet pour l'activer, et il est même plus réactif qu'avant, ce qui est une bonne chose.
 
-[![C'est... sombre.](https://outadoc.fr/wp-content/uploads/2015/06/IMG_20150613_113523-1024x584.jpg "C'est... sombre. Et je suis à côté d'une fenêtre.")][5]
+[![C'est... sombre.]({{ site.baseurl }}/assets/IMG_20150613_113523-1024x584.jpg "C'est... sombre. Et je suis à côté d'une fenêtre.")][5]
 
 Enfin, le verre de l'écran est une amélioration incroyable par rapport au plastique peu résistant de la Pebble originelle. Il est aussi élégant qu'il a l'air solide, malgré un biseau assez large autour de l'écran.
 
@@ -66,7 +66,7 @@ Peut-être étonnamment, la Pebble Time ne se vente pas d'embarquer des dizaines
 
 Le pari de Pebble, c'est que ces capteurs pourront, à terme, être fournis par des Smartstraps, ou "bracelets intelligents". Les bracelets de la Pebble Time peuvent en effet se brancher sur le port de rechargement (propriétaire), désormais placé sous la montre, et communiquer avec.
 
-[![IMG_20150613_120522](https://outadoc.fr/wp-content/uploads/2015/06/IMG_20150613_120522-1024x584.jpg "L'arrière de la Pebble Time. On notera la résistance à l'immersion, que je n'ai pas encore testée.")][6]
+[![IMG_20150613_120522]({{ site.baseurl }}/assets/IMG_20150613_120522-1024x584.jpg "L'arrière de la Pebble Time. On notera la résistance à l'immersion, que je n'ai pas encore testée.")][6]
 
 Les API pour communiquer avec les Smartstraps ne sont cependant pas encore disponibles, et les Smartstraps non plus d'ailleurs. Seul le temps nous dira si le concept intéresse assez des fabricants pour qu'ils investissent dans ce marché.
 
@@ -116,7 +116,7 @@ Le plus gros changement est une fonctionnalité appelée Timeline. En appuyant s
 
 Cette fonctionnalité est très mise en avant, et je dois avouer l'avoir trouvée plutôt pratique, principalement pour la météo et pour consulter mon agenda. Timeline est disponible comme outil pour être utilisé par les développeurs, donc je pense qu'on va voir le nombre d'applications en prenant avantage se multiplier dans un futur proche.
 
-[![La vue ](https://outadoc.fr/wp-content/uploads/2015/06/IMG_20150613_113226-1024x584.jpg "La vue \"futur\" de Timeline")][7]
+[![La vue ]({{ site.baseurl }}/assets/IMG_20150613_113226-1024x584.jpg "La vue \"futur\" de Timeline")][7]
 
 # Bilan
 
@@ -132,9 +132,9 @@ Je ne regrette pas d'avoir choisi une Pebble Time. J'ai l'impression que les alt
 
 [1]: https://www.kickstarter.com/projects/597507018/pebble-e-paper-watch-for-iphone-and-android/description
 [2]: https://www.kickstarter.com/projects/597507018/pebble-time-awesome-smartwatch-no-compromises/description
-[3]: https://outadoc.fr/wp-content/uploads/2015/06/IMG_20150613_113214.jpg
-[4]: https://outadoc.fr/wp-content/uploads/2015/06/IMG_20150613_163315.jpg
-[5]: https://outadoc.fr/wp-content/uploads/2015/06/IMG_20150613_113523.jpg
-[6]: https://outadoc.fr/wp-content/uploads/2015/06/IMG_20150613_120522.jpg
-[7]: https://outadoc.fr/wp-content/uploads/2015/06/IMG_20150613_113226.jpg
-[8]: https://outadoc.fr/wp-content/uploads/2015/06/IMG_20150604_175246.jpg
+[3]: {{ site.baseurl }}/assets/IMG_20150613_113214.jpg
+[4]: {{ site.baseurl }}/assets/IMG_20150613_163315.jpg
+[5]: {{ site.baseurl }}/assets/IMG_20150613_113523.jpg
+[6]: {{ site.baseurl }}/assets/IMG_20150613_120522.jpg
+[7]: {{ site.baseurl }}/assets/IMG_20150613_113226.jpg
+[8]: {{ site.baseurl }}/assets/IMG_20150604_175246.jpg

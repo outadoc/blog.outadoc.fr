@@ -59,13 +59,13 @@ Alors !
 
 1. Ma première requête Google ? Je sais pas du tout. De toute façon j'utilisais Lycos à l'époque (en attendant de me rendre compte que Google était bieeeen mieux :P)
 
-![](https://outadoc.fr/wp-content/uploads/2011/01/logo-lycos.jpg)
+![]({{ site.baseurl }}/assets/logo-lycos.jpg)
 
 2. Oui. Si on veut. Attention... candellierbaptiste@caramail.com. Mon nom et mon prénom, tout ça chez Lycos. (oui, encore lui :P) D'ailleurs, pour l'anecdote, j'ai toujours une adresse Caramail, que j'ai reprise depuis qu'il a été repris par GMX.
 
 3. Mon premier site. Oula. C'est du lourd. Je l'ai créé en 4ème, il me semble, avec Webnode, un service gratuit et mal traduit pour créer des sites en WYSIWYG (What You See Is What You Get, "ce que tu vois c'est ce que t'obtiens" pour les intimes. Il doit toujours être en ligne, d'ailleurs... C'est un site sur Retour Vers le Futur, j'étais un grand fan à l'époque. Ah, je l'ai retrouvé: [http://retourverslefutur.webnode.com/][3] Le pire c'est que aux dernières nouvelles, j'ai encore énormément de visites dessus Oo
 
-[![](https://outadoc.fr/wp-content/uploads/2011/01/Capture-1024x1411.png "Stats")][4]
+[![]({{ site.baseurl }}/assets/Capture-1024x1411.png "Stats")][4]
 
 4. Mmh. Alors ça, ça doit être le [forum Retour Vers Le Futur][5] français. (oui, encore lui :P)
 
@@ -86,5 +86,5 @@ Bon, voilà, j'espère que mes réponses seront convaincantes ! ;)
 [1]: http://www.mangetamain.fr/moi-moi-moi/votre-premiere-recherche-google-votre-premier-site-web-votre-premier-mail-rappelez-vous.html
 [2]: http://twitter.com/kaleidoscopique
 [3]: http://retourverslefutur.webnode.com/
-[4]: https://outadoc.fr/wp-content/uploads/2011/01/Capture1.png
+[4]: {{ site.baseurl }}/assets/Capture1.png
 [5]: http://www.retourverslefutur.com/forumbttf/

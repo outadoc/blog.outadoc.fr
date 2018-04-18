@@ -62,7 +62,7 @@ Hey les gens ! Vous saviez que Minecraft 1.4 sortait demain ? Il y aura plein de
 
 Et bien, coup de chance (si si), demain c'est aussi la sortie de ma nouvelle application : Server List for Minecraft !
 
-[![](https://outadoc.fr/wp-content/uploads/2012/10/icon-large@2x1.png "Icon")][1]
+[![]({{ site.baseurl }}/assets/icon-large@2x1.png "Icon")][1]
 
 C'est une application toute simple, mais qui ravira de nombreux joueurs et administrateurs de serveurs, j'en suis certain.
 
@@ -76,7 +76,7 @@ C'est une application toute simple, mais qui ravira de nombreux joueurs et admin
 
 Voilà, ça c'était la version formelle. En gros, l'application vous permettra d'afficher vos serveurs préférés, pour que vous puissiez savoir s'ils sont down, ou s'il reste de la place dessus, sans avoir à lancer Minecraft. D'ailleurs, on notera que sa liste de serveurs est assez bugguée; quand la connexion à un serveur échoue, quoi qu'il arrive, le serveur affiché dans la liste ne pourra plus ping non plus et donc vous ne pourrez plus avoir ses infos, même s'il est up. Sever List pour Minecraft devrait vous permettre de contourner le problème de façon assez ergonomique.
 
-[![](https://outadoc.fr/wp-content/uploads/2012/10/screen1-464x10241.png "screen1")][2][![](https://outadoc.fr/wp-content/uploads/2012/10/screen2-464x10241.png "screen2")][3]
+[![]({{ site.baseurl }}/assets/screen2-464x10241.png "screen2")][3]
 
 J'espère que l'app vous plaira ! Sinon (et si oui aussi d'ailleurs :p), vous pouvez toujours aller regarder mes autres applications, tout est sur le [nouveau site tout beau tout neuf de outa\[dev\]][4].
 
@@ -85,7 +85,7 @@ Server List pour Minecraft est disponible dans l'App Store en français et en an
 ## [Télécharger Server List for Minecraft][5]
 
 [1]: http://dev.outadoc.fr/project/server-list/
-[2]: https://outadoc.fr/wp-content/uploads/2012/10/screen11.png
-[3]: https://outadoc.fr/wp-content/uploads/2012/10/screen21.png
+[2]: {{ site.baseurl }}/assets/screen11.png
+[3]: {{ site.baseurl }}/assets/screen21.png
 [4]: http://dev.outadoc.fr/projects.html
 [5]: https://itunes.apple.com/en/app/server-list-for-minecraft/id568969472?l=fr&ls=1&mt=8

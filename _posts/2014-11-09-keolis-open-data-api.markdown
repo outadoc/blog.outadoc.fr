@@ -49,7 +49,7 @@ comments:
 ---
 J'ai fait une découverte quelque-peu intriguante, il y a quelques temps, en passant au crible l'app officielle du réseau Twisto. Une URL était hard-coded, et pointait vers un sous-domaine de Keolis : **timeo3.keolis.com**.
 
-[![Logo_Keolis_Groupe_0](https://outadoc.fr/wp-content/uploads/2014/11/Logo_Keolis_Groupe_0-1024x2351.png "La boîte qui vous permet d'aller au boulot quand le tram n'est pas en panne.")][1]
+[![Logo_Keolis_Groupe_0]({{ site.baseurl }}/assets/Logo_Keolis_Groupe_0-1024x2351.png "La boîte qui vous permet d'aller au boulot quand le tram n'est pas en panne.")][1]
 
 Cette découverte m'a mis la puce à l'oreille; étant développeur de Twistoast, une application qui jusqu'ici analysait directement les données présentes sur le site officiel de Twisto afin de présenter une liste d'horaires dans une application native, j'étais plutôt bien placé pour savoir que Timeo est le petit nom donné au système d'horaires en temps réel du réseau de bus de Caen. Et pas seulement, apparemment.
 
@@ -95,7 +95,7 @@ Par ailleurs, je ne sais pas qui a posté le [Pastebin originel][7], mais je sen
 
 Je sens que cette API a vraiment énormément de potentiel, et qu'une tonne d'autres données est disponible sur le site de Keolis. Je n'étais pas du tout intéressé par le domaine avant de me mettre à développer Twistoast, mais il y a encore énormément de progrès, de découvertes et d'inventions à développer dans le domaine du transport, et j'ai hâte de voir (ou même de participer) à ça.
 
-[1]: https://outadoc.fr/wp-content/uploads/2014/11/Logo_Keolis_Groupe_01.png
+[1]: {{ site.baseurl }}/assets/Logo_Keolis_Groupe_01.png
 [2]: https://gist.github.com/outadoc/40060db45c436977a912/
 [3]: http://actigraph.fr/843-Les-realisations.html
 [4]: https://github.com/outadoc/Twisto-API

@@ -51,7 +51,7 @@ comments:
 ---
 Comme vous le savez peut-être, je suis le développeur du (maintenant célèbre o/) [mod FantaBobShow][1] pour [Minecraft][2]. Un mod qui reprend les acteurs du [FantaBobShow][3] et les ajoute dans le jeu, notamment. Et qui reprend certaines de leurs répliques pour les ressortir ingame.
 
-[![](https://outadoc.fr/wp-content/uploads/2011/08/boblennon1.png "boblennon")][4]
+[![]({{ site.baseurl }}/assets/boblennon1.png "boblennon")][4]
 
 Et nous y voilà, le point fâcheux du mod... Autant je me débrouille plutôt pas mal niveau code, autant télécharger des dizaines de fois les versions MP3 des vidéos YouTube afin d'y récupérer les quelques répliques intéressantes, c'est pas vraiment mon truc.
 
@@ -71,7 +71,7 @@ Merci d'avance à ceux qui tenteront l'aventure !
 [1]: http://forum.fantabobshow.com/index.php?threads/1-6-4-fantabobmod-le-mod-le-plus-show.23825/
 [2]: http://outadoc.fr/2011/02/minecraft-3d-analogique/
 [3]: http://fantabobshow.com
-[4]: https://outadoc.fr/wp-content/uploads/2011/08/boblennon1.png
+[4]: {{ site.baseurl }}/assets/boblennon1.png
 [5]: http://audacity.sourceforge.net/download/
 [6]: http://www.mediafire.com/
 [7]: http://www.megaupload.com/

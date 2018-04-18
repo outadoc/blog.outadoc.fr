@@ -67,19 +67,19 @@ comments:
 Minecraft est un jeu vidéo pour PC assez spécial. Il est en 3D, mais... Comment dire... C'est un mélange entre un jeu actuel et Super Marios Bros. 1.  
 [][1]
 
-[![](https://outadoc.fr/wp-content/uploads/2011/02/20110218-1132051.jpg)][2]
+[![]({{ site.baseurl }}/assets/20110218-1132051.jpg)][2]
 
 C'est un jeu très addictif, sans objectif défini. Le but du jeu : vous amuser. Vous creusez pour récupérer des matériaux (sous la forme de gros cubes). Vous n'avez que vos mains pour creuser au départ. Mais plus vous creusez, plus vous pouvez créer d'objets, et plus vous créez d'objets, plus vous creusez... Tout ça en assemblant des blocs pour faire des constructions aussi folles que votre imagination le permettra.
 
-[![](https://outadoc.fr/wp-content/uploads/2011/02/2011-02-02_22.34.501.png "De l'imagination, et hop, c'est parti !")][3]
+[![]({{ site.baseurl }}/assets/2011-02-02_22.34.501.png "De l'imagination, et hop, c'est parti !")][3]
 
 Vous pouvez jouer à Minecraft en solo ou en multijoueur. Si vous choisissez de jouer en multi, pourquoi ne pas venir faire un petit coucou sur [minecraft.outrant.be][4] ?.. ;)
 
-[![](https://outadoc.fr/wp-content/uploads/2011/02/2011-01-31_16.03.591.png "En multi, c'est sympa aussi !")][5]
+[![]({{ site.baseurl }}/assets/2011-01-31_16.03.591.png "En multi, c'est sympa aussi !")][5]
 
 Et l'avantage du multijoueur, c'est que parfois on s'éclate vraiment bien.
 
-[![](https://outadoc.fr/wp-content/uploads/2011/02/2011-02-16_16.02.491.png "Screenshot tiré du serveur minefield.fr. ONK ONK")][6]
+[![]({{ site.baseurl }}/assets/2011-02-16_16.02.491.png "Screenshot tiré du serveur minefield.fr. ONK ONK")][6]
 
 Minecraft est toujours en beta au moment où je rédige cet article. Il coûte 15€, mais il vous en coûtera 20€ si vous comptez l'acheter dans sa version finale; en sachant qu'en l'achetant maintenant, vous avez droit à toutes les futures mises à jour gratuitement, ça ne vaut peut-être pas le coup d'attendre... ;)
 
@@ -87,7 +87,7 @@ Une version gratuite, très limitée en fonctionnalités est disponible sur [min
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/FoiYLQduH9M" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-[1]: https://outadoc.fr/wp-content/uploads/2011/02/20110218-1132051.jpg
+[1]: {{ site.baseurl }}/assets/20110218-1132051.jpg
 [2]: http://minecraft.net
 [3]: http://minecraft.outrant.be
 [4]: minecraft.outrant.be

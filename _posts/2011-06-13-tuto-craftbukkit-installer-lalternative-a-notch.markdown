@@ -45,7 +45,7 @@ comments:
 ---
 Si vous connaissez Minecraft et son mode multijoueur, vous saurez sans doute que le serveur de base n'offre que des possibilités limitées. En effet, ne pouvant pas être moddé par la communauté, il souffre de nombreuses lacunes. Mais ce n'est pas si grave, puisqu'une alternative totalement compatible existe: j'ai nommé **CraftBukkit** !
 
-[![](https://outadoc.fr/wp-content/uploads/2011/06/logo1.png "Bukkit")][1]
+[![]({{ site.baseurl }}/assets/logo1.png "Bukkit")][1]
 
 C'est un serveur de remplacement pour Minecraft géré par la communauté Bukkit. Je vous le dis tout de suite: si vous vous contentez de jouer sur des serveurs multijoueurs sans en maintenir un vous-même, cet article ne vous servira pas à grand-chose.
 

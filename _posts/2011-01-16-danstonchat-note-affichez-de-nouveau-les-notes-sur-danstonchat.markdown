@@ -45,7 +45,7 @@ comments:
 ---
 Pour ceux qui ne connaîtraient pas DansTonChat.com, c'est un site pour geeks qui rassemble beaucoup de citations de gens sur les chats ('tchates' hein, pas les boules de poils), IRC principalement. On peut voter pour ses quotes (citations) préférées, mais depuis la nouvelle version du site parue récemment, la note finale des quotes n'est plus affichée. :( C'était un nombre entre -10 et 10 qui permettait de voir rapidement si la quote avait été appréciée.
 
-![](https://outadoc.fr/wp-content/uploads/2011/01/dtclogo.png "DTC")
+![]({{ site.baseurl }}/assets/dtclogo.png "DTC")
 
 Heureusement, grâce à Ashka (pour le script) et moi-même (pour le portage), nous sommes maintenant en mesure de vous fournir une extension Chrome pour remettre les notes en 2 clics ! :D
 

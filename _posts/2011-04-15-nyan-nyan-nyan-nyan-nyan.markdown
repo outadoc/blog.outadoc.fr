@@ -40,7 +40,7 @@ comments:
 ---
 Parce que vous le valez bien.
 
-<object width="480" height="390"><param name="movie" value="http://www.youtube.com/v/QH2-TGUlwu4?fs=1&hl=fr_FR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/QH2-TGUlwu4?fs=1&hl=fr_FR" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="390"></embed></object>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/QH2-TGUlwu4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 (via [@Serialk_][1])
 

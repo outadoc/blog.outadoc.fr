@@ -44,7 +44,7 @@ comments:
 ---
 Vous aimez les jeux vidéo ? Vous passez votre vie sur YouTube pour regarder des playthroughs et autres aventures suivies ? Alors vous adorerez Gear Network !
 
-[![](https://outadoc.fr/wp-content/uploads/2011/12/xns32s1.png "Gear Network logo")][1]
+[![]({{ site.baseurl }}/assets/xns32s1.png "Gear Network logo")][1]
 
 Gear Network est une nouvelle plateforme de vidéos sur les jeux vidéo lancée le 17 décembre de cette année. Son principe de base est assez similaire à celui d'un [YouTube][2] ou autre [DailyMotion][3], si ce n'est que sur Gear Network, les vidéos ne sont pas triées par utilisateur... mais par émission : si vous aimez un vidéaste mais pas toutes ses émissions, vous pourrez ne suivre que certaines d'entre elles. Très pratique si par exemple, vous adorez le playthrough de [Arc111111][4] sur le dernier Zelda, mais que vous n'aimez pas ses vidéos de Terraria. Vous ne vous abonnez qu'à l'un d'eux, que vous retrouverez alors sur votre page d'abonnements à chaque nouvelle vidéo.
 
@@ -65,13 +65,13 @@ Le but de l'accueil est donc de vous faire découvrir de nouvelles émissions ou
 
 On remarquera que la plupart des pages du site sont découpées plus ou moins de la même façon, ce qui le rend très intuitif.
 
-[![](https://outadoc.fr/wp-content/uploads/2011/12/Gear-Network-905x10241.png "Gear Network")][5]
+[![]({{ site.baseurl }}/assets/Gear-Network-905x10241.png "Gear Network")][5]
 
 #### Abonnements
 
 Une des sections les plus importantes du site ([merci Captain' Obvious][6]), la page des abonnements regroupe les derniers épisodes de toutes les émissions auxquelles vous êtes abonné. La présentation est encore une fois très intuitive et épurée (des adjectifs qui qualifient extrêmement bien le site), avec les émissions affichées, selon votre préférence, soit sous forme de ligne (pour afficher jusqu'à 4 vidéos par émission), soit sous forme de bloc; vous aurez alors droit au logo de l'émission, sa description et deux vidéos d'affichées. Quand vous êtes en mode ligne, vous aurez même droit à une fonction bien pratique : si vous cliquez sur le petit bouton en haut à droite d'une "sub box", pour reprend le terme Youtubien, l'émission concernée sera remontée tout en haut de la page. Bien pratique si vous n'avez pas le temps de regarder une vidéo mais que vous ne voulez pas l'oublier !
 
-[![](https://outadoc.fr/wp-content/uploads/2011/12/gn2-1024x4961.png "Abonnements")][7]
+[![]({{ site.baseurl }}/assets/gn2-1024x4961.png "Abonnements")][7]
 
 #### Notifications
 

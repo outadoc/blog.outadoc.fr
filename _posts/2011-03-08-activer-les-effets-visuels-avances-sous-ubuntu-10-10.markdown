@@ -50,8 +50,8 @@ Vous qui êtes un geek et qui avez une machine sous Ubuntu, j'ai quelque chose q
 
 Pour activer ces effets, Allez dans le menu Système > Préférences > Apparence, et, dans l'onglet "Effets visuels", activez "Extra". Attention ! Il vous faudra pour cela une carte graphique assez puissante, sinon, ça n'en vaut pas la peine.
 
-[![](https://outadoc.fr/wp-content/uploads/2011/03/pref11.png "pref")][1]
+[![]({{ site.baseurl }}/assets/pref11.png "pref")][1]
 
 Je ne peux pas vous faire de capture des effets (trop rapide), mais c'est assez sympa, vous allez voir. La fenêtre se déforme quand vous la déplacez ou l'agrandissez. À noter que si votre ordinateur rame beaucoup avec la configuration de base, choisissez "Aucun" à la place de "Extra" ou "Normal".
 
-[1]: https://outadoc.fr/wp-content/uploads/2011/03/pref11.png
+[1]: {{ site.baseurl }}/assets/pref11.png

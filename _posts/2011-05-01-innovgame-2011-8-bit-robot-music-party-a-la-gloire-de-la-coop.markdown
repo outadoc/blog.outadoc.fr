@@ -47,7 +47,7 @@ Pour ceux qui ne connaissent pas Innov'Game, c'est un concours organisé par l'E
 
 Mais ne nous éloignons pas du sujet (enfin c'est toujours le sujet, mais voilà... et puis j'avais envie de coller une phrase entre parenthèses qui sert à rien). L'un des projets initiés à l'occasion de ce concours, c'est...
 
-[![](https://outadoc.fr/wp-content/uploads/2011/05/logo1.png "logo")][1]
+[![]({{ site.baseurl }}/assets/logo1.png "logo")][1]
 
 C'est un jeu développé par SwitchCode, un studio de développement composé de deux jeunes geeks que j'admire, [YoruNoHikage][2] et [Brindesable][3].
 
@@ -67,7 +67,7 @@ Oh, et pour gagner le concours, 8-Bit Robot Music Party doit être téléchargé
 
 ## [Télécharger 8-Bit Robot Music Party][6]
 
-[1]: https://outadoc.fr/wp-content/uploads/2011/05/logo1.png
+[1]: {{ site.baseurl }}/assets/logo1.png
 [2]: http://twitter.com/YoruNoHikage
 [3]: http://twitter.com/Brindesable
 [4]: http://innovgame.efrei.fr/concours/rendu/2011/SwitchCode/index.html#

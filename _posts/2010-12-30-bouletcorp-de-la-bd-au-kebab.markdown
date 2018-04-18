@@ -37,7 +37,7 @@ Les notes sortent régulièrement en livres: pour l'instant, les 5 premières sa
 
 Bon, allez, chuis gentil, je vous poste ici une de ses notes ! :)
 
-[![](https://outadoc.fr/wp-content/uploads/2010/12/20080731.jpg "Note du 31/07/08")][3]
+[![]({{ site.baseurl }}/assets/20080731.jpg "Note du 31/07/08")][3]
 
 # [Accéder à BouletCorp.com][4]
 

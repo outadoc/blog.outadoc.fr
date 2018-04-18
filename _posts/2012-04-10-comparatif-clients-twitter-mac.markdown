@@ -40,7 +40,7 @@ Je vais donc ici essayer de classer les apps que j'ai essayées, et vous expliqu
 
 L'app officielle de Twitter, que j'utilise actuellement. Initialement développée par atebits avec pour nom Tweetie, c'est encore la meilleure app à ce jour; du moins, tant que Twitter ne la massacre pas comme elle l'a fait avec Twitter for iPhone...
 
-[![](https://outadoc.fr/wp-content/uploads/2012/04/mzl.ginwsyad.800x500-751.jpg "Twitter-for-Mac")][1]
+[![]({{ site.baseurl }}/assets/mzl.ginwsyad.800x500-751.jpg "Twitter-for-Mac")][1]
 
 Jusque là, tout va bien : l'interface s'intègre bien à celle de Mac OS X Lion, les images peuvent s'ouvrir dans une fenêtre dédiée... Cependant, il lui manque toujours quelques fonctions mineures, comme pour avoir plus d'informations sur un tweet (réponses, retweets, favoris, client utilisé, etc). D'autres fonctions manquent à l'appel, comme les Interactions, fonction du #NewNewTwitter qui s'avère finalement bien utile pour suivre les retweets de ses propres tweets ainsi que ses nouveaux followers.
 
@@ -52,7 +52,7 @@ On qualifiera cette app d'un gentil "pas mal, mais peut mieux faire".
 
 TweetDeck est un concurrent un peu à part. En effet, ce n'est pas une app native, mais une webapp en HTML5. Elle est conçue avant tout pour les utilisateurs qui possèdent plusieurs comptes, comme les professionnels qui gèrent le compte de leur entreprise ou simplement les power-users.
 
-[![](https://outadoc.fr/wp-content/uploads/2012/04/mzl.ncoqeoxx.800x500-751.jpg "TweetDeck")][2]
+[![]({{ site.baseurl }}/assets/mzl.ncoqeoxx.800x500-751.jpg "TweetDeck")][2]
 
 TweetDeck n'est pas le pire client existant, mais il souffre de nombreux bugs, ainsi que de son manque de fonctionnalités. Contrairement à Twitter for Mac, on retrouve ici les fonctionnalités comme les Interactions; cependant, il est par exemple impossible d'explorer complètement la timeline d'un utilisateur spécifique : on ne peut pas interagir avec ses tweets (retweet, favori, réponse impossibles), ni même obtenir son lien pour éventuellement l'ouvrir dans un navigateur.
 
@@ -64,7 +64,7 @@ Pour finir, j'ai un peu du mal à voir l'intérêt de la version du Mac App Stor
 
 Sans aucun doute l'un des clients qu'on m'a le plus recommandé, Echofon est en effet probablement l'un des meilleurs clients Twitter sur Mac - ce qui n'est pas forcément gage de qualité...
 
-[![](https://outadoc.fr/wp-content/uploads/2012/04/Echofon-Timeline1.png "Echofon - Timeline")][3]
+[![]({{ site.baseurl }}/assets/Echofon-Timeline1.png "Echofon - Timeline")][3]
 
 L'interface se veut assez simpliste, avec des onglets pour changer de vue en haut de l'app, le champ pour rédiger un tweet dans le bas et, surprise, la timeline entre les deux. Outre le fait que je préfère avoir une fenêtre de rédaction de tweet dédiée, on peut dire que le design est plutôt réussi, même si l'éditeur ne s'est pas trop mouillé.
 
@@ -78,7 +78,7 @@ Par ailleurs, je n'ai pas trop compris le système de compteur de tweets non-lus
 
 Ce client, le dernier que je vais présenter, pourrait être l'un des meilleurs s'il améliorait quelques points. Il est apparemment hautement personnalisable, mais je n'ai pas trouvé plus de 8 thèmes sur Internet, dont deux incompatibles avec la version actuelle.
 
-[![](https://outadoc.fr/wp-content/uploads/2012/04/Tweet-easily-with-Itsy1.jpg "Itsy")][4]
+[![]({{ site.baseurl }}/assets/Tweet-easily-with-Itsy1.jpg "Itsy")][4]
 
 Son interface a beau être peu soignée, elle souffre tout de même de plusieurs tares : premièrement, elle est en HTML5. Recherchant une application faisant usage des éléments natifs de l'OS, ce n'est pas vraiment ce qu'on peut appeler un point fort. Ensuite, les boutons sont trop petits pour être ergonomiques, mais cela pourrait être facilement corrigé avec un thème, j'imagine. Gros point négatif cependant, il est impossible de voir les conversations (pour savoir à quel tweet le tweet répond).
 

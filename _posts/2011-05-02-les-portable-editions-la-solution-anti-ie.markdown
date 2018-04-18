@@ -56,7 +56,7 @@ comments:
 ---
 Dans votre collège/lycée/\[INSÉRER ICI UN ÉTABLISSEMENT\], il est possible que vous n'ayez accès qu'à Internet Explorer pour naviguer sur le Web, voire un Firefox 2.2. Horreur, malheur, pour vous qui êtes un geek invétéré défenseur du libre et tout et tout.
 
-[![](https://outadoc.fr/wp-content/uploads/2011/05/internet-explorer-logo1.jpg "IE")][1]
+[![]({{ site.baseurl }}/assets/internet-explorer-logo1.jpg "IE")][1]
 
 Vous aimeriez bien utiliser Firefox ou Chrome, par exemple; dommage, dans la plupart des cas vous n'avez pas les droits nécessaires pour installer des logiciels. Heureusement, il y a une solution toute bête, mais pas forcément évidente au premier abord. Utiliser les versions portables de ces navigateurs ! Vous aurez juste à spécifier, lors de l'installation, un dossier sur votre session distante. Vous pourrez même les mettre à jour librement !
 

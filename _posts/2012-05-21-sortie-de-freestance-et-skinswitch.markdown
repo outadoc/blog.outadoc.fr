@@ -34,7 +34,7 @@ comments:
 ---
 Oyez, oyez ! FreeStance et SkinSwitch sont arrivées !
 
-![](https://outadoc.fr/wp-content/uploads/2012/05/outadev1.png "outa[dev]")
+![]({{ site.baseurl }}/assets/outadev1.png "outa[dev]")
 
 Vous en avez peut-être déjà entendu parler (sur [mon twitter][1] par exemple), mes deux premières applications iPhone sont sorties il y a peu !
 
@@ -42,7 +42,7 @@ Vous en avez peut-être déjà entendu parler (sur [mon twitter][1] par exemple)
 
 Marre de ne jamais retrouver cette encombrante télécommande ? Marre de devoir utiliser différentes télécommandes pour la Freebox de votre salon et celle de votre chambre ? Grâce à FreeStance, vous pourrez contrôler toutes vos Freebox dans une superbe application.
 
-[![](https://outadoc.fr/wp-content/uploads/2012/05/02.png "FreeStance1")][2][![](https://outadoc.fr/wp-content/uploads/2012/05/12.png "FreeStance2")][3]
+[![]({{ site.baseurl }}/assets/12.png "FreeStance2")][3]
 
 FreeStance a été conçue pour allier facilité d'utilisation, ergonomie de l'interface, fonctionnalité et prix abordable.
 
@@ -59,7 +59,7 @@ FreeStance est dès à présent disponible dans l'App Store, et pour seulement 0
 
 # SkinSwitch pour Minecraft
 
-[![](https://outadoc.fr/wp-content/uploads/2012/05/011.png "SkinSwitch2")][5][![](https://outadoc.fr/wp-content/uploads/2012/05/111.png "SkinSwitch2")][6]
+[![]({{ site.baseurl }}/assets/111.png "SkinSwitch2")][6]
 
 SkinSwitch est le gestionnaire de skins Minecraft sur iOS le plus simple qui puisse exister.
 
@@ -74,11 +74,11 @@ Une [version web de SkinSwitch][8] a été créée par [EphysPotato][9] : cli
 ## [Télécharger SkinSwitch][10] (gratuit)
 
 [1]: http://twitter.com/outadoc
-[2]: https://outadoc.fr/wp-content/uploads/2012/05/02.png
-[3]: https://outadoc.fr/wp-content/uploads/2012/05/12.png
+[2]: {{ site.baseurl }}/assets/02.png
+[3]: {{ site.baseurl }}/assets/12.png
 [4]: http://itunes.apple.com/fr/app/freestance-telecommande-pour/id527012176
-[5]: https://outadoc.fr/wp-content/uploads/2012/05/011.png
-[6]: https://outadoc.fr/wp-content/uploads/2012/05/111.png
+[5]: {{ site.baseurl }}/assets/011.png
+[6]: {{ site.baseurl }}/assets/111.png
 [7]: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=K963NDAY8S3FU
 [8]: http://skinmanager.fr.nf
 [9]: http://twitter.com/EphysPotato
