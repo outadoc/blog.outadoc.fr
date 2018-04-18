@@ -4,11 +4,7 @@ status: publish
 published: true
 title: Comment transférer un DVD sur son ordinateur - Question existentielle
   ? Peut-être pas...
-author:
-  display_name: AncoII
-  login: AncoII
-  email: Cognard1@gmail.com
-  url: ''
+author: AncoII
 author_login: AncoII
 author_email: Cognard1@gmail.com
 date: '2011-01-27 23:37:48 +0000'

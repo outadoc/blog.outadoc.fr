@@ -2,11 +2,7 @@
 layout: post
 status: draft
 title: Back to the Future Digital Speedometer - OBD-II Compatible Replica
-author:
-  display_name: outadoc
-  login: outadoc
-  email: outadoc@gmail.com
-  url: https://outadoc.fr
+author: outadoc
 author_login: outadoc
 author_email: outadoc@gmail.com
 author_url: https://outadoc.fr

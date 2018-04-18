@@ -85,7 +85,7 @@ Minecraft est toujours en beta au moment où je rédige cet article. Il coûte 1
 
 Une version gratuite, très limitée en fonctionnalités est disponible sur [minecraft.net][7], tout comme le jeu complet. Au passage, si vous cherchez des tutos pour débuter, ne cherchez plus : j'ai ce qu'il vous faut. Rendez-vous sur [fantabobshow.com][8], et enjoy ! :D
 
-<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="640" height="390" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="allowFullScreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="src" value="http://www.youtube.com/v/fPZieQfOdfE?fs=1&hl=fr_FR&hd=1" /><param name="allowfullscreen" value="true" /><embed type="application/x-shockwave-flash" width="640" height="390" src="http://www.youtube.com/v/fPZieQfOdfE?fs=1&hl=fr_FR&hd=1" allowfullscreen="true" allowscriptaccess="always"></embed></object>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/FoiYLQduH9M" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 [1]: https://outadoc.fr/wp-content/uploads/2011/02/20110218-1132051.jpg
 [2]: http://minecraft.net

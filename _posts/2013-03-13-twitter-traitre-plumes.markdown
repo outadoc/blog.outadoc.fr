@@ -206,8 +206,6 @@ En attendant, il y a une solution à ces problèmes d'API : se faire passer pour
 > 
 > ```
 
-(source)
-
 (Qu'est-ce que j'aimerais que Twitter me demande de retirer cet article. On s'amuserait bien.)
 
 [1]: http://outadoc.fr/2012/08/new-twitter-display-requirements-open-letter-to-twitter/
