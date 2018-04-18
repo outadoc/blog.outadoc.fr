@@ -69,7 +69,7 @@ Bien entendu, vous pouvez procéder autrement, du moment que le résultat est le
 Merci d'avance à ceux qui tenteront l'aventure !
 
 [1]: http://forum.fantabobshow.com/index.php?threads/1-6-4-fantabobmod-le-mod-le-plus-show.23825/
-[2]: http://outadoc.fr/2011/02/minecraft-3d-analogique/
+[2]: {{ site.baseurl }}/2011/02/minecraft-3d-analogique/
 [3]: http://fantabobshow.com
 [4]: {{ site.baseurl }}/assets/boblennon1.png
 [5]: http://audacity.sourceforge.net/download/

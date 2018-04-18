@@ -167,6 +167,6 @@ Et voilà, vous pouvez ENFIN regarder des vidéos en 720p sans trop de problème
 
 [Source: Korben.info][3]
 
-[1]: http://outadoc.fr/2012/11/proxfree-proxy-gratuit/
+[1]: {{ site.baseurl }}/2012/11/proxfree-proxy-gratuit/
 [2]: {{ site.baseurl }}/assets/05512027-photo-logo-free1.png
 [3]: http://korben.info/free-et-youtube-comment-regler-le-souci-sous-windows-mac-et-linux.html

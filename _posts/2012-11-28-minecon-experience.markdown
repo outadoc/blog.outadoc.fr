@@ -53,8 +53,8 @@ Mais évidemment, je ne suis pas le seul, et on est bien décidés à se revoir 
 
 Eeeet je crois que j'ai à-peu-près fait le tour. **LUV YOU PEOPLE ;\_;**
 
-[![photo de groupe](http://outadoc.fr/wp-content/uploads/2012/11/minecon-1024x680.jpeg "minecon")][3]
+[![photo de groupe]({{ site.baseurl }}/assets/minecon-1024x680.jpeg "minecon")][3]
 
 [1]: {{ site.baseurl }}/assets/logo1.png
 [2]: http://minetweetteam.fr/
-[3]: http://outadoc.fr/wp-content/uploads/2012/11/minecon.jpeg
+[3]: {{ site.baseurl }}/assets/minecon.jpeg

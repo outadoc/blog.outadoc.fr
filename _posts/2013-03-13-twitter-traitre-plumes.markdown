@@ -208,5 +208,5 @@ En attendant, il y a une solution à ces problèmes d'API : se faire passer pour
 
 (Qu'est-ce que j'aimerais que Twitter me demande de retirer cet article. On s'amuserait bien.)
 
-[1]: http://outadoc.fr/2012/08/new-twitter-display-requirements-open-letter-to-twitter/
+[1]: {{ site.baseurl }}/2012/08/new-twitter-display-requirements-open-letter-to-twitter/
 [2]: {{ site.baseurl }}/assets/twitter-bird-light-bgs-copie1.png

@@ -66,7 +66,7 @@ Et maintenant, le moment que vous attendiez tous ! En collaboration avec Gielve 
 
 Et pensez à faire un tour sur [le site de Gielve Apps][8] en attendant ! :D
 
-[1]: http://outadoc.fr/2011/02/minecraft-3d-analogique/ "MineCraft – 3D analogique"
+[1]: {{ site.baseurl }}/2011/02/minecraft-3d-analogique/ "MineCraft – 3D analogique"
 [2]: http://gielve.com/
 [3]: http://itunes.apple.com/fr/app/guide-minecraft/id430173137?mt=8
 [4]: {{ site.baseurl }}/assets/téléchargement1.jpg

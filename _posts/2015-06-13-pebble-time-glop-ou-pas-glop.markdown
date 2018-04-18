@@ -90,7 +90,7 @@ Pebble OS 2.0 était loin d'être parfait niveau UX. Les contrôles cachés et l
 
 La version 3 du système apporte des guidelines plus strictes au niveau de l'interface, et surtout une identité très forte de par l'utilisation de couleur, d'animations, et d'une charte graphique très agréable. Tout cela rend l'interface plus cohérente et fun à utiliser, au prix d'interactions un peu plus longues quand il s'agit d'effectuer des actions répétitives (descendre dans la timeline, par exemple). Si on pèse le pour et le contre, c'est clairement une victoire pour les animations.
 
-<video autoplay="autoplay" loop="loop" muted="muted" controls preload="auto" width="700" height="394"><source src="https://outadoc.fr/wp-content/uploads/2015/06/VID_20150613_115013.mp4" type="video/mp4" /></video>
+<video autoplay="autoplay" loop="loop" muted="muted" controls preload="auto" width="700" height="394"><source src="{{ site.baseurl }}/assets/VID_20150613_115013.mp4" type="video/mp4" /></video>
 
 ## Gestion des applications
 
@@ -104,7 +104,7 @@ Bien joué, Pebble.
 
 Les notifications font maintenant partie intégrale de Pebble. C'est bête à dire, mais jusqu'à récemment, il fallait obligatoirement une app tierce-partie pour recevoir les notifications de n'importe quelle app sur votre Pebble. Aujourd'hui, tout est configurable dans l'application Pebble, et vous pouvez choisir quelles applications sont autorisées à envoyer des notifications sur votre montre.
 
-<video autoplay="autoplay" loop="loop" muted="muted" controls preload="auto" width="700" height="394"><source src="https://outadoc.fr/wp-content/uploads/2015/06/VID_20150613_170113.mp4" type="video/mp4" /></video>
+<video autoplay="autoplay" loop="loop" muted="muted" controls preload="auto" width="700" height="394"><source src="{{ site.baseurl }}/assets/VID_20150613_170113.mp4" type="video/mp4" /></video>
 
 Les notifications sont vraiment la fonctionnalité la plus pratique d'une montre connectée. Le fait de pouvoir passer son téléphone en mode silencieux 24/24 et reposer sur la discrétion d'une vibration à son poignet est très confortable, que ce soit pour les messages, les appels, ou juste n'importe quelle notification dont vous dépendez. Je passe *beaucoup* moins de temps sur mon téléphone depuis que j'ai perdu le réflexe de le regarder toutes les 5 minutes pour voir si quelqu'un m'a mentionné sur Twitter.
 

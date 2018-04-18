@@ -77,7 +77,7 @@ comments:
   author_url: http://www.cipherbliss.com/recuperer-les-infos-de-votre-compteur-linky/
   date: '2018-01-26 11:48:20 +0000'
   date_gmt: '2018-01-26 10:48:20 +0000'
-  content: "[…] source: https://outadoc.fr/2016/12/linkindle-courbe-conso-electrique-sur-liseuse/
+  content: "[…] source: {{ site.baseurl }}/2016/12/linkindle-courbe-conso-electrique-sur-liseuse/
     […]"
 ---
 *Lorsque le compteur connecté Linky a été annoncé, ERDF (maintenant Enedis) s'est trouvée au coeur d'une controverse sur la vie privée et la collecte des données de la consommation électrique des français. Je ne chercherai pas ici à justifier ou condamner ses pratiques, mais je vais au moins vous montrer comment vous pouvez en profiter pour votre usage personnel.*

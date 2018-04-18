@@ -44,7 +44,7 @@ Ensuite, créez un dossier du nom souhaité de votre logo dans /Library/BootLogo
 Note: le boot logo d'origine apparaîtra toujours pendant les quelques premières secondes du démarrage.  
 [![]({{ site.baseurl }}/assets/PL_PID_1000000296-200x3001.png "PL_PID_1000000296")][4]
 
-[1]: http://outadoc.fr/2011/02/greenpois0n-rc5-jailbreak-4-2-1-untethered/
+[1]: {{ site.baseurl }}/2011/02/greenpois0n-rc5-jailbreak-4-2-1-untethered/
 [2]: {{ site.baseurl }}/assets/logo1.png
 [3]: {{ site.baseurl }}/assets/logo1.png
 [4]: {{ site.baseurl }}/assets/PL_PID_10000002961.png
