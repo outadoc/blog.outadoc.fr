@@ -57,7 +57,7 @@ Et nous y voilà, le point fâcheux du mod... Autant je me débrouille plutôt p
 
 C'est pourquoi je vous propose de m'aider à regrouper le plus possible de sons pour Fanta, Bob Lennon et Jean-Kévin afin qu'ils soient peut-être intégrés à la version 1.8 du mod ! :D
 
-##### Comment faire ?
+## Comment faire ?
 
 1.  Téléchargez la vidéo YouTube où vous avez repéré un son intéressant avec votre outil préféré
 2.  Utilisez un outil comme [Audacity][5] pour extraire le passage précis de la réplique

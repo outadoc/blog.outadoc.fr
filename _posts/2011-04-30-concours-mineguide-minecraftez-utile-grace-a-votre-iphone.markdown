@@ -39,7 +39,7 @@ comments:
 Me voilà de retour pour un billet un peu spécial ! En effet, je vous réserve une petite surprise à la fin de ce test... ;)  
 Amis Minecraftiens, que vous ayez découvert [Minecraft][1] récemment, il y a longtemps, voire même jamais, vous avez forcément dû vous aider d'un tutoriel à un moment ou l'autre, ne serait-ce que pour connaitre les bases. Et bien, j'ai désormais pour vous l'app pour iPhone rrrrévolutionnaire de [Gielve Apps][2], j'ai nommé : MineGuide ! Et en français, je vous prie ! :D Elle est [disponible ici sur l'AppStore][3].
 
-[![]({{ site.baseurl }}/assets/téléchargement1.jpg "mineguide logo")][4]
+[![]({{ site.baseurl }}/assets/mineguide.jpg "mineguide logo")][4]
 
 C'est l'application idéale si vous voulez jouer tout en suivant des conseils, ou en consultant les recettes de crafting, etc.
 
