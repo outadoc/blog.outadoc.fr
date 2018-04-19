@@ -27,17 +27,13 @@ Oyez, oyez ! C'est la release du début d'année !
 
 SkinSwitch est maintenant [disponible sur Android][1], avec le support des nouveaux formats de skin de Minecraft 1.8, toutes les fonctionnalités de la version iOS (pour l'instant plus à jour), et bien plus encore !
 
-[![Screenshot_2015-01-01-21-22-37]({{ site.baseurl }}/assets/Screenshot_2015-01-01-21-23-421-576x1024.png)][4]
+![SkinSwitch launch screenshots]({{ site.baseurl }}/assets/skinswitch_launch_combined.png)
 
 SkinSwitch est disponible pour tous les appareils sous Android 4.0+, et vous propose de nombreuses fonctionnalités pour stocker, organiser et utiliser vos skins.
 
-Vous pouvez ajouter vos propres skins dans l'application, ou en chercher de nouveaux parmi ceux envoyés sur [Skin Manager][5]. Une fois vos skins répertoriés, vous pouvez les envoyer sur votre profil Minecraft pour les porter en un seul appui : tapez pendant une seconde sur votre skin, et c'est bon !
+Vous pouvez ajouter vos propres skins dans l'application, ou en chercher de nouveaux parmi ceux envoyés sur [Skin Manager][2]. Une fois vos skins répertoriés, vous pouvez les envoyer sur votre profil Minecraft pour les porter en un seul appui : tapez pendant une seconde sur votre skin, et c'est bon !
 
-SkinSwitch est disponible gratuitement, dès maintenant, sur le [Google Play Store][6], en français et en anglais.
+SkinSwitch est disponible gratuitement, dès maintenant, sur le [Google Play Store][1], en français et en anglais.
 
 [1]: https://play.google.com/store/apps/details?id=fr.outadev.skinswitch
-[2]: {{ site.baseurl }}/assets/Screenshot_2015-01-01-21-22-37.png
-[3]: {{ site.baseurl }}/assets/Screenshot_2015-01-01-21-22-52.png
-[4]: {{ site.baseurl }}/assets/Screenshot_2015-01-01-21-23-421.png
-[5]: https://skin.outadoc.fr
-[6]: https://play.google.com/store/apps/details?id=fr.outadev.skinswitch
+[2]: https://skin.outadoc.fr

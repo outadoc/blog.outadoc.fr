@@ -110,7 +110,6 @@ Le côté serveur sera le plus simple à configurer. Vous pouvez commencer par r
 
 ```bash
 $ apt-get install python3 pip3 python3-numpy python3-matplotlib python3-requests python3-dateutil python3-tk texlive texlive-latex-extra texlive-fonts-recommended dvipng imagemagick
-
 ```
 
 Mettez ensuite en place un serveur web quelconque. Apache fait très bien l'affaire.
@@ -121,7 +120,6 @@ Vous pouvez tester l'exécution du script avec cette simple commande :
 
 ```bash
 $ ./gen_graphs.sh
-
 ```
 
 Enfin, on pourra mettre en place une tâche `cron` pour récupérer les données quotidiennement.
@@ -131,7 +129,6 @@ $ crontab -e
 
 # m h  dom mon dow   command
 0 5 * * * /home/iot/linkindle/gen_graphs.sh
-
 ```
 
 Remplacez bien sûr `/home/iot/linkindle/` par le répertoire du projet. Le script sera ainsi appelé tous les jours à 5h du matin.

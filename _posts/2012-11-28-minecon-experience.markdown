@@ -21,7 +21,7 @@ comments: []
 ---
 Booon. J'ai pas pris tellement de photos pendant la MineCon, et vu la qualité du réseau à l'hôtel, j'ai pas pu non plus mettre à jour mon Tumblr, donc je pense qu'un petit post sur mon blog ne sera pas du luxe, histoire d'avoir une trace.
 
-[![minecon logo]({{ site.baseurl }}/assets/logo1.png "logo")][1]
+[![minecon logo]({{ site.baseurl }}/assets/mineconlogo.png "logo")][1]
 
 Oh, et je suis en Terminale S, désolé par avance pour la grammaire déplorable et le manque d'organisation de l'article (qui a dit "protocole" ?). L'article sera écrit à la Montaigne, au fil de ma pensée, tqvu. En même temps, je m'en fiche, c'est mon blog. :3
 
