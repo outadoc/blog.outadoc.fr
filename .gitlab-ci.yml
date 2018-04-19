@@ -6,17 +6,7 @@ before_script:
 
 stages:
   - build
-  - test
   - deploy
-
-test:
-  stage: test
-  script:
-  - bundle exec jekyll build -d test
-  tags: 
-  - jekyll
-  except:
-  - master
 
 build:
     stage: build
@@ -24,15 +14,13 @@ build:
     - bundle exec jekyll build -d public
     tags: 
     - jekyll
-    only:
-    - master
 
 deploy:
   stage: deploy
   script:
   - bundle exec jekyll build -d public
   - rm -rf /var/www/vhosts/outadoc.fr/htdocs/*
-  - cp -R _site/* /var/www/vhosts/outadoc.fr/htdocs/
+  - cp -R public/* /var/www/vhosts/outadoc.fr/htdocs/
   tags: 
   - jekyll
   only:
