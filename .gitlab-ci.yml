@@ -1,11 +1,16 @@
-tags: jekyll
+tags: 
+  - jekyll
 
 variables:
   JEKYLL_ENV: production
 
 before_script:
   - bundle install
-  
+
+stages:
+  - build
+  - test
+  - deploy
 
 test:
   stage: test
@@ -14,13 +19,18 @@ test:
   except:
   - master
 
+build:
+    stage: build
+    script:
+    - bundle exec jekyll build -d public
+    only:
+    - master
+
 deploy:
   stage: deploy
   script:
   - bundle exec jekyll build -d public
-  - cp -R _site /var/www/vhosts/outadoc.fr/htdocs/
-  artifacts:
-    paths:
-    - public
+  - rm -rf /var/www/vhosts/outadoc.fr/htdocs/*
+  - cp -R _site/* /var/www/vhosts/outadoc.fr/htdocs/
   only:
   - master
