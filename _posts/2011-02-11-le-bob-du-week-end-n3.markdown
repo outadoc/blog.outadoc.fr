@@ -18,8 +18,7 @@ Et voici celui que vous attendiez tous, le BOB DU WEEK-END ! Et comme j'ai oubli
 
 [![]({{ site.baseurl }}/assets/bob-006-225x3001.jpg "bob 006")][1]
 
-<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="640" height="390" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="allowFullScreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="src" value="http://www.youtube.com/v/R8XAlSp838Y?fs=1&hl=fr_FR" /><param name="allowfullscreen" value="true" /><embed type="application/x-shockwave-flash" width="640" height="390" src="http://www.youtube.com/v/R8XAlSp838Y?fs=1&hl=fr_FR" allowscriptaccess="always" allowfullscreen="true"></embed></object>
-
-(si si, j'vous jure !)
+[Lien vers la vidéo][2] (si si, j'vous jure !)
 
 [1]: {{ site.baseurl }}/assets/bob-0061.jpg
+[2]: https://www.youtube.com/watch?v=R8XAlSp838Y

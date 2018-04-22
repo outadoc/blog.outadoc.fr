@@ -80,7 +80,7 @@ comments:
   content: "[…] source: {{ site.baseurl }}/2016/12/linkindle-courbe-conso-electrique-sur-liseuse/
     […]"
 ---
-*Lorsque le compteur connecté Linky a été annoncé, ERDF (maintenant Enedis) s'est trouvée au coeur d'une controverse sur la vie privée et la collecte des données de la consommation électrique des français. Je ne chercherai pas ici à justifier ou condamner ses pratiques, mais je vais au moins vous montrer comment vous pouvez en profiter pour votre usage personnel.*
+Lorsque le compteur connecté Linky a été annoncé, ERDF (maintenant Enedis) s'est trouvée au coeur d'une controverse sur la vie privée et la collecte des données de la consommation électrique des français. Je ne chercherai pas ici à justifier ou condamner ses pratiques, mais je vais au moins vous montrer comment vous pouvez en profiter pour votre usage personnel.
 
 Voulant garder un oeil sur ma consommation électrique durant l'hiver tout en profitant des données maintenant fournies directement par Enedis, j'ai créé le projet Linkindle.
 
