@@ -1,10 +1,8 @@
 <!DOCTYPE html>
 <html lang="{{ page.lang | default: site.lang | default: "en" }}">
-
   {%- include head.html -%}
 
   <body>
-
     {%- include header.html -%}
 
     <main class="page-content" aria-label="Content">
@@ -13,7 +11,6 @@
         {% assign content = content | split: '<pre' %}
 
         {% for parts in content %}
-
           {% assign part = parts | split: '</pre>' %}
           {% assign c = part.first %}
           {% assign t = part.last %}
@@ -23,16 +20,13 @@
 
           {% assign t = t | replace: ' ;', '<span style="white-space:nowrap">&thinsp;</span>;'
                           | replace: ' !', '<span style="white-space:nowrap">&thinsp;</span>!'
-                          | replace @: ' ?', '<span style="white-space:nowrap">&thinsp;</span>?' %}
+                          | replace: ' ?', '<span style="white-space:nowrap">&thinsp;</span>?' %}
 
           {% if part.size == 2 %}
-
             {% capture output %}{{ output }}<pre{{ c }}</pre>{% endcapture %}
-
           {% endif %}
 
           {% capture output %}{{ output }}{{ t }}{% endcapture %}
-
         {% endfor %}
       {% endcapture %}
 
@@ -42,7 +36,5 @@
     </main>
 
     {%- include footer.html -%}
-
   </body>
-
 </html>
