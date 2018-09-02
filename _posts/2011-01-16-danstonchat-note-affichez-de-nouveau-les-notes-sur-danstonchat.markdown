@@ -32,22 +32,22 @@ comments:
   author_url: http://topsy.com/outadoc.fr/2011/01/danstonchat-note-affichez-de-nouveau-les-notes-sur-danstonchat/?utm_source=pingback&utm_campaign=L2
   date: '2011-01-16 16:49:06 +0000'
   date_gmt: '2011-01-16 15:49:06 +0000'
-  content: "[...] Ce billet était mentionné sur Twitter par Jimmy Mayoukou.
+  content: "[…] Ce billet était mentionné sur Twitter par Jimmy Mayoukou.
     Jimmy Mayoukou a dit: RT @outadoc: [Ping Timeout] DansTonChat Note: affichez de
-    nouveau les notes sur DansTonChat http://bit.ly/ea21ov [...]"
+    nouveau les notes sur DansTonChat http://bit.ly/ea21ov […]"
 - id: 20
   author: outadoc
   author_email: outatime@caramail.com
   author_url: http://outadoc.fr
   date: '2011-01-19 23:00:03 +0000'
   date_gmt: '2011-01-19 22:00:03 +0000'
-  content: Même pas d'abord :p
+  content: Même pas d'abord :p
 ---
-Pour ceux qui ne connaîtraient pas DansTonChat.com, c'est un site pour geeks qui rassemble beaucoup de citations de gens sur les chats ('tchates' hein, pas les boules de poils), IRC principalement. On peut voter pour ses quotes (citations) préférées, mais depuis la nouvelle version du site parue récemment, la note finale des quotes n'est plus affichée. :( C'était un nombre entre -10 et 10 qui permettait de voir rapidement si la quote avait été appréciée.
+Pour ceux qui ne connaîtraient pas DansTonChat.com, c'est un site pour geeks qui rassemble beaucoup de citations de gens sur les chats ('tchates' hein, pas les boules de poils), IRC principalement. On peut voter pour ses quotes (citations) préférées, mais depuis la nouvelle version du site parue récemment, la note finale des quotes n'est plus affichée. :( C'était un nombre entre -10 et 10 qui permettait de voir rapidement si la quote avait été appréciée.
 
 ![]({{ site.baseurl }}/assets/dtclogo.png "DTC")
 
-Heureusement, grâce à Ashka (pour le script) et moi-même (pour le portage), nous sommes maintenant en mesure de vous fournir une extension Chrome pour remettre les notes en 2 clics ! :D
+Heureusement, grâce à Ashka (pour le script) et moi-même (pour le portage), nous sommes maintenant en mesure de vous fournir une extension Chrome pour remettre les notes en 2 clics ! :D
 
 Vous pouvez [**télécharger l'extension ici.**][1]
 

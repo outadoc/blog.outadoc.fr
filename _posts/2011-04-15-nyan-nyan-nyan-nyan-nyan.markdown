@@ -22,7 +22,7 @@ comments:
   author_url: http://jeuxamateurs.fr
   date: '2011-04-16 17:45:38 +0100'
   date_gmt: '2011-04-16 16:45:38 +0100'
-  content: J'adore, c'est trop drôle ! *.*
+  content: J'adore, c'est trop drôle ! *.*
 - id: 71
   author: MsTeshi
   author_email: elisabeth.anh@gmail.com
@@ -36,7 +36,7 @@ comments:
   author_url: http://cyberpunkme.blogspot.com
   date: '2011-04-18 23:43:16 +0100'
   date_gmt: '2011-04-18 22:43:16 +0100'
-  content: grou oO ça va tourner de par chez moi !
+  content: grou oO ça va tourner de par chez moi !
 ---
 Parce que vous le valez bien.
 

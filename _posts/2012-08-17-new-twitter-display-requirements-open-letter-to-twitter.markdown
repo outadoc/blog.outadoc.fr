@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: New Twitter Display Requirements - Open letter to Twitter
+title: "New Twitter Display Requirements: Open letter to Twitter"
 author: outadoc
 author_login: outadoc
 author_email: outadoc@gmail.com
@@ -24,9 +24,9 @@ comments:
   author_url: http://outadoc.fr/2013/03/twitter-traitre-plumes/
   date: '2013-03-13 18:11:22 +0000'
   date_gmt: '2013-03-13 17:11:22 +0000'
-  content: "[...] le savez, j’en avais parlé lorsque l’affaire
+  content: "[…] le savez, j’en avais parlé lorsque l’affaire
     était parue. Twitter a annoncé il y a quelques mois son API 1.1,
-    une [...]"
+    une […]"
 - id: 673
   author: Twitter, ou le traître à plumes – ping timeout_
   author_email: ''
@@ -39,19 +39,19 @@ comments:
 ---
 Dear Twitter,
 
-Michael Sippey has recently released a post on the Twitter Developer Blog, in which he explains that Twitter was closing its API. This strategy, of course, has its pros and its cons. Unfortunately, the pros are mostly for Twitter itself, and cons are for its users.
+Michael Sippey has recently released a post on the Twitter Developer Blog, in which he explains that Twitter was closing its API. This strategy, of course, has its pros and its cons. Unfortunately, the pros are mostly for Twitter itself, and cons are for its users.
 
 Let's look at what's written on this blog, shall we?
 
-> That is, we want developers to be able to build applications that run within Tweets. Just a few days ago, our CEO Dick Costolo said, “What you’ll see us **do more and more as a platform is allow third parties to build into Twitter**.” This is something we’ve been talking about for a while, and we’re **looking forward to adding new ways for developers to do this**.
+> That is, we want developers to be able to build applications that run within Tweets. Just a few days ago, our CEO Dick Costolo said, “What you’ll see us **do more and more as a platform is allow third parties to build into Twitter**.” This is something we’ve been talking about for a while, and we’re **looking forward to adding new ways for developers to do this**.
 
 Alright, so encouraging the development of third-party apps seems to be the right thing to do if you want to gain popularity from all kind of users. A user + an app that fits him = a happy user, that will probably spend hours on your network, and eventually click the ads that you placed.
 
-> These efforts highlight the increasing importance of us providing the core Twitter consumption experience through a consistent set of products and tools. Back in March of 2011, **my colleague Ryan Sarver said that developers should not “build client apps that mimic or reproduce the mainstream Twitter consumer client experience.” That guidance continues to apply as much as ever today.**
+> These efforts highlight the increasing importance of us providing the core Twitter consumption experience through a consistent set of products and tools. Back in March of 2011, **my colleague Ryan Sarver said that developers should not “build client apps that mimic or reproduce the mainstream Twitter consumer client experience.” That guidance continues to apply as much as ever today.**
 
 "Should not build apps that reproduce the mainstream Twitter experience"? That looks nice, apps providing a new Twitter experience should be valorized, don't you think so?..
 
-...because it looks like you don't. That was obviously the post written just before you released info about that API 1.1.
+…because it looks like you don't. That was obviously the post written just before you released info about that API 1.1.
 
 Let's take a look at those Display Guidelines, that will soon be required. Overall, they're really restrictive. What if the user doesn't like those guidelines? What if I want the avatar to be on the right side of the tweet? Oh, heresy, I'm banned. Too bad.
 
@@ -69,7 +69,7 @@ Why not? I mean, I get why, as a society, you don't want that, but you users wan
 
 Oh, and by the way: Twitter for Mac can't even show an individual tweet. Please update, before Tweetbot for Mac gets all your clients.
 
-Wait, actually, don't; if it gets updated you'll make it use the #NewNewTwitter guidelines, which I don't like at all. I might use Bootstrap, but this is just too much. Useless features, lag and bad design choices... nooope.
+Wait, actually, don't; if it gets updated you'll make it use the #NewNewTwitter guidelines, which I don't like at all. I might use Bootstrap, but this is just too much. Useless features, lag and bad design choices… nooope.
 
 Tweetie used to be good.
 

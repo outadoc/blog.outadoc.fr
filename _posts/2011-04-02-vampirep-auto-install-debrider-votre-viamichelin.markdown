@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: Vampirep Auto Install - Débrider votre ViaMichelin
+title: "Vampirep Auto Install : Débrider votre ViaMichelin"
 author: outadoc
 author_login: outadoc
 author_email: outadoc@gmail.com
@@ -36,7 +36,7 @@ comments:
   date_gmt: '2012-12-03 19:32:05 +0000'
   content: J'ai ajouté un <a href="http://files.outadoc.fr/PackCompletVampirepGPSPassionV1-5.zip"
     rel="nofollow">lien de téléchargement</a> dans l'article. Bonne
-    soirée ;)
+    soirée ;)
 - id: 541
   author: Irish coffee
   author_email: delagh@bbox.fr
@@ -44,7 +44,7 @@ comments:
   date: '2013-06-11 08:18:56 +0100'
   date_gmt: '2013-06-11 07:18:56 +0100'
   content: "Quelqu'un aurait-il une solution pour transformer la cartographie du ViaMichelin
-    X970T\r\n(new edition)Europe en TomTom même seulement France ?Merci d'avance."
+    X970T\r\n(new edition)Europe en TomTom même seulement France ?Merci d'avance."
 - id: 542
   author: Irish coffee
   author_email: delagh@bbox.fr
@@ -52,7 +52,7 @@ comments:
   date: '2013-06-11 08:24:07 +0100'
   date_gmt: '2013-06-11 07:24:07 +0100'
   content: "Peut-on installer VMNavigation PND 7.0.3 sans \"content manager\" sur
-    ViaMichelin X970T\r\nMon Mail:delagh@bbox.fr\r\nMerci !"
+    ViaMichelin X970T\r\nMon Mail:delagh@bbox.fr\r\nMerci !"
 - id: 547
   author: vand
   author_email: chris445@sfr.fr
@@ -73,30 +73,30 @@ comments:
   content: pAREIL J'AI SUIVI PROCEDURE, ET JE ME RETROUVE sur vampire maislancer viamichelin
     veut pas. sos
 ---
-Comme vous le savez peut-être, ViaMichelin a commercialisé des GPS sous sa marque, puis a annoncé l'arrêt de leur évolution quelques années plus tard. Ce qui signifie que désormais, non seulement ViaMichelin ne commercialise plus de GPS, mais plus grave pour les utilisateurs, il ne fournit **plus de mises à jour de cartes** ! Inadmissible selon certains (j'en fais partie). Heureusement, les GPS ViaMichelin sont basés sur Windows CE, ce qui permet de les débrider assez facilement. Le débridage est une opération consistant en le remplacement de fichiers sur la carte SD, qui autorisent ensuite l'accès au Windows sur l'appareil.
+Comme vous le savez peut-être, ViaMichelin a commercialisé des GPS sous sa marque, puis a annoncé l'arrêt de leur évolution quelques années plus tard. Ce qui signifie que désormais, non seulement ViaMichelin ne commercialise plus de GPS, mais plus grave pour les utilisateurs, il ne fournit **plus de mises à jour de cartes** ! Inadmissible selon certains (j'en fais partie). Heureusement, les GPS ViaMichelin sont basés sur Windows CE, ce qui permet de les débrider assez facilement. Le débridage est une opération consistant en le remplacement de fichiers sur la carte SD, qui autorisent ensuite l'accès au Windows sur l'appareil.
 
 [![]({{ site.baseurl }}/assets/ViaMichelin_X_970T-300x2341.jpg "ViaMichelin_X_970T")][1]
 
-L'installation de Vampirep Auto Install (du pseudo de son créateur) permettra ensuite d'installer d'autres logiciels, comme des logiciels de randonnée, TomTom (jamais réussi pour ma part), ou même un lecteur audio/vidéo !
+L'installation de Vampirep Auto Install (du pseudo de son créateur) permettra ensuite d'installer d'autres logiciels, comme des logiciels de randonnée, TomTom (jamais réussi pour ma part), ou même un lecteur audio/vidéo !
 
-Attention :  je décline toute responsabilité en cas de problème causé par votre faute sur votre GPS. La garantie risque également d'être annulée. Le tutoriel n'est destiné qu'aux personnes les plus expérimentées.
+Attention :  je décline toute responsabilité en cas de problème causé par votre faute sur votre GPS. La garantie risque également d'être annulée. Le tutoriel n'est destiné qu'aux personnes les plus expérimentées.
 
 -   Insérez la carte SD de votre GPS dans votre ordinateur
--   Faites une sauvegarde de son contenu : ça vous servira si vous devez enlever tout ça ensuite
+-   Faites une sauvegarde de son contenu : ça vous servira si vous devez enlever tout ça ensuite
 -   [Téléchargez les fichiers d'installation de Vampirep][2], et décompressez-les
 -   Sur la carte SD, renommez le dossier "InstallSD" en "InstallSDVM"
 -   Copiez le contenu de l'archive décompressée précédemment à la racine de la carte
 -   Réinsérez la carte dans le GPS et faites un hard reset
--   En utilisant l'explorateur sur votre GPS ou ActiveSync, déplacez `/Program Files/ViaMichelin` dans `/Storage Card/ApplisGPS` ; si `/Program Files/ViaMichelin` n'existe pas, exécutez `/Storage Card/InstallSDVM/InstallSD.exe` et réessayez
+-   En utilisant l'explorateur sur votre GPS ou ActiveSync, déplacez `/Program Files/ViaMichelin` dans `/Storage Card/ApplisGPS` ; si `/Program Files/ViaMichelin` n'existe pas, exécutez `/Storage Card/InstallSDVM/InstallSD.exe` et réessayez
 -   Dans Vampirep Auto Install (qui démarre au démarrage du GPS), cliquez sur "Installer", puis, lorsqu'il le demande, faites un soft reset
 
 [![]({{ site.baseurl }}/assets/TonioToulouse_4_VMTaskManager1.jpg "TonioToulouse_4_VMTaskManager")][3]
 
-Et ça devrait être bon ! Utilisez Vampirep Auto Install pour lancer le logiciel de navigation ViaMichelin Navigator. VAI installe d'autres logiciels : faites-en le tour pour voir leurs fonctions.
+Et ça devrait être bon ! Utilisez Vampirep Auto Install pour lancer le logiciel de navigation ViaMichelin Navigator. VAI installe d'autres logiciels : faites-en le tour pour voir leurs fonctions.
 
 [![]({{ site.baseurl }}/assets/TonioToulouse_5_VMOzi1.jpg "TonioToulouse_5_VMOzi")][4]
 
-Je vous conseille fortement de consulter ces pages sur les forums GpsPassion, ou d'autres que vous trouverez sur ce site : [Personnaliser le VM X930 V1.5][5], [Personnaliser le ViaMichelin X-970T New Edition.][6]
+Je vous conseille fortement de consulter ces pages sur les forums GpsPassion, ou d'autres que vous trouverez sur ce site : [Personnaliser le VM X930 V1.5][5], [Personnaliser le ViaMichelin X-970T New Edition.][6]
 
 [1]: {{ site.baseurl }}/assets/ViaMichelin_X_970T1.jpg
 [2]: http://files.outadoc.fr/PackCompletVampirepGPSPassionV1-5.zip

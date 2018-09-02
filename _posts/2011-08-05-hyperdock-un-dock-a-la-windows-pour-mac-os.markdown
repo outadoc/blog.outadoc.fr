@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: HyperDock - Un dock à la Windows pour Mac OS
+title: "HyperDock : Un dock à la Windows pour Mac OS"
 author: outadoc
 author_login: outadoc
 author_email: outadoc@gmail.com
@@ -22,9 +22,9 @@ comments:
   author_url: http://twitter.com/MKody97
   date: '2011-09-07 19:41:10 +0100'
   date_gmt: '2011-09-07 18:41:10 +0100'
-  content: Thx :P
+  content: Thx :P
 ---
-Si vous connaissez Windows 7 et Mac OS X, vous saurez que la manipulation des fenêtres de ce dernier peut vite devenir chaotique. Windows 7 a introduit un système de vignettes quand on survole l'icône d'un programme dans la barre des tâches, ainsi qu'Aero Snap. Quant au Dock de Mac OS, il n'a pas changé depuis bien longtemps... HyperDock est là pour lui apporter les nouveautés qui lui reviennent de droit.
+Si vous connaissez Windows 7 et Mac OS X, vous saurez que la manipulation des fenêtres de ce dernier peut vite devenir chaotique. Windows 7 a introduit un système de vignettes quand on survole l'icône d'un programme dans la barre des tâches, ainsi qu'Aero Snap. Quant au Dock de Mac OS, il n'a pas changé depuis bien longtemps… HyperDock est là pour lui apporter les nouveautés qui lui reviennent de droit.
 
 [![]({{ site.baseurl }}/assets/top1.png "HyperDock")][1]
 
@@ -35,7 +35,7 @@ Les principales fonctionnalités de ce programme (malheureusement payant) sont:
 
 Des fonctionnalités, croyez-moi, qui font gagner un temps fou au quotidien, d'autant plus si vous n'êtes pas un adepte des raccourcis clavier.
 
-Télécharger HyperDock :
+Télécharger HyperDock :
 
 -   [Sur le site officiel][2], pour **6,95 €**
 -   [Sur le Mac AppStore][3], pour **7,99 €** (CQFD)

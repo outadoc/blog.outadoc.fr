@@ -36,7 +36,7 @@ comments:
   date_gmt: '2011-03-10 23:41:19 +0000'
   content: C'est vrai qu'un réglage de l'intensité ou un truc comme
     ça aurait été pas mal. Mais c'est pas obligatoire, en même
-    temps :p
+    temps :p
 - id: 82
   author: Hervé
   author_email: herve@gmail.com
@@ -44,11 +44,11 @@ comments:
   date: '2011-04-23 01:28:55 +0100'
   date_gmt: '2011-04-23 00:28:55 +0100'
   content: Installe compizconfig-settings-manager. Bien plus qu'un "réglage
-    de l'intensité" !
+    de l'intensité" !
 ---
-Vous qui êtes un geek et qui avez une machine sous Ubuntu, j'ai quelque chose qui pourrait vous plaire. Gnome est, dans la version 10.10 (Marverick Merkaat), capable de produire des effets visuels assez marrants au redimensionnement des fenêtres, à leur déplacement...
+Vous qui êtes un geek et qui avez une machine sous Ubuntu, j'ai quelque chose qui pourrait vous plaire. Gnome est, dans la version 10.10 (Marverick Merkaat), capable de produire des effets visuels assez marrants au redimensionnement des fenêtres, à leur déplacement…
 
-Pour activer ces effets, Allez dans le menu Système > Préférences > Apparence, et, dans l'onglet "Effets visuels", activez "Extra". Attention ! Il vous faudra pour cela une carte graphique assez puissante, sinon, ça n'en vaut pas la peine.
+Pour activer ces effets, Allez dans le menu Système > Préférences > Apparence, et, dans l'onglet "Effets visuels", activez "Extra". Attention ! Il vous faudra pour cela une carte graphique assez puissante, sinon, ça n'en vaut pas la peine.
 
 [![]({{ site.baseurl }}/assets/pref11.png "pref")][1]
 

@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: Bonne année !
+title: Bonne année !
 author: outadoc
 author_login: outadoc
 author_email: outadoc@gmail.com
@@ -15,4 +15,4 @@ tags:
 - nouvel an
 comments: []
 ---
-Voilà, jute un post rapide pour vous souhaiter une très bonne année 2011 ! :D
+Voilà, jute un post rapide pour vous souhaiter une très bonne année 2011 ! :D

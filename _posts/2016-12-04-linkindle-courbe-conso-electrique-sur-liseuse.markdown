@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: Linkindle - Affichez votre consommation électrique sur une liseuse
+title: "Linkindle : Affichez votre consommation électrique sur une liseuse"
 author: outadoc
 author_login: outadoc
 author_email: outadoc@gmail.com
@@ -24,7 +24,7 @@ comments:
   date_gmt: '2017-01-28 19:02:13 +0000'
   content: |-
     Super article, il faut absolument que je teste ça.
-    Ça fonctionnerait sur une K4 ?
+    Ça fonctionnerait sur une K4 ?
 - id: 676
   author: outadoc
   author_email: outadoc@gmail.com
@@ -47,7 +47,7 @@ comments:
   author_url: https://outadoc.fr
   date: '2017-01-30 15:30:01 +0000'
   date_gmt: '2017-01-30 14:30:01 +0000'
-  content: Génial ! ?
+  content: Génial ! ?
 - id: 679
   author: steph
   author_email: steph.marie@gmail.com
@@ -69,7 +69,7 @@ comments:
   content: |-
     Hello,
     J'ai en effet remarqué le problème il y a environ un mois, mais je n'ai pas trouvé de solution sur le coup et je n'ai pas vraiment eu le temps d'approfondir depuis.
-    Je réessayerai à l'occasion — à mon avis le problème ne doit pas être très structurant, mais il risque tout de même d'être embêtant à trouver :/
+    Je réessayerai à l'occasion — à mon avis le problème ne doit pas être très structurant, mais il risque tout de même d'être embêtant à trouver :/
 - id: 681
   author: Récupérer les infos de votre compteur Linky – Cipher
     Bliss
@@ -80,7 +80,7 @@ comments:
   content: "[…] source: {{ site.baseurl }}/2016/12/linkindle-courbe-conso-electrique-sur-liseuse/
     […]"
 ---
-Lorsque le compteur connecté Linky a été annoncé, ERDF (maintenant Enedis) s'est trouvée au coeur d'une controverse sur la vie privée et la collecte des données de la consommation électrique des français. Je ne chercherai pas ici à justifier ou condamner ses pratiques, mais je vais au moins vous montrer comment vous pouvez en profiter pour votre usage personnel.
+Lorsque le compteur connecté Linky a été annoncé, ERDF (maintenant Enedis) s'est trouvée au coeur d'une controverse sur la vie privée et la collecte des données de la consommation électrique des français. Je ne chercherai pas ici à justifier ou condamner ses pratiques, mais je vais au moins vous montrer comment vous pouvez en profiter pour votre usage personnel.&nbsp;😉
 
 Voulant garder un oeil sur ma consommation électrique durant l'hiver tout en profitant des données maintenant fournies directement par Enedis, j'ai créé le projet Linkindle.
 
@@ -92,21 +92,21 @@ D'un point de vue technique, les graphiques sont **générés une fois par jour*
 
 La **Kindle** (une simple Kindle Basic suffit) a été **jailbreakée** et fait également tourner un script `cron` une fois par jour. Ce dernier **récupère le graphique** sur le serveur web et l'affiche.
 
-Allez, on rentre dans les détails ! Tout est open-source, donc avec un peu d'huile de coude et de matériel vous pouvez avoir **la même chez vous**. ?
+Allez, on rentre dans les détails ! Tout est open-source, donc avec un peu d'huile de coude et de matériel vous pouvez avoir **la même chez vous**. 👌
 
-## Comment faire ?
+## Comment faire ?
 
 ### Prérequis
 
 Pour commencer, et c'est important à préciser, il va vous falloir un compteur Linky activé. L'installation est une première étape, mais vous devrez attendre jusqu'à plusieurs mois avant de recevoir un courrier de la part d'Enedis vous confirmant l'activation du compteur.
 
-Vous devrez ensuite demander sur leur site web la création d'un compte personnel lié au compteur, une opération qui peut encore prendre plusieurs jours. Après ça, vous êtes prêts ! Vérifiez que vous avez bien accès aux données sur votre espace personnel.
+Vous devrez ensuite demander sur leur site web la création d'un compte personnel lié au compteur, une opération qui peut encore prendre plusieurs jours. Après ça, vous êtes prêts ! Vérifiez que vous avez bien accès aux données sur votre espace personnel.
 
-En ce qui concerne le Kindle, n'importe lequel devrait faire l'affaire ; vérifiez simplement qu'il peut être jailbreaké avant de dépenser des dizaines d'euros dans une brique. Et notez que vous ne pouvez pas économiser 10€ en achetant la version avec les offres spéciales : j'ai testé, et ça ne fonctionne pas. ? Si toutefois vous avez fait cette erreur, vous pouvez désactiver ces dernières depuis [le site d'Amazon][2].
+En ce qui concerne le Kindle, n'importe lequel devrait faire l'affaire ; vérifiez simplement qu'il peut être jailbreaké avant de dépenser des dizaines d'euros dans une brique. Et notez que vous ne pouvez pas économiser 10€ en achetant la version avec les offres spéciales : j'ai testé, et ça ne fonctionne pas. 😒 Si toutefois vous avez fait cette erreur, vous pouvez désactiver ces dernières depuis [le site d'Amazon][2].
 
 ### Côté serveur
 
-Le côté serveur sera le plus simple à configurer. Vous pouvez commencer par récupérer le projet [sur Github][3]. Installez les dépendances. Sur une Debian :
+Le côté serveur sera le plus simple à configurer. Vous pouvez commencer par récupérer le projet [sur Github][3]. Installez les dépendances. Sur une Debian :
 
 ```bash
 $ apt-get install python3 pip3 python3-numpy python3-matplotlib python3-requests python3-dateutil python3-tk texlive texlive-latex-extra texlive-fonts-recommended dvipng imagemagick
@@ -114,9 +114,9 @@ $ apt-get install python3 pip3 python3-numpy python3-matplotlib python3-requests
 
 Mettez ensuite en place un serveur web quelconque. Apache fait très bien l'affaire.
 
-Dans le répertoire du projet, éditez le fichier `gen_graphs.sh` et ajoutez votre identifiant et mot de passe Enedis dans les variables respectives. Remplacez la valeur de `OUT_DIR` par un dossier accessible depuis votre serveur web. Attention aux permissions !
+Dans le répertoire du projet, éditez le fichier `gen_graphs.sh` et ajoutez votre identifiant et mot de passe Enedis dans les variables respectives. Remplacez la valeur de `OUT_DIR` par un dossier accessible depuis votre serveur web. Attention aux permissions !
 
-Vous pouvez tester l'exécution du script avec cette simple commande :
+Vous pouvez tester l'exécution du script avec cette simple commande :
 
 ```bash
 $ ./gen_graphs.sh
@@ -135,9 +135,9 @@ Remplacez bien sûr `/home/iot/linkindle/` par le répertoire du projet. Le scri
 
 ### Côté Kindle
 
-Cette partie étant un peu plus délicate (il est assez rare d'être "expert(e) en jailbreak de Kindle" ?) et moins bien documentée, je vais essayez de la découper en plusieurs parties.
+Cette partie étant un peu plus délicate (il est assez rare d'être "expert(e) en jailbreak de Kindle" 😶) et moins bien documentée, je vais essayez de la découper en plusieurs parties.
 
-Gardez en tête que ce tutoriel a été écrit en 2016. La méthode de jailbreak peut avoir changé si vous lisez ça dans le futur. Faites attention à ce que vous faites, je ne suis pas responsable de ce que *vous* faites avec *votre* matériel ! Si vous avez des problèmes, n'hésitez pas à laisser un commentaire.
+Gardez en tête que ce tutoriel a été écrit en 2016. La méthode de jailbreak peut avoir changé si vous lisez ça dans le futur. Faites attention à ce que vous faites, je ne suis pas responsable de ce que *vous* faites avec *votre* matériel ! Si vous avez des problèmes, n'hésitez pas à laisser un commentaire.
 
 #### Jailbreak
 
@@ -161,7 +161,7 @@ Pour pouvoir installer des packages sur les versions récentes du firmware des K
 
 #### Screensaver hack
 
-Le screensaver hack (ou linkss) permet de remplacer les fonds d'écran par défaut de la Kindle par n'importe quelle image au bon format. On va s'en servir pour afficher les images de nos histogrammes !
+Le screensaver hack (ou linkss) permet de remplacer les fonds d'écran par défaut de la Kindle par n'importe quelle image au bon format. On va s'en servir pour afficher les images de nos histogrammes !
 
 Pour l'installer, glissez les fichiers `*.bin` nécessaires dans le dossier racine de votre Kindle (y compris Python 2.7, qui est également fourni, et qui est une dépendance). Ensuite, ouvrez KUAL, puis sélectionnez MR Package Installer et lancez l'installation.
 
@@ -171,23 +171,23 @@ Pour l'installer, glissez les fichiers `*.bin` nécessaires dans le dossier raci
 
 #### Online Screensaver
 
-Dernier morceau de magie pour donner vie à notre bidouille : l'extension Online Screensaver, qui va se charger de récupérer notre image, depuis notre serveur web, à intervalles définies préalablement. Sans cette extension, les scripts `cron` ne fonctionnent pas correctement, et le mode veille de la Kindle interfère avec le réseau.
+Dernier morceau de magie pour donner vie à notre bidouille : l'extension Online Screensaver, qui va se charger de récupérer notre image, depuis notre serveur web, à intervalles définies préalablement. Sans cette extension, les scripts `cron` ne fonctionnent pas correctement, et le mode veille de la Kindle interfère avec le réseau.
 
 Téléchargez l'extension [depuis cette page][11] et placez-la dans le dossier `extensions` à la racine de votre Kindle. Il vous faudra ensuite la configurer en modifiant le fichier `onlinescreensaver/bin/config.sh` pour y insérer l'URL du graphe que vous voulez afficher et la fréquence de rafraîchissement.
 
-#### Testons !
+#### Testons !
 
-Et voilà, tout devrait être configuré correctement. Faites un test en lançant une mise à jour du screensaver depuis KUAL > Online Screensaver. Essayez de redémarrer la Kindle, et boum, ça devrait être bon ! ?
+Et voilà, tout devrait être configuré correctement. Faites un test en lançant une mise à jour du screensaver depuis KUAL > Online Screensaver. Essayez de redémarrer la Kindle, et boum, ça devrait être bon ! 😀
 
 [![kindle au mur]({{ site.baseurl }}/assets/IMG_20161204_205043-768x576.jpg "o/")][12]
 
-## Comment ça marche ?
+## Comment ça marche ?
 
 ### Côté serveur
 
 Pour récupérer les données de consommation électriques, j'ai du faire un reverse-engineering léger du site d'Enedis. Il se trouve qu'ils fournissent aux utilisateurs connectés un fichier JSON assez complet et simple à utiliser, paramétrable par date de début et de fin. L'authentification se fait classiquement par un appel à une page de login et la conservation d'un cookie de session.
 
-Vous pouvez retrouver la partie de récupération des données brutes (et la réutiliser dans un autre projet si tel est votre désir !) dans le module Python `linky.py`.
+Vous pouvez retrouver la partie de récupération des données brutes (et la réutiliser dans un autre projet si tel est votre désir !) dans le module Python `linky.py`.
 
 La génération des histogrammes est réalisée par `linky_plot.py`. J'utilise `matplotlib` et le module LaTeX pour réaliser de beaux graphiques. Ce script appelle directement le module décrit précédemment.
 

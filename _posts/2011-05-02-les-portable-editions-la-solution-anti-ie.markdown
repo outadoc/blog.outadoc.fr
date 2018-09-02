@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: Les Portable Editions - La solution anti-IE
+title: "Les Portable Editions : La solution anti-IE"
 author: outadoc
 author_login: outadoc
 author_email: outadoc@gmail.com
@@ -30,8 +30,8 @@ comments:
   date: '2011-05-02 15:00:45 +0100'
   date_gmt: '2011-05-02 14:00:45 +0100'
   content: |-
-    Justement, pas besoin de clé, là est l'astuce ! Juste à installer dans un dossier dans Mes Documents, ou un truc du genre.
-    Sinon t'en as bien de la chance d'avoir des navigateurs décents :p
+    Justement, pas besoin de clé, là est l'astuce ! Juste à installer dans un dossier dans Mes Documents, ou un truc du genre.
+    Sinon t'en as bien de la chance d'avoir des navigateurs décents :p
 - id: 96
   author: qwerty
   author_email: qwerty@legtux.org
@@ -39,7 +39,7 @@ comments:
   date: '2011-05-14 09:12:14 +0100'
   date_gmt: '2011-05-14 08:12:14 +0100'
   content: |-
-    Tu connais framakey ?
+    Tu connais framakey ?
     c'est pour les logiciels libres sur USB.
 - id: 105
   author: Bren
@@ -47,18 +47,18 @@ comments:
   author_url: http://www.brenworld.tk/
   date: '2011-06-03 17:58:16 +0100'
   date_gmt: '2011-06-03 16:58:16 +0100'
-  content: Ou sinon y'a aussi la suite PortableApps... Dans mon lycée, pas
+  content: Ou sinon y'a aussi la suite PortableApps… Dans mon lycée, pas
     moyen d'installer un logiciel quel qu'il soit et avec cette suite j'ai moyen de
     PHPer avec Notepad++ quand je me fais chier au CDI (en plus y'a un p'tit soft
     au design bien classe qui répertorie tous les .exe dans le répertoire
     de PA, c'pratique, t'as juste à ouvrir le truc et à sélectionner
-    le soft à ouvrir :p)...
+    le soft à ouvrir :p)…
 ---
 Dans votre collège/lycée/\[INSÉRER ICI UN ÉTABLISSEMENT\], il est possible que vous n'ayez accès qu'à Internet Explorer pour naviguer sur le Web, voire un Firefox 2.2. Horreur, malheur, pour vous qui êtes un geek invétéré défenseur du libre et tout et tout.
 
 [![]({{ site.baseurl }}/assets/internet-explorer-logo1.jpg "IE")][1]
 
-Vous aimeriez bien utiliser Firefox ou Chrome, par exemple; dommage, dans la plupart des cas vous n'avez pas les droits nécessaires pour installer des logiciels. Heureusement, il y a une solution toute bête, mais pas forcément évidente au premier abord. Utiliser les versions portables de ces navigateurs ! Vous aurez juste à spécifier, lors de l'installation, un dossier sur votre session distante. Vous pourrez même les mettre à jour librement !
+Vous aimeriez bien utiliser Firefox ou Chrome, par exemple; dommage, dans la plupart des cas vous n'avez pas les droits nécessaires pour installer des logiciels. Heureusement, il y a une solution toute bête, mais pas forcément évidente au premier abord. Utiliser les versions portables de ces navigateurs ! Vous aurez juste à spécifier, lors de l'installation, un dossier sur votre session distante. Vous pourrez même les mettre à jour librement !
 
 ## [Télcharger Chrome Portable Edition][2]  
 [Télécharger Firefox Portable Edition][3]

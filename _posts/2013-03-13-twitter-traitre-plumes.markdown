@@ -46,7 +46,7 @@ comments:
     ce genre de truc mais j'y suis trop accroc parce que 1 an et demi de ma vie se
     trouve sur ce site et surtout tous les supers amis que je m'y suis fait. 'Fin
     bref. Faut bien vivre avec (ou alors utiliser les clés d'APIs que tu balance
-    :>)"
+    :>)"
 - id: 526
   author: outadoc
   author_email: outadoc@gmail.com
@@ -66,8 +66,8 @@ comments:
   date: '2013-03-13 18:35:35 +0000'
   date_gmt: '2013-03-13 17:35:35 +0000'
   content: "En général quand je poste sur mon blog c'est justement pour
-    donner mon opinion. :D\r\nHéhé, merci. J'y reste pour les même
-    raisons que toi... c'est triste, mais bon."
+    donner mon opinion. :D\r\nHéhé, merci. J'y reste pour les même
+    raisons que toi… c'est triste, mais bon."
 - id: 528
   author: Noucki
   author_email: pumpkinnoucki@gmail.com
@@ -103,7 +103,7 @@ comments:
   date: '2013-04-01 17:07:26 +0100'
   date_gmt: '2013-04-01 16:07:26 +0100'
   content: Donc toutes les clés sont illimités SAUF les google TV après
-    test :) .
+    test :) .
 - id: 548
   author: Damien Erambert
   author_email: derambert@icloud.com
@@ -131,24 +131,24 @@ Vous le savez, [j'en avais parlé][1] lorsque l'affaire était parue. Twitter a 
 
 [![Die, bitch.]({{ site.baseurl }}/assets/twitter-bird-light-bgs-copie1.png "T'as vu Twitter, je suis pas gentil, j'ai modifié ton logo officiel. Oups.")][2]
 
-Pour résumer, la nouvelle version de cette API (qui est désormais la seule fonctionnelle) repose sur deux points principaux :
+Pour résumer, la nouvelle version de cette API (qui est désormais la seule fonctionnelle) repose sur deux points principaux :
 
 -   Le nombre de requêtes est limité à 60 par heures pour les requêtes de la timeline et l'envoi des tweets
 -   Une application ne peut pas avoir plus de 100000 utilisateurs
 
-Un cadeau pour les utilisateurs, et un cadeau pour les développeurs. Merci Twitter !
+Un cadeau pour les utilisateurs, et un cadeau pour les développeurs. Merci Twitter !
 
-La stratégie derrière tout ça est claire : ces limitations ne s'appliquant qu'aux apps de tierce-partie, les utilisateurs vont, faute de patience, migrer vers l'app officielle de Twitter, sur laquelle ils ont un contrôle total.
+La stratégie derrière tout ça est claire : ces limitations ne s'appliquant qu'aux apps de tierce-partie, les utilisateurs vont, faute de patience, migrer vers l'app officielle de Twitter, sur laquelle ils ont un contrôle total.
 
-Problème : l'app officielle de Twitter, elle est nulle. Absence totale de configuration, aucun choix pour le service d'upload de photos par exemple (obligation de passer par le service extrêmement limité et mal conçu de Twitter), impossible d'afficher les pseudos en place et lieu des "noms réels" -chose que j'ai toujours trouvée débile, étant donné que ce n'est pas avec ce nom qu'on interagit sur Twitter, mais avec le pseudo, interface lente, moche et mal pensée, obligation d'afficher le détail d'un tweet pour interagir avec, etc. Oui, etc, parce que je pourrais continuer pendant longtemps.
+Problème : l'app officielle de Twitter, elle est nulle. Absence totale de configuration, aucun choix pour le service d'upload de photos par exemple (obligation de passer par le service extrêmement limité et mal conçu de Twitter), impossible d'afficher les pseudos en place et lieu des "noms réels" -chose que j'ai toujours trouvée débile, étant donné que ce n'est pas avec ce nom qu'on interagit sur Twitter, mais avec le pseudo, interface lente, moche et mal pensée, obligation d'afficher le détail d'un tweet pour interagir avec, etc. Oui, etc, parce que je pourrais continuer pendant longtemps.
 
 Donc, Twitter, fais bien les choses. Plutôt que de tenter de tuer ceux qui ont contribué à ta réussite, tu ferais mieux de chercher de vraies solutions au problème. Parce que oui, ceux qui utilisent les apps tierces, malheureusement, ce ne sont pas les utilisateurs lambda; et ces utilisateurs-là, ils n'étaient pas sur Twitter il y a deux-trois ans, quand tu en avais encore quelque-chose à foutre d'eux.
 
 Donc voilà, Twitter me gonfle, et je suis trop accro pour le quitter, donc je reste. Comme tout le monde. Comme un mouton. Tant pis pour moi, de toute façon dans la vraie vie, c'est toujours le méchant qui gagne.
 
-En attendant, il y a une solution à ces problèmes d'API : se faire passer pour Twitter. Pour ça, c'est simple, il suffirait de récupérer les clés d'API des apps officielles, qui ne sont, elles, pas bridées. Sauf qu'elles sont secrètes, et que personne ne peut les récupérer...
+En attendant, il y a une solution à ces problèmes d'API : se faire passer pour Twitter. Pour ça, c'est simple, il suffirait de récupérer les clés d'API des apps officielles, qui ne sont, elles, pas bridées. Sauf qu'elles sont secrètes, et que personne ne peut les récupérer…
 
-...oh, mais attendez. Quelqu'un l'a fait.
+…oh, mais attendez. Quelqu'un l'a fait.
 
 > ## Twitter for iPhone
 > 

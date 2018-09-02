@@ -22,7 +22,7 @@ comments:
   date_gmt: '2011-01-03 16:43:27 +0000'
   content: J'adore ^^
 ---
-Comme promis, voici, un peu en retard (on ne laisse pas patienter le nouvel-an... ;) ) le Bob du Week-End ! :D Pour plus d'infos, voyez mon tout premier post.
+Comme promis, voici, un peu en retard (on ne laisse pas patienter le nouvel-an… ;) ) le Bob du Week-End ! :D Pour plus d'infos, voyez mon tout premier post.
 
 [![]({{ site.baseurl }}/assets/bob-0051.jpg "Bob 1")][1]
 

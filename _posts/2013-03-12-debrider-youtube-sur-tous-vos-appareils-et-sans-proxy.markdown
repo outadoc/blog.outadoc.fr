@@ -36,7 +36,7 @@ comments:
   date: '2013-04-19 15:03:55 +0100'
   date_gmt: '2013-04-19 14:03:55 +0100'
   content: "salut merci pour le tuto mais ca minteresse pas confiance ces lignes de
-    code lol\r\n\r\nla meilleure solution que j'ai trouvée cest celle la :
+    code lol\r\n\r\nla meilleure solution que j'ai trouvée cest celle la :
     http://lecrabeinfo.net/debrider-et-accelerer-les-videos-youtube-chez-free-la-solution.html"
 - id: 539
   author: benoxy
@@ -60,8 +60,8 @@ comments:
   author_url: ''
   date: '2013-06-15 07:57:35 +0100'
   date_gmt: '2013-06-15 06:57:35 +0100'
-  content: "Hello, j'y arrive pas... Il me dit que je suis pas root....\r\nSi tu peut
-    me contacter par skype sa serait sympa : getbaackk\r\nMerci"
+  content: "Hello, j'y arrive pas… Il me dit que je suis pas root….\r\nSi tu peut
+    me contacter par skype sa serait sympa : getbaackk\r\nMerci"
 - id: 546
   author: kits
   author_email: arbi.sp23@gmail.com
@@ -94,14 +94,14 @@ comments:
   content: "Je suppose que toutes les commandes font la même chose. Pour ma
     part, je suis plus familier avec iptables, donc ma (faible) experience me permet
     de te dire que c'est valable que sur le device utilisé (si tu le fais sur
-    ton telephone, ça ne s'applique que sur ton téléphone, etc...)\r\nAprès
-    pour la  commande, rien de sorcier :\r\n<code>iptables -A OUTPUT -p 6 -d 173.194.52.0/22
+    ton telephone, ça ne s'applique que sur ton téléphone, etc…)\r\nAprès
+    pour la  commande, rien de sorcier :\r\n<code>iptables -A OUTPUT -p 6 -d 173.194.52.0/22
     -j REJECT --reject-with tcp-reset</code>\r\niptables --> nom du pare feu line\r\n-A
     --> Ajouter une régle\r\nOUTPUT --> nom de la chaine dans la table filter
     d'iptables. Ici on analyse les paquets sortants.\r\n-p 6 --> précise un
-    protocole. Je suppose que c'est TCP\r\n(extrait du man : Protocole de la règle
+    protocole. Je suppose que c'est TCP\r\n(extrait du man : Protocole de la règle
     ou du paquet à vérifier. Le protocole spécifié est
-    l'un des suivants : tcp, udp, icmp ou all, ou bien sous forme d'une valeur numérique,
+    l'un des suivants : tcp, udp, icmp ou all, ou bien sous forme d'une valeur numérique,
     représentant un de ces protocoles ou un protocole différent. )\r\n-d
     173.194.52.0/22 --> s'applique sur toutes les adresses IP de 173.194.52.1 à
     173.194.55.254\r\n-j REJECT --> On bloque\r\n--reject-with --> permet d'envoyer
@@ -114,20 +114,20 @@ comments:
   author_url: http://furtys.me
   date: '2014-06-17 16:24:06 +0100'
   date_gmt: '2014-06-17 15:24:06 +0100'
-  content: "Yop !\r\n\r\nJe pense fortement à un routeur/pare feu ça
-    fonctionnera !\r\n\r\nLes commandes exécutées agissent sur le pare
-    feu interne (celui de Windaube, ipTables pour Unix etc...).\r\nSi ton routeur/pare
+  content: "Yop !\r\n\r\nJe pense fortement à un routeur/pare feu ça
+    fonctionnera !\r\n\r\nLes commandes exécutées agissent sur le pare
+    feu interne (celui de Windaube, ipTables pour Unix etc…).\r\nSi ton routeur/pare
     feu est bien configuré et que tu peux lui ajouter des exceptions, il suffit
     de rejeter la plage d'adresse allant de 173.194.52.1 à 173.194.55.254 pour
     les paquets sortant utilisant le protocole TCP, et normalement ça devrait
     marcher (à confirmer).\r\nPar contre ce qui est bizarre c'est qu'on ne
     redirige jamais la requête vers une autre adresse IP, hors le DNS doit te
-    donner probablement l'@IP d'un des serveurs google (172.194.52.0/22) ...\r\n\r\nEt
+    donner probablement l'@IP d'un des serveurs google (172.194.52.0/22) …\r\n\r\nEt
     ce qui est bizarre, c'est que lors d'un ping vers google ou youtube, je ne tombe
-    jamais sur une des ces adresses ! (sans avoir appliqué la règle,
+    jamais sur une des ces adresses ! (sans avoir appliqué la règle,
     et ayant une freebox derrière mon PC). Et aucun problème pour lire
-    en 1080p d'ici ... Y'aurais-t-il des privilégiés où Free
-    ne renvoie pas vers ces serveurs ?"
+    en 1080p d'ici … Y'aurais-t-il des privilégiés où Free
+    ne renvoie pas vers ces serveurs ?"
 - id: 560
   author: ryancooper73
   author_email: crazy_france_shadow@hotmail.com
@@ -139,9 +139,9 @@ comments:
     d'erreur \"Un problème de lecture s'est produit\" sur l'application YouTube
     quand j'essaie de lire une vidéo. \r\nPouvez vous me fournir la commande
     à entrer dans le terminal qui effacerai celle qui est donnée dans
-    cet article ? Merci"
+    cet article ? Merci"
 ---
-Je vous avais présenté [il y a pas longtemps][1] un site web qui vous permettait de passer par un proxy pour regarder vos vidéos YouTube sans bridage de la part de votre FAI (*ahem* FREE *ahem*). Cependant, le fait de devoir passer par un site web indépendant ainsi que l'instabilité du player qu'il utilisait était peu pratique, et personnellement, je continuais à regarder mes vidéos sur le site officiel et en 480/360p. Surtout sur ma tablette, faute de Flash Player. Pauvre de moi.
+Je vous avais présenté [il y a pas longtemps][1] un site web qui vous permettait de passer par un proxy pour regarder vos vidéos YouTube sans bridage de la part de votre FAI (*ahem* FREE *ahem*). Cependant, le fait de devoir passer par un site web indépendant ainsi que l'instabilité du player qu'il utilisait était peu pratique, et personnellement, je continuais à regarder mes vidéos sur le site officiel et en 480/360p. Surtout sur ma tablette, faute de Flash Player. Pauvre de moi.
 
 [![05512027-photo-logo-free]({{ site.baseurl }}/assets/05512027-photo-logo-free1.png)][2]
 
@@ -149,21 +149,21 @@ SAUF QUE. Korben a publié récemment un article sur son blog avec une astuce po
 
 Oui, je sais, moi non plus j'ai rien compris.
 
-Bref, voici les commandes à taper pour configurer votre firewall et outre-passer cette limitation :
+Bref, voici les commandes à taper pour configurer votre firewall et outre-passer cette limitation :
 
--   Sous **Windows** (avec cmd en mode administrateur) :  
+-   Sous **Windows** (avec cmd en mode administrateur) :  
     `netsh.exe advfirewall firewall add rule name="FREEYT" action=block dir=IN remoteip=173.194.52.0/22`
     
--   Sous **OS X** (en root) :  
+-   Sous **OS X** (en root) :  
     `ipfw add 01337 deny ip from any to 173.194.52.0/22`
     
--   Et le meilleur pour la fin, sous **Linux** et **Android** (si vous avez un accès root) :  
+-   Et le meilleur pour la fin, sous **Linux** et **Android** (si vous avez un accès root) :  
     `iptables -A OUTPUT -p 6 -d 173.194.52.0/22 -j REJECT --reject-with tcp-reset`
     
 
-Je n'ai pas une grande expérience dans les réseaux, mais j'imagine qu'en appliquant cette règle sur votre routeur ou autre, vous pourriez débrider d'un seul coup tous les appareils connectés sur le réseau. Pratique !
+Je n'ai pas une grande expérience dans les réseaux, mais j'imagine qu'en appliquant cette règle sur votre routeur ou autre, vous pourriez débrider d'un seul coup tous les appareils connectés sur le réseau. Pratique !
 
-Et voilà, vous pouvez ENFIN regarder des vidéos en 720p sans trop de problèmes. Il est possible que l'IP des serveurs change, mais d'ici là, vous êtes tranquilles ! ;)
+Et voilà, vous pouvez ENFIN regarder des vidéos en 720p sans trop de problèmes. Il est possible que l'IP des serveurs change, mais d'ici là, vous êtes tranquilles ! ;)
 
 [Source: Korben.info][3]
 

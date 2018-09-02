@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: Regardez ces vidéos ou je tire ! (aka les chaînes YouTube à
+title: Regardez ces vidéos ou je tire ! (aka les chaînes YouTube à
   voir absolument)
 author: outadoc
 author_login: outadoc
@@ -42,7 +42,7 @@ Pour changer, je me suis dit que j'allais vous faire une petite compilation de m
 
 Évidemment, ce sera très subjectif, mais vous trouverez certainement quelque-chose qui vous plaira dans le lot.
 
-Oh, et une note : les vidéos que je regarde sont **quasi-exclusivement en anglais**. Désolé, mais pour moi les meilleurs chaînes ne sont PAS en français, donc non-anglophones s'abstenir (quoique...), il n'y aura **que de l'anglais** dans la liste. :p
+Oh, et une note : les vidéos que je regarde sont **quasi-exclusivement en anglais**. Désolé, mais pour moi les meilleurs chaînes ne sont PAS en français, donc non-anglophones s'abstenir (quoique…), il n'y aura **que de l'anglais** dans la liste. :p
 
 Je vais classer les chaînes par catégories et par ordre de préférence, du meilleur vers le *moins meilleur* (pas de "pire" ici), pour simplifier les choses.
 
@@ -56,7 +56,7 @@ En général, on est assez bien servis en ce qui concerne les vidéos de type co
 
 ### [<em>Tomska</em>](http://youtube.com/user/tomska)
 
-Commençons par une perle : un vidéaste britannique principalement connu pour sa série asdfmovie à l'humour très british. Pensez aussi à visiter la chaîne de [Lil Deuce Deuce](http://youtube.com/user/lildeucedeuce), qui compose la musique pour la plupart des vidéos de Tomska et qui fait un travail incroyable.
+Commençons par une perle : un vidéaste britannique principalement connu pour sa série asdfmovie à l'humour très british. Pensez aussi à visiter la chaîne de [Lil Deuce Deuce](http://youtube.com/user/lildeucedeuce), qui compose la musique pour la plupart des vidéos de Tomska et qui fait un travail incroyable.
 
 <iframe width="634" height="357" src="//www.youtube.com/embed/videoseries?list=SP3A5849BDE0581B19" frameborder="0" allowfullscreen></iframe>
 
@@ -96,7 +96,7 @@ Une bonne façon de trouver une excuse à tout ce temps gâché à regarder des 
 
 ### [<em>VSauce</em>](http://youtube.com/user/vsauce)
 
-Une chaîne sur la science compréhensible par tout le monde et néanmoins extrêmement intéressante, j'ai nommé : VSauce ! Elle aborde des thèmes variés, en vulgarisant et en rendant le tout très agréable à regarder, sur un large panel de thèmes, qu'ils soient physiques ou philosophiques. À noter qu'il existe aussi [VSauce3](http://youtube.com/user/vsauce2">VSauce2</a> et <a href="http://youtube.com/user/vsauce3), avec d'autres présentateurs et d'autres émissions tout aussi passionnantes.
+Une chaîne sur la science compréhensible par tout le monde et néanmoins extrêmement intéressante, j'ai nommé : VSauce ! Elle aborde des thèmes variés, en vulgarisant et en rendant le tout très agréable à regarder, sur un large panel de thèmes, qu'ils soient physiques ou philosophiques. À noter qu'il existe aussi [VSauce3](http://youtube.com/user/vsauce2">VSauce2</a> et <a href="http://youtube.com/user/vsauce3), avec d'autres présentateurs et d'autres émissions tout aussi passionnantes.
 
 <iframe width="634" height="357" src="//www.youtube.com/embed/3pAnRKD4raY" frameborder="0" allowfullscreen></iframe>
 
@@ -116,7 +116,7 @@ Des concepts de la physique expliquées en quelques minutes, grace à des dessin
 
 ### [<em>The Slow Mo Guys</em>](http://youtube.com/user/theslowmoguys)
 
-C'est pas vraiment de la science... mais ça y ressemble, et puis ils ont des blouses et une caméra qui filme à beaucoup, beaucoup de FPS. Autant vous dire qu'au moins, on s'amuse.
+C'est pas vraiment de la science… mais ça y ressemble, et puis ils ont des blouses et une caméra qui filme à beaucoup, beaucoup de FPS. Autant vous dire qu'au moins, on s'amuse.
 
 <iframe width="634" height="357" src="//www.youtube.com/embed/j_OyHUqIIOU" frameborder="0" allowfullscreen></iframe>
 
@@ -141,7 +141,7 @@ En particulier, je vous recommande [Etho](http://youtube.com/user/ethoslab), un 
 
 <iframe width="634" height="357" src="//www.youtube.com/embed/ECAqCkcnOG8" frameborder="0" allowfullscreen></iframe>
 
-Je peux également vous recommander la chaîne de [Guude](http://youtube.com/user/guudeboulderfist), puisqu'en plus d'être à l'origine de Mindcrack, il propose des Let's Play sur quelques autres excellents jeux. Fouillez dans ses playlists !
+Je peux également vous recommander la chaîne de [Guude](http://youtube.com/user/guudeboulderfist), puisqu'en plus d'être à l'origine de Mindcrack, il propose des Let's Play sur quelques autres excellents jeux. Fouillez dans ses playlists !
 
 <iframe width="634" height="357" src="//www.youtube.com/embed/DEaMdQjtqKw?list=SPi72xANOG52BGmAUYbn1mLWfSMOC0ySf7" frameborder="0" allowfullscreen></iframe>
 
@@ -159,6 +159,6 @@ La Yogscast est une équipe de youtubers britanniques très célèbre pour ses v
 
 # TL;DR
 
-Si vous voulez regarder ce qui pourrait vous plaire en une seule fois, j'ai compilé une playlist avec tous les extraits présents sur cette page. Enjoy !
+Si vous voulez regarder ce qui pourrait vous plaire en une seule fois, j'ai compilé une playlist avec tous les extraits présents sur cette page. Enjoy !
 
 <iframe width="634" height="357" src="//www.youtube.com/embed/videoseries?list=PLi4uWHwULKsjfsp-cn-9OMQeS86yxlzEg" frameborder="0" allowfullscreen></iframe>

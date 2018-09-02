@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: 'WolfTeam: un FPS tiré par les poils'
+title: 'WolfTeam : un FPS tiré par les poils'
 author: outadoc
 author_login: outadoc
 author_email: outadoc@gmail.com
@@ -39,16 +39,16 @@ Si vous aimez les jeux vidéo, et en particulier les FPS, celui-ci pourrait peut
 
 [![]({{ site.baseurl }}/assets/1247049438_wolfteam1.png "WolfTeam")][1]
 
-WolfTeam est un FPS multijoueur en ligne, et gratuit. La communauté est assez grande, vous ne serez pas seul sur les serveurs... :P
+WolfTeam est un FPS multijoueur en ligne, et gratuit. La communauté est assez grande, vous ne serez pas seul sur les serveurs… :P
 
-L'originalité de ce jeu repose sur le fait que vous pouvez être soit un humain, soit un loup, et surtout que vous pouvez jongler entre les deux très facilement, en "mutant". Il peut donc y avoir des combats homme/loup si vous le souhaitez... ;)
+L'originalité de ce jeu repose sur le fait que vous pouvez être soit un humain, soit un loup, et surtout que vous pouvez jongler entre les deux très facilement, en "mutant". Il peut donc y avoir des combats homme/loup si vous le souhaitez… ;)
 
-Par ailleurs, WolfTeam comporte une boutique d'armes et d'autres trucs, parfois franchement inutiles (nan, mais un tatouage, franchement... :) ). Par contre, les articles s'échangent contre de l'argent, bien réel, lui. Certains seront donc bien avantagés dans le jeu et progresseront plus vite parce qu'ils ont de l'argent à dépenser. C'est un des points les plus négatifs du jeu.
+Par ailleurs, WolfTeam comporte une boutique d'armes et d'autres trucs, parfois franchement inutiles (nan, mais un tatouage, franchement… :) ). Par contre, les articles s'échangent contre de l'argent, bien réel, lui. Certains seront donc bien avantagés dans le jeu et progresseront plus vite parce qu'ils ont de l'argent à dépenser. C'est un des points les plus négatifs du jeu.
 
-Un autre problème également, les bugs. Il est parfois assez embêtant d'être déconnecté d'une partie, "à cause de problèmes de réseau" dixit le jeu. Handicapant. Arrivent également des chargements de parties infinis, où un Ctrl-Alt-Suppr s'impose...
+Un autre problème également, les bugs. Il est parfois assez embêtant d'être déconnecté d'une partie, "à cause de problèmes de réseau" dixit le jeu. Handicapant. Arrivent également des chargements de parties infinis, où un Ctrl-Alt-Suppr s'impose…
 
 Les graphismes, eux, sont plutôt bons. Je ne parle pas des performances graphiques réellement, je ne m'y connais pas assez pour critiquer. Mais la modélisation 3D et les textures sont plutôt agréables à l'oeil.
 
-Donc je mettrais bien un... **7,5/10**. Les bugs sont quand même très dérangeants, et le jeu devient vite lassant, malgré plusieurs modes de jeu.
+Donc je mettrais bien un… **7,5/10**. Les bugs sont quand même très dérangeants, et le jeu devient vite lassant, malgré plusieurs modes de jeu.
 
 [1]: {{ site.baseurl }}/assets/1247049438_wolfteam1.png

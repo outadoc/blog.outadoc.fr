@@ -21,7 +21,7 @@ comments:
   date_gmt: '2011-01-14 13:55:45 +0000'
   content: Yahaaaaaa trop style ce bob
 ---
-Le Bob nouveau est arrivé ! Il a un peu de mal à se retrouver dans ses chiffres significatifs.
+Le Bob nouveau est arrivé ! Il a un peu de mal à se retrouver dans ses chiffres significatifs.
 
 [![]({{ site.baseurl }}/assets/bob-001-300x1771.jpg "Bob")][1]*Bob fait ses maths.*
 

@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: Sortie de FreeStance et SkinSwitch sur iOS !
+title: Sortie de FreeStance et SkinSwitch sur iOS !
 author: outadoc
 author_login: outadoc
 author_email: outadoc@gmail.com
@@ -30,32 +30,32 @@ comments:
   author_url: ''
   date: '2012-05-24 17:29:52 +0100'
   date_gmt: '2012-05-24 16:29:52 +0100'
-  content: Très beau/bon travail ! Félicitation !
+  content: Très beau/bon travail ! Félicitation !
 ---
-Oyez, oyez ! FreeStance et SkinSwitch sont arrivées !
+Oyez, oyez ! FreeStance et SkinSwitch sont arrivées !
 
 ![]({{ site.baseurl }}/assets/outadev1.png "outa[dev]")
 
-Vous en avez peut-être déjà entendu parler (sur [mon twitter][1] par exemple), mes deux premières applications iPhone sont sorties il y a peu !
+Vous en avez peut-être déjà entendu parler (sur [mon twitter][1] par exemple), mes deux premières applications iPhone sont sorties il y a peu !
 
 # FreeStance
 
-Marre de ne jamais retrouver cette encombrante télécommande ? Marre de devoir utiliser différentes télécommandes pour la Freebox de votre salon et celle de votre chambre ? Grâce à FreeStance, vous pourrez contrôler toutes vos Freebox dans une superbe application.
+Marre de ne jamais retrouver cette encombrante télécommande ? Marre de devoir utiliser différentes télécommandes pour la Freebox de votre salon et celle de votre chambre ? Grâce à FreeStance, vous pourrez contrôler toutes vos Freebox dans une superbe application.
 
 [![]({{ site.baseurl }}/assets/12.png "FreeStance2")][3]
 
 FreeStance a été conçue pour allier facilité d'utilisation, ergonomie de l'interface, fonctionnalité et prix abordable.
 
-Grâce aux fonctionnalités innovantes de FreeStance, vous pourrez...
+Grâce aux fonctionnalités innovantes de FreeStance, vous pourrez…
 
 -   Contrôler jusqu'à trois Freebox différentes, et passer de l'une à l'autre en un seul toucher;
 -   Accéder à toutes les chaînes gratuites du bouquet Freebox sans aucun souci grâce à une grille, sans avoir à parcourir la liste des chaînes sur votre télévision;
 -   Consulter le programme TV, pour savoir quoi regarder en un coup d'oeil;
 -   Partager les programmes intéressants avec le reste du monde, grâce à l'intégration de Twitter dans iOS 5.
 
-FreeStance est dès à présent disponible dans l'App Store, et pour seulement 0,79€ !
+FreeStance est dès à présent disponible dans l'App Store, et pour seulement 0,79€ !
 
-## [Télécharger FreeStance][4] (0,79€)
+## [Télécharger FreeStance][4] (0,79€)
 
 # SkinSwitch pour Minecraft
 
@@ -65,13 +65,13 @@ SkinSwitch est le gestionnaire de skins Minecraft sur iOS le plus simple qui pui
 
 1.  Renseignez vos identifiants minecraft.net dans l'application (ne vous en faites pas, ils ne seront pas utilisés pour autre-chose que le changement de votre skin)
 2.  Entrez autant de skins que vous le souhaitez dans l'application, en les récupérant depuis le pseudo de joueurs qui le portent déjà, ou en les téléchargeant depuis leur URL
-3.  la liste de tous vos skins apparaît sur la page principale; vous n'avez plus qu'à taper sur **un **bouton pour que votre skin soit changé.
+3.  la liste de tous vos skins apparaît sur la page principale; vous n'avez plus qu'à taper sur **un **bouton pour que votre skin soit changé.
 
-Si vous souhaitez me soutenir, vous pouvez [faire un don][7] (lien également présent dans l'app).
+Si vous souhaitez me soutenir, vous pouvez [faire un don][7] (lien également présent dans l'app).
 
-Une [version web de SkinSwitch][8] a été créée par [EphysPotato][9] : cliquez ici pour y accéder.
+Une [version web de SkinSwitch][8] a été créée par [EphysPotato][9] : cliquez ici pour y accéder.
 
-## [Télécharger SkinSwitch][10] (gratuit)
+## [Télécharger SkinSwitch][10] (gratuit)
 
 [1]: http://twitter.com/outadoc
 [2]: {{ site.baseurl }}/assets/02.png

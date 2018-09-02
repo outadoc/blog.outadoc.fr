@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: Changez facilement vos skins Minecraft sur Android avec SkinSwitch !
+title: "Changez facilement vos skins Minecraft sur Android avec SkinSwitch !"
 author: outadoc
 author_login: outadoc
 author_email: outadoc@gmail.com
@@ -23,15 +23,15 @@ tags:
 - skin manager
 comments: []
 ---
-Oyez, oyez ! C'est la release du début d'année !
+Oyez, oyez ! C'est la release du début d'année !
 
-SkinSwitch est maintenant [disponible sur Android][1], avec le support des nouveaux formats de skin de Minecraft 1.8, toutes les fonctionnalités de la version iOS (pour l'instant plus à jour), et bien plus encore !
+SkinSwitch est maintenant [disponible sur Android][1], avec le support des nouveaux formats de skin de Minecraft 1.8, toutes les fonctionnalités de la version iOS (pour l'instant plus à jour), et bien plus encore !
 
 ![SkinSwitch launch screenshots]({{ site.baseurl }}/assets/skinswitch_launch_combined.png)
 
 SkinSwitch est disponible pour tous les appareils sous Android 4.0+, et vous propose de nombreuses fonctionnalités pour stocker, organiser et utiliser vos skins.
 
-Vous pouvez ajouter vos propres skins dans l'application, ou en chercher de nouveaux parmi ceux envoyés sur [Skin Manager][2]. Une fois vos skins répertoriés, vous pouvez les envoyer sur votre profil Minecraft pour les porter en un seul appui : tapez pendant une seconde sur votre skin, et c'est bon !
+Vous pouvez ajouter vos propres skins dans l'application, ou en chercher de nouveaux parmi ceux envoyés sur [Skin Manager][2]. Une fois vos skins répertoriés, vous pouvez les envoyer sur votre profil Minecraft pour les porter en un seul appui : tapez pendant une seconde sur votre skin, et c'est bon !
 
 SkinSwitch est disponible gratuitement, dès maintenant, sur le [Google Play Store][1], en français et en anglais.
 
