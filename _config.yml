@@ -25,13 +25,18 @@ github_username:  outadoc
 permalink: /:year/:month/:title/
 show_excerpts: true
 
+theme: minima
+
+paginate: 3
+paginate_path: /page/:num/
+
 # Build settings
 markdown: kramdown
-theme: jekyll-swiss
-theme_color: orange
+
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-paginate
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
