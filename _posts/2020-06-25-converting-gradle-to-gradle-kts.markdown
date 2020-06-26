@@ -2,7 +2,7 @@
 layout: post
 published: true
 title: "Converting your Gradle build files to the Kotlin DSL"
-date: '2020-06-25 21:45:00 +0200'
+date: '2020-06-26 21:45:00 +0200'
 categories:
 - Android
 tags:
