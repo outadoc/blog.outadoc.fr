@@ -27,8 +27,11 @@ show_excerpts: true
 
 theme: minima
 
-paginate: 3
-paginate_path: /page/:num/
+pagination:
+  enabled: true
+  per_page: 3
+  sort_reverse: true
+  permalink: '/page/:num/'
 
 # Build settings
 markdown: kramdown
@@ -36,7 +39,7 @@ markdown: kramdown
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
-  - jekyll-paginate
+  - jekyll-paginate-v2
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
