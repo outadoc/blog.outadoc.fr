@@ -21,6 +21,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: outadoc
 github_username:  outadoc
+linkedin_username: bcandellier
 
 permalink: /:year/:month/:title/
 show_excerpts: true
