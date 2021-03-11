@@ -1,7 +1,7 @@
 FROM jekyll/builder
 WORKDIR /out
 
-COPY --chown=jekyll:jekyll . .
+COPY . .
 RUN bundle install
 RUN jekyll build
 
