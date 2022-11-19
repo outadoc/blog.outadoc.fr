@@ -23,7 +23,7 @@ twitter_username: outadoc
 github_username:  outadoc
 linkedin_username: bcandellier
 
-permalink: /:year/:month/:title
+permalink: /:year/:month/:title/
 show_excerpts: true
 
 theme: minima
