@@ -11,7 +11,7 @@ source "https://rubygems.org"
 
 gem "jekyll", "~> 3.9.2"
 gem "minima", "~> 2.5.1"
-gem "kramdown", "~> 2.3.2"
+gem "kramdown", "~> 2.4.0"
 gem "kramdown-parser-gfm", "~> 1.1.0"
 
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
