@@ -5,5 +5,5 @@ COPY . .
 RUN bundle install
 RUN jekyll build
 
-FROM nginx:1.18-alpine
+FROM nginx:1.23-alpine
 COPY --from=0 /usr/src/app/_site /usr/share/nginx/html
