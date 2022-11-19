@@ -1,4 +1,4 @@
-FROM ruby:2.5
+FROM ruby:2.7
 RUN gem update --system
 WORKDIR /usr/src/app
 COPY . .
