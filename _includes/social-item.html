@@ -1,0 +1,9 @@
+<li>
+    <a rel="me" href="{{ entry.user_url }}" target="_blank" title="{{ entry.platform }}">
+      <svg class="svg-icon grey">
+        <use xlink:href="{{ '/assets/minima-social-icons.svg#' | append: entry.platform | relative_url }}"></use>
+      </svg>
+      {{ entry.title }}
+    </a>
+  </li>
+  
