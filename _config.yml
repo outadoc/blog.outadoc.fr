@@ -20,7 +20,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: outadoc
-github_username:  outadoc
+github_username: outadoc
 linkedin_username: bcandellier
 
 permalink: /:year/:month/:title/
@@ -28,11 +28,8 @@ show_excerpts: true
 
 theme: minima
 
-pagination:
-  enabled: true
-  per_page: 3
-  sort_reverse: true
-  permalink: '/page/:num/'
+paginate: 3
+paginate_path: /page/:num/
 
 # Build settings
 markdown: kramdown
@@ -40,7 +37,7 @@ markdown: kramdown
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
-  - jekyll-paginate-v2
+  - jekyll-paginate
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
