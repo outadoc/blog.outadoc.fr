@@ -38,10 +38,6 @@ minima:
       title: GitHub
       user_url: "https://github.com/outadoc"
 
-    - platform: twitter
-      title: Twitter
-      user_url: "https://twitter.com/outadoc"
-
     - platform: mastodon
       title: Mastodon
       user_url: "https://mastodon.social/@outadoc"
